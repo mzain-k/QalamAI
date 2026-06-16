@@ -1,0 +1,6 @@
+.env
+hackathon-env/
+__pycache__/
+*.pyc
+.gradio/
+*.pdf
