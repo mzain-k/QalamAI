@@ -1,0 +1,517 @@
+[
+  {
+    "paper_version": "20081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "1",
+    "content_type": "exercise_mcq",
+    "english_text": "Which of the following is a radical equation?",
+    "urdu_text": "درج شدہ میں سے کونسی جذری مساوات ہے ؟",
+    "options": [
+      "√3x+1=0",
+      "√x+√2=0",
+      "2x+√3=0",
+      "√2x+3=0"
+    ]
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "2",
+    "content_type": "exercise_mcq",
+    "english_text": "If a and b are roots of 4x²-3x+7=0 then value of 1/a + 1/b is:",
+    "urdu_text": "اگر a اور b مساوات 4x²-3x+7=0 کے روٹس ہوں تو 1/a + 1/b کی قیمت کیا ہوگی؟",
+    "options": [
+      "-3/7",
+      "7/7",
+      "-3/4",
+      "3/7"
+    ]
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "3",
+    "content_type": "exercise_mcq",
+    "english_text": "If 2a +1 : 21 :: 4 : 7 then a =",
+    "urdu_text": "اگر 2a+1 : 21 :: 4 : 7 تو a برابر ہے:",
+    "options": [
+      "13",
+      "11",
+      "10",
+      "9/2"
+    ]
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "4",
+    "content_type": "exercise_mcq",
+    "english_text": "1 / (x²-1) =",
+    "urdu_text": "",
+    "options": [
+      "1/(x+1) - 1/(x-1)",
+      "1/2(x+1) - 1/2(x-1)",
+      "1/2(x-1) - 1/2(x+1)",
+      "(x-1)+2(x+1)"
+    ]
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "5",
+    "content_type": "exercise_mcq",
+    "english_text": "From the given figure f is:",
+    "urdu_text": "دی گئی شکل کے مطابق f کیا ہے ؟",
+    "options": [
+      "Bijective / بائی جیکٹو تفاعل",
+      "Into function / ان ٹو تفاعل",
+      "Onto function / آن تو تفاعل",
+      "Not a function / تفاعل نہیں ہے"
+    ]
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "8",
+    "content_type": "exercise_mcq",
+    "english_text": "If n(X) = t then number of binary relations in X x X is:",
+    "urdu_text": "اگر n(X) = t تو X x X میں کتنے ثنائی روابط ہونگے ؟",
+    "options": [
+      "2t",
+      "2^t",
+      "2^(t^2)",
+      "2^(2t)"
+    ]
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "12",
+    "content_type": "exercise_mcq",
+    "english_text": "Central angle of minor arc of a circle is always:",
+    "urdu_text": "ایک دائرہ کی قوس صغیرہ کا ہمیشہ مرکزی زاویہ ہوتا ہے۔",
+    "options": [
+      "< 90°",
+      "< 180°",
+      "> 90°",
+      "> 180°"
+    ]
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "13",
+    "content_type": "exercise_mcq",
+    "english_text": "Interior angle of a regular hexagon is:",
+    "urdu_text": "ایک با قاعدہ مسدس کا اندرونی زاویہ کتنا ہوتا ہے ؟",
+    "options": [
+      "90°",
+      "108°",
+      "120°",
+      "135°"
+    ]
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "14",
+    "content_type": "exercise_mcq",
+    "english_text": "The roots of the equation x²-8x+16=0 are:",
+    "urdu_text": "مساوات x²-8x+16=0 کے روٹس کسی قسم کے ہیں؟",
+    "options": [
+      "Rational and unequal / ناطق اور نابرابر",
+      "Rational and equal / ناطق اور برابر",
+      "Imaginary and equal / غیر حقیقی اور برابر",
+      "Irrational and equal / غیر ناطق اور برابر"
+    ]
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "1",
+    "content_type": "exercise_mcq",
+    "english_text": "Solution set of x + 1/x = 2 is:",
+    "urdu_text": "x + 1/x = 2 کا حل سیٹ ہے:",
+    "options": [
+      "{1}",
+      "{-1}",
+      "{-1,1}",
+      "{0}"
+    ]
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "2",
+    "content_type": "exercise_mcq",
+    "english_text": "If ω is cube root of unity, then ω^-18 is equal to:",
+    "urdu_text": "اگر ω اکائی کا جذر المکعب ہے تو ω^-18 کس کے برابر ہو گا؟",
+    "options": [
+      "ω",
+      "ω²",
+      "1",
+      "0"
+    ]
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "4",
+    "content_type": "exercise_mcq",
+    "english_text": "Root of the equation 12x²+x-20 = 0 are:",
+    "urdu_text": "مساوات 12x²+x-20 = 0 کے روٹس کسی قسم کے ہونگے ؟",
+    "options": [
+      "Imaginary / غیر حقیقی",
+      "Rational / ناطق",
+      "Equal / برابر",
+      "Irrational / غیر ناطق"
+    ]
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "7",
+    "content_type": "exercise_mcq",
+    "english_text": "If the arithmetic mean of 25 values is 10, then what is sum of values?",
+    "urdu_text": "اگر 25 مقداروں کا حسابی اوسط 10 ہو تو مقداروں کا مجموعہ کیا ہو گا؟",
+    "options": [
+      "250",
+      "125",
+      "25",
+      "2.5"
+    ]
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "8",
+    "content_type": "exercise_mcq",
+    "english_text": "What is the harmonic mean of a and b?",
+    "urdu_text": "a اور b کا ہم آہنگ اوسط کیا ہو گا ؟",
+    "options": [
+      "2ab / (a+b)",
+      "√ab",
+      "(a+b) / 2",
+      "(a+b) / 2ab"
+    ]
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "9",
+    "content_type": "exercise_mcq",
+    "english_text": "Central angle of a semicircle is:",
+    "urdu_text": "ایک نیم دائرہ کا مرکزی زاویہ کیا ہو گا؟",
+    "options": [
+      "< 90°",
+      "= 90°",
+      "= 180°",
+      "> 180°"
+    ]
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "11",
+    "content_type": "exercise_mcq",
+    "english_text": "Transverse common tangents intersect each other at:",
+    "urdu_text": "معکوس مشترک حماس کتنے نقاط پر ایک دوسرے کو قطع کرتے ہیں؟",
+    "options": [
+      "1 point",
+      "2 points",
+      "3 points",
+      "4 points"
+    ]
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "12",
+    "content_type": "exercise_mcq",
+    "english_text": "If α, β are roots of x²-5x+2=0 then sum of roots 2α and 2β is:",
+    "urdu_text": "اگر α, β مساوات x²-5x+2=0 کے روٹس ہوں تو 2α اور 2β روٹس کا مجموعہ کیا ہو گا؟",
+    "options": [
+      "10",
+      "-10",
+      "4",
+      "-4"
+    ]
+  },
+ [
+  {
+    "paper_version": "20081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(i)",
+    "content_type": "exercise_question",
+    "english_text": "Solve by using Quadratic formula: (2-x)x = 2-3",
+    "urdu_text": "دو درجی فارمولہ کی مدد سے حل کریں۔ (2-x)x = 2-3",
+    "or_option": {
+      "english_text": "Show that 4x² + 5x + 1 = 0",
+      "urdu_text": "ثابت کریں کہ : 4x² + 5x + 1 = 0"
+    }
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(ii)",
+    "content_type": "exercise_question",
+    "english_text": "For given sets verify that (P-Q)' = P' ∪ Q. U = {1,2,3,...10}, P = {2,3,4,5,8}, Q = {1,3,5,7,9}",
+    "urdu_text": "دیے گئے سیٹوں کے لیے ثابت کریں کہ (P-Q)' = P' ∪ Q"
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(iii)",
+    "content_type": "exercise_question",
+    "english_text": "Resolve into partial fractions: (3x+7) / (x²+4)(x+3)",
+    "urdu_text": "جزوی کسروں میں تحلیل کریں۔"
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(iv)",
+    "content_type": "exercise_question",
+    "english_text": "Compute arithmetic mean by taking A = 25. Class: 0-10, 10-20, 20-30, 30-40, 40-50. Frequency: 3, 2, 6, 5, 4.",
+    "urdu_text": "حسابی اوسط معلوم کریں جبکہ A = 25"
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(v)",
+    "content_type": "exercise_question",
+    "english_text": "Prove that \"If the angles subtended by two chords of a circle (or congruent circles) at the center (corresponding centers) are equal, the chords are equal.\"",
+    "urdu_text": "ثابت کریں دو متماثل دائروں یا ایک دائرہ میں اگر دو مرکزی زاویے مقدار میں برابر ہوں تو ان زاویوں کو بنانے والے وتر لمبائی میں برابر ہوتے ہیں۔",
+    "or_option": {
+      "english_text": "If α, β are roots of given equation x²-3x+6=0, then form an equation whose roots are α²β, αβ²",
+      "urdu_text": "اگر α, β دی گئی مساوات کے روٹس ہوں تو ایک مساوات بنائیں جس کے روٹس α²β, αβ² ہوں"
+    }
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(vi)",
+    "content_type": "exercise_question",
+    "english_text": "Solve: 4(2^{2x+1}) - 9(2^x) + 1 = 0",
+    "urdu_text": "حل کریں۔",
+    "or_option": {
+      "english_text": "Resolve into partial fractions: (2x-1) / (x+2)(x-3)",
+      "urdu_text": "جزوی کسروں میں تحلیل کریں۔"
+    }
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(vii)",
+    "content_type": "exercise_question",
+    "english_text": "If terminal arm of θ lies in 4th quadrant and sinθ = -3/5 then find values of remaining trigonometric ratios.",
+    "urdu_text": "اگر زاویہ کا اختتامی بازو چوتھے ربع میں ہو اور sinθ = -3/5 تو باقی تکونیاتی تفاعل کی قیمتیں معلوم کریں۔",
+    "or_option": {
+      "english_text": "By using componendo-dividendo theorem, prove that a:b = c:d if (a²+b²) / (a²-b²) = (ac+bd) / (ac-bd)",
+      "urdu_text": "مسئلہ ترکیب و تفصیل نسبت سے ثابت کریں کہ a : b = c : d اگر ..."
+    }
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(viii)",
+    "content_type": "exercise_question",
+    "english_text": "Find standard deviation (S) by direct method. Roll No: 1, 2, 3, 4. Marks: 60, 70, 40, 50.",
+    "urdu_text": "براہ راست طریقے سے معیاری انحراف (S) معلوم کریں۔",
+    "or_option": {
+      "english_text": "Find Harmonic Mean of data. Class: 31-40, 41-50, 51-60, 61-70, 71-80. Frequency: 28, 18, 10, 14, 30.",
+      "urdu_text": "دیے گئے مواد کا ہم آہنگ اوسط معلوم کریں۔"
+    }
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(ix)",
+    "content_type": "exercise_question",
+    "english_text": "Prove that any two angles in the same segment of a circle are equal.",
+    "urdu_text": "ثابت کریں زاویے جو ایک ہی قطعہ دائرہ میں واقع ہوں، باہم برابر ہوتے ہیں۔",
+    "or_option": {
+      "english_text": "Verify that 1/(secθ - tanθ) = secθ + tanθ",
+      "urdu_text": "پڑتال کریں۔"
+    }
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section C - Long Answer Questions",
+    "question_number": "3",
+    "content_type": "exercise_question",
+    "english_text": "Verify De Morgan's laws: U = {x | x ∈ N ^ 1 ≤ x ≤ 10}, P = {x | x ∈ E ^ 1 < x ≤ 10}, Q = {x | x ∈ P ^ 1 < x < 10}",
+    "urdu_text": "ڈی مورگن قوانین کی پڑتال کریں۔",
+    "or_option": {
+      "english_text": "Solve simultaneous equations: x² + y² = 20, 6x² + xy - y² = 0",
+      "urdu_text": "دی گئی ہمزاد مساواتوں کو حل کریں۔"
+    }
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section C - Long Answer Questions",
+    "question_number": "4",
+    "content_type": "exercise_question",
+    "english_text": "Prove that If two circles touch each other internally, then the point of contact lies on the line segment through their centers and distance between their centers is equal to difference of their radii.",
+    "urdu_text": "ثابت کریں کہ اگر دو دائرے ایک دوسرے کو اندرونی طور پر مس کریں تو ان کا نقطہ مماس ان کے مراکز کو ملانے والا خط پر واقع ہوتا ہے اور ان کے مراکز کا درمیانی فاصلہ ان کے رداسوں کے فرق کے برابر ہوتا ہے۔",
+    "or_option": {
+      "english_text": "Construct two intersecting circles of radii 3.5cm and 4.5cm whose centers are 6cm apart. Also draw two direct common tangents to circles. Also write steps of construction.",
+      "urdu_text": "دو دائرے کھینچیں جن کے رداس 3.5 سم اور 4.5 سم ہیں اگر ان کے مراکز کا درمیانی فاصلہ 6 سم ہو تو دو راست مشترک مماس کھینچیں۔ تشکیل عمل بھی لکھیں۔"
+    }
+  },
+  {
+    "paper_version": "20081",
+    "section": "Section C - Long Answer Questions",
+    "question_number": "5",
+    "content_type": "exercise_question",
+    "english_text": "Prove that, In any triangle, the square on the side opposite to the acute angle is equal to sum of the squares on the sides containing that acute angle diminished by twice the rectangle contained by one of those sides and projection on it of the other.",
+    "urdu_text": "ثابت کریں کہ کسی مثلث میں حادہ زاویہ کے متقابل ضلع کا مربع باقی دو اضلاع کے مربعوں کے مجموعے سے کم دو چند مستطیلی رقبہ جو ان دو اضلاع میں سے ایک اور اس پر دوسرے کے ظل سے بنتا ہے، کے برابر ہوتا ہے۔",
+    "or_option": {
+      "english_text": "A man standing on a bridge 40 feet high above a river watching a boat moving towards him. If the angle with horizontal to front of boat is 45° and angle of back is 30°. Find the length of boat.",
+      "urdu_text": "ایک آدمی دریا کی سطح سے 40 فٹ کی بلندی پر ایک پل پر کھڑے دریا میں تیرتی کشتی اپنی طرف آتی ہوئی دیکھ رہا ہے۔ اگر کشتی کے اگلے سرے کے ساتھ زاویہ 45° اور پچھلے سرے کا زاویہ 30° ہو تو کشتی کی لمبائی معلوم کریں۔"
+    }
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(i)",
+    "content_type": "exercise_question",
+    "english_text": "Solve by using Quadratic formula: (4 + x) = (2 - x²)",
+    "urdu_text": "دو درجی فارمولہ کی مدد سے حل کریں۔",
+    "or_option": {
+      "english_text": "Solve simultaneous equations: 2x + y = 1, x² + y = 10",
+      "urdu_text": "دی گئی ہمزاد مساواتیں حل کریں۔"
+    }
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(ii)",
+    "content_type": "exercise_question",
+    "english_text": "If α, β are roots of given equation then find value of (α-β)² for x²-8x+20=0",
+    "urdu_text": "اگر α, β دی گئی مساوات کے روٹس ہوں تو (α - β)² کی قیمت معلوم کریں۔",
+    "or_option": {
+      "english_text": "Given are marks of five students. Find the variance (s²) by direct formula. Roll No: 1, 2, 3, 4, 5. Marks: 60, 70, 40, 50, 30.",
+      "urdu_text": "دیا گیا مواد پانچ طالب علموں کے نمبر ہیں۔ براہ راست طریقہ سے تغیریت (s²) معلوم کریں۔"
+    }
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(iii)",
+    "content_type": "exercise_question",
+    "english_text": "Using componendo-dividendo property to prove that a:b = c:d if (5a+7b)/(5a-7b) = (5c+7d)/(5c-7d)",
+    "urdu_text": "مسئلہ ترکیب و تفصیل نسبت سے ثابت کریں کہ a:b = c:d",
+    "or_option": {
+      "english_text": "Resolve into partial fractions: (7x+4) / (3x+2)(x+1)²",
+      "urdu_text": "جزوی کسروں میں تحلیل کریں۔"
+    }
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(iv)",
+    "content_type": "exercise_question",
+    "english_text": "For given sets verify that (A - B) = A ∩ B'. U = {1,2,3...10}, A = {1,3,5,7,9}, B = {2,3,4,5,8}",
+    "urdu_text": "دیے گئے سیٹس کے لیے پڑتال کریں کہ (A-B) = A ∩ B'",
+    "or_option": {
+      "english_text": "If v ∝ r³ and v = 5 when r = 3. Find value of v when r = 6",
+      "urdu_text": "اگر v ∝ r³ اور v = 5 جب r = 3 ہے۔ تو v کی قیمت معلوم کریں جب r = 6 ہو تو :"
+    }
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(v)",
+    "content_type": "exercise_question",
+    "english_text": "Find geometric mean for the following data: Marks 80-71, 70-61, 60-51, 50-41, 40-31. f: 28, 30, 10, 8, 4.",
+    "urdu_text": "اقلیدسی اوسط معلوم کریں۔",
+    "or_option": {
+      "english_text": "Verify that 1/(1-cosθ) + 1/(1+cosθ) = 2cosec²θ",
+      "urdu_text": "پڑتال کریں کہ :"
+    }
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(vi)",
+    "content_type": "exercise_question",
+    "english_text": "Solve: x^{2/3} + x^{1/3} - 6 = 0",
+    "urdu_text": "حل کریں۔",
+    "or_option": {
+      "english_text": "Prove that \"Perpendicular from the center of a circle on a chord bisects it.\"",
+      "urdu_text": "ثابت کریں کہ دائرے کے مرکز سے کسی وتر پر عمود، اس کی تنصیف کرتا ہے۔"
+    }
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(vii)",
+    "content_type": "exercise_question",
+    "english_text": "Solve using synthetic division if 2 is root of x³ + x² - 7x + 2 = 0",
+    "urdu_text": "اگر 2 دی گئی مساوات کا روٹ ہو تو بذریعہ ترکیبی تقسیم حل کریں۔",
+    "or_option": {
+      "english_text": "Resolve into partial fractions: (11x-6) / (x+2)(x²+3)",
+      "urdu_text": "جزوی کسروں میں تحلیل کریں۔"
+    }
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(viii)",
+    "content_type": "exercise_question",
+    "english_text": "If terminal arm of θ lies in 2nd quadrant and sinθ = 3/4, find remaining trigonometric ratios.",
+    "urdu_text": "اگر زاویہ کا اختتامی بازو دوسرے ربع میں ہو اور sinθ = 3/4 ہو تو باقی تکونیاتی تفاعل کی قیمتیں معلوم کریں۔",
+    "or_option": {
+      "english_text": "Find the distance between the center's A and B if AD=6cm, CD=4cm, BD=5cm.",
+      "urdu_text": "دی گئی شکل میں مرکزی نقاط A اور B کے درمیان فاصلہ معلوم کریں۔"
+    }
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(ix)",
+    "content_type": "exercise_question",
+    "english_text": "For given sets find R, also write domain and range. R = {(x,y) | x+y ∈ O}, A = {1,2,4,8}, B = {3,9}",
+    "urdu_text": "دیے گئے سیٹوں کے لیے R معلوم کریں نیز ڈومین اور رینج بھی معلوم کریں۔",
+    "or_option": {
+      "english_text": "Prove that if two chords of a circle are equal then they subtend equal angles at the centre.",
+      "urdu_text": "ثابت کریں کہ دو متماثل دائروں (یا ایک ہی دائرہ میں ) اگر دو وتر لمبائی میں برابر ہوں تو ان سے بننے والے مرکزی زاویے مقدار میں برابر ہوتے ہیں۔"
+    }
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section C - Long Answer Questions",
+    "question_number": "3",
+    "content_type": "exercise_question",
+    "english_text": "Two men on opposite sides of a tree are in line with it. They observe that angles of elevation of top of tree are 30° and 60°. The height of tree is 15m. Find distance between men.",
+    "urdu_text": "ایک درخت کی مخالف اطراف دو آدمی اس کے ساتھ قطار میں ہیں۔ وہ دیکھتے ہیں کہ درخت کے زاویہ صعود 30° اور 60° ہیں۔ درخت کی بلندی 15m ہے ۔ دونوں آدمیوں کے درمیان فاصلہ معلوم کریں۔",
+    "or_option": {
+      "english_text": "Prove that if two circles touch externally then the distance between their centers is equal to the sum of their radii.",
+      "urdu_text": "ثابت کریں اگر دو دائرے ایک دوسرے کو بیرونی طور پر مس کرتے ہوں تو ان کے مراکز کا درمیانی فاصلہ ان کے رداسوں کے مجموعہ کے برابر ہو گا۔"
+    }
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section C - Long Answer Questions",
+    "question_number": "4",
+    "content_type": "exercise_question",
+    "english_text": "Prove that in an obtuse angled triangle, the square on the side opposite to the obtuse angle is equal to the sum of the squares on the sides containing the obtuse angle together with twice the rectangle contained by one of the sides and the projection on it of the other.",
+    "urdu_text": "ثابت کریں کہ کسی منفرجة الزاویہ مثلث میں منفرجہ زاویہ کے متقابل ضلع کا مربع باقی دو اضلاع کے مربعوں کے مجموعے اور دو چند مستطیلی رقبہ جو ان دو اضلاع میں سے ایک اور اس پر دوسرے کے ظل سے بنتا ہے، کے برابر ہوتا ہے۔",
+    "or_option": {
+      "english_text": "Draw two intersecting circles of radii 3cm and 4cm whose centers are 5.5cm apart. Draw two direct common tangents to the circles. Write steps of construction.",
+      "urdu_text": "دو دائرے کھینچیں جن کے رداس 3سم اور 4سم ہیں اگر ان کے مراکز کا درمیانی فاصلہ 5.5 سم ہو تو دو راست مشترک مماس کھینچیں۔ تشکیل عمل بھی لکھیں۔"
+    }
+  },
+  {
+    "paper_version": "22081",
+    "section": "Section C - Long Answer Questions",
+    "question_number": "5",
+    "content_type": "exercise_question",
+    "english_text": "Verify De Morgan's laws: U = {x | x ∈ N ^ 1 ≤ x ≤ 10}, A = {x | x ∈ P ^ 1 < x < 10}, B = {x | x ∈ O ^ 1 < x < 10}",
+    "urdu_text": "ڈی مورگن کے قوانین کی پڑتال کریں:",
+    "or_option": {
+      "english_text": "Prove that the measure of central angle of a minor arc of a circle, is double that of the angle subtended by the corresponding major arc.",
+      "urdu_text": "ثابت کریں کہ کسی دائرے میں قوس صغیرہ سے بننے والا مرکزی زاویہ مقدار میں اپنی متعلقہ قوس کبیرہ کے محصور زاویے سے دو گنا ہوتا ہے۔"
+    }
+  }
+]

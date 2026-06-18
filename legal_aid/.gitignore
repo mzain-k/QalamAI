@@ -1,0 +1,16 @@
+# Virtual environment
+hackathon-env/
+
+# Python cache
+__pycache__/
+*/__pycache__/
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
+
+# Python compiled files
+*.pyc
+*.pyo

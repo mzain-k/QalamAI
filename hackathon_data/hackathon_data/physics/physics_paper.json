@@ -1,0 +1,350 @@
+[
+  {
+    "paper_version": "20043",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "1",
+    "content_type": "exercise_mcq",
+    "english_text": "SI unit of electric potential is:",
+    "urdu_text": "الیکٹرک پوٹینشل کا SI یونٹ ہے۔",
+    "options": [
+      "QC",
+      "VC-1",
+      "NC",
+      "JC-1"
+    ]
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "2",
+    "content_type": "exercise_mcq",
+    "english_text": "If a DC source of 80V is connected to the primary coil of a transformer with Np=20 turns, Ns=5 turns then Vs=",
+    "urdu_text": "اگر 80V کا ایک DC سورس ٹرانسفارمر کے پرائمری کوائل کے ساتھ جوڑا جائے جبکہ Np=20 ہوں اور Ns=5 تو Vs=",
+    "options": [
+      "Zero صفر",
+      "20 V",
+      "80 V",
+      "40 V"
+    ]
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "3",
+    "content_type": "exercise_mcq",
+    "english_text": "The restoring force that causes the pendulum to undergo SHM is equal to:",
+    "urdu_text": "ریسٹورنگ فورس جس کے تحت پنڈولم SHM کرتا ہے، کے برابر ہے۔",
+    "options": [
+      "mg sin θ",
+      "mg tan θ",
+      "mg sec θ",
+      "mg cos θ"
+    ]
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "4",
+    "content_type": "exercise_mcq",
+    "english_text": "Multiple reflection of sound that cannot be distinguished from original sound are called:",
+    "urdu_text": "ساؤنڈ کی ملٹی پل ریفلیکشنز جو اصل ساؤنڈ سے فرق نہ کی جاسکیں وہ کیا کہلاتی ہیں؟",
+    "options": [
+      "Reverberations گونج",
+      "Noise شور",
+      "Echoes بازگشت",
+      "Absorptions انجذاب"
+    ]
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "5",
+    "content_type": "exercise_mcq",
+    "english_text": "Total internal reflection occurs when:",
+    "urdu_text": "ٹوٹل انٹرنل رفلیکشن کے لیے کیا شرط ہے؟",
+    "options": [
+      "∠i = ∠c",
+      "∠i = -∠c",
+      "∠i > ∠c",
+      "∠i < ∠c"
+    ]
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "6",
+    "content_type": "exercise_mcq",
+    "english_text": "Capacitance C is:",
+    "urdu_text": "کپیسٹنس C ہے:",
+    "options": [
+      "C=VQ",
+      "C=V²Q",
+      "C=Q/V",
+      "C=V/Q"
+    ]
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "7",
+    "content_type": "exercise_mcq",
+    "english_text": "If cost of one unit of electricity is Rs.10, then cost of using a 50W bulb for 240 hours is:",
+    "urdu_text": "اگر بجلی کا ایک یونٹ 10 روپے کا ہو تو 50 واٹ کا بلب 240 گھنٹے استعمال کرنے کی قیمت ہے:",
+    "options": [
+      "Rs. 29",
+      "Rs. 43",
+      "Rs. 120",
+      "Rs. 240"
+    ]
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "8",
+    "content_type": "exercise_mcq",
+    "english_text": "A 1Ω resistor in 20s consuming 2 ampere current will require:",
+    "urdu_text": "اگر 1Ω کے ایک رزسٹر کو 20s میں 2 ایمپئیر درکار ہوں تو اس کی انرجی کی شرح ہے:",
+    "options": [
+      "40 Js⁻¹",
+      "80 Js⁻¹",
+      "10 Js⁻¹",
+      "12 Js⁻¹"
+    ]
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "9",
+    "content_type": "exercise_mcq",
+    "english_text": "If in a step-up transformer the turn ratio is 20 then:",
+    "urdu_text": "اگر ایک سٹیپ اپ ٹرانسفارمر میں چکروں کی نسبت 20 ہو تو :",
+    "options": [
+      "Is = 20Ip",
+      "Ns = 20Np",
+      "Ns = Np / 20",
+      "Is = Ip / 20"
+    ]
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "10",
+    "content_type": "exercise_mcq",
+    "english_text": "The given Boolean eq verifies A+B=X gate.",
+    "urdu_text": "درن بولین مساوات کی لاجک گیٹ کے مطابق ہے ؟",
+    "options": [
+      "NAND",
+      "NOR",
+      "AND",
+      "OR"
+    ]
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "11",
+    "content_type": "exercise_mcq",
+    "english_text": "The most suitable means of long distance transmission in space is:",
+    "urdu_text": "ساؤنڈ ویوز خلا میں طویل فاصلے پر ٹرانسمشن کے لیے مناسب ترین ذریعہ ہے۔",
+    "options": [
+      "Sound waves",
+      "Bluetooth / بیلو ٹو تھ",
+      "Radio waves / ریڈیو ویوز",
+      "Microwaves / ما نگر دو یوز"
+    ]
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section A - Multiple Choice Questions",
+    "question_number": "12",
+    "content_type": "exercise_mcq",
+    "english_text": "Half-life of a radioactive element is 10 min. After 30 min how much sample will be left?",
+    "urdu_text": "اگر ایک ریڈیو ایکٹیو ایلمنٹ کی ہاف لائف 10 منٹ ہے 30 منٹ بعد اس کا کتنا سمپل بچے گا؟",
+    "options": [
+      "1/8",
+      "1/16",
+      "1/2",
+      "1/4"
+    ]
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(i)",
+    "content_type": "exercise_question",
+    "english_text": "Distinguish between mechanical waves and electromagnetic waves. Give one example of each.",
+    "urdu_text": "میکینکل اور الیکٹرو میگنیٹک ویوز میں فرق بیان کریں۔ دونوں کی ایک مثال دیں۔",
+    "or_option": {
+      "english_text": "Distinguish between magnifying power and resolving power of an optical instrument. What is the general value of near point of eye?",
+      "urdu_text": "ایک آپٹیکل انسٹرومنٹ کی میگنی فائینگ پاور اور ریز ولونگ پاور میں فرق بیان کریں۔ آنکھ کے قریبی فاصلہ کی عمومی ویلیو کیا ہے ؟"
+    }
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(ii)",
+    "content_type": "exercise_question",
+    "english_text": "What is meant by 'intensity' and 'intensity level' of sound? Write unit of each physical quantity.",
+    "urdu_text": "آواز کی انٹینسٹی، اور انٹینسٹی لیول سے کیا مراد ہے؟ دونوں فزیکل مقداروں کے یونٹ لکھیں۔",
+    "or_option": {
+      "english_text": "State Lenz's law. What energy changes are involved when a bar magnet is moved towards a conductor?",
+      "urdu_text": "لینز کا قانون بیان کریں۔ جب ایک میگنٹ کو کنڈکٹر کی طرف لایا جاتا ہے تو انرجی کی کون سی تبدیلیاں عمل میں آتی ہیں ؟"
+    }
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(iii)",
+    "content_type": "exercise_question",
+    "english_text": "a. Describe conventional current. b. Connect a battery, switch and conductor in series and draw direction of conventional current in the circuit.",
+    "urdu_text": "الف: کنونشل کرنٹ بیان کریں۔ ب: ایک بیٹری ، سوئیچ اور کنڈکٹر کو سیریز میں جوڑیں اور کنونشنل کرنٹ کے بہاؤ کی سمت بنائیں۔",
+    "or_option": {
+      "english_text": "Compare nuclear fission and nuclear fusion reactions. Complete the equations.",
+      "urdu_text": "نیو کلیئر فشن اور نیو کلیئر فیوژن کا موازنہ کریں۔ مساوات مکمل کریں۔"
+    }
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(iv)",
+    "content_type": "exercise_question",
+    "english_text": "Draw the path of electron beam in: a. Electric field b. Magnetic field",
+    "urdu_text": "الیکٹرون بیم کا راستہ بنائیں: الف: الیکٹرک فیلڈ میں، ب: میگنیٹک فیلڈ میں",
+    "or_option": {
+      "english_text": "Describe the following components of information technology: a. Hardware b. Software",
+      "urdu_text": "انفارمیشن ٹیکنالوجی کے درج شدہ کمپوننٹس بیان کریں: الف: ہارڈوئیر، ب: سافٹ ویئر"
+    }
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(v)",
+    "content_type": "exercise_question",
+    "english_text": "A harmonic wave is moving along a rope. The source generating the wave completes 50 vibrations in 20s. Calculate: a. Time period (T) b. Frequency (f) c. Speed of wave",
+    "urdu_text": "رسی میں ہار مونک دیو حرکت کر رہی ہے۔ ویو پیدا کرنے والا سورس 20 سیکنڈ میں 50 وائبریشنز مکمل کرتا ہے۔ کیلکولیٹ کریں: الف: ٹائم پیریڈ، ب: فریکونسی، ج: ویو کی رفتار",
+    "or_option": {
+      "english_text": "Graph shows radio activity of radium. Write the values of A, B (in terms of N) and C (in years).",
+      "urdu_text": "درج گراف ریڈیم کی ریڈیو ایکٹیویٹی ظاہر کر رہا ہے۔ A, B کی (N کے مطابق) اور C کی (سالوں میں ) ویلیوز لکھیں۔"
+    }
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(vi)",
+    "content_type": "exercise_question",
+    "english_text": "What is meant by quality of sound?",
+    "urdu_text": "آواز کی کوالٹی سے کیا مراد ہے؟",
+    "or_option": {
+      "english_text": "Explain briefly the transmission of electric signals through wires in a telephone.",
+      "urdu_text": "ٹیلیفون میں تاروں کے ذریعہ الیکٹرک سگنلز کی ٹرانسمشن کی مختصر وضاحت کریں۔"
+    }
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(vii)",
+    "content_type": "exercise_question",
+    "english_text": "Find the value of critical angle for water (angle of refraction = 90°). The refractive index of water is 1.33 and that of air is 1.",
+    "urdu_text": "پانی کا کریٹیکل اینگل معلوم کریں ( اینگل آف ر فریکشن 90°) جبکہ پانی کار فریکٹیو انڈیکس 1.33 اور ہوا کار فریکٹیو انڈیکس 1 ہے۔",
+    "or_option": {
+      "english_text": "Draw the diagram of electron gun.",
+      "urdu_text": "الیکٹرون گن کی ڈایا گرام بنائیں۔"
+    }
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(viii)",
+    "content_type": "exercise_question",
+    "english_text": "Draw circuit diagrams of (a) series and (b) parallel combination of resistance R1, R2 and R3. In which combination is Req less than the smallest resistance?",
+    "urdu_text": "R1, R2, R3 رزسٹرز کی (a) سیریز اور (b) پیرائل سرکٹ میں ڈایا گرام بنائیں۔ کس مبینیشن میں Req سب سے چھوٹی رز سٹنس سے بھی کم ہوتا ہے؟",
+    "or_option": {
+      "english_text": "a. State the working principle of A.C generator. b. For what position of the plane of the coil the number of magnetic field lines passing through is: (i) Maximum (ii) Zero",
+      "urdu_text": "الف: اے سی جزیٹر کا ور کنگ پر نسپل بیان کریں۔ ب: کوائل کے پلین کی کس پوزیشن میں آرپار ہونے والی میگنیٹک فیلڈ لائنز کی تعداد (i) سب سے زیادہ (ii) زیرو ہوتی ہے؟"
+    }
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(ix)",
+    "content_type": "exercise_question",
+    "english_text": "What is meant by electric field lines. Draw electric field lines for (a) +q (b) -q",
+    "urdu_text": "الیکٹرک فیلڈ لائنز سے کیا مراد ہے ؟ درج شدہ چار جز کی الیکٹرک فیلڈ لا ئنز بنائیں ۔",
+    "or_option": {
+      "english_text": "Enlist any three functions of computer word processing.",
+      "urdu_text": "کمپیوٹر ورڈ پراسیسنگ کے کوئی سے تین فنکشنز لکھیں۔"
+    }
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(x)",
+    "content_type": "exercise_question",
+    "english_text": "Briefly describe factors effecting induced emf.",
+    "urdu_text": "انڈیوسڈ ای ایم ایف پر اثر انداز ہونے والے فیکٹرز کی مختصر وضاحت کریں۔",
+    "or_option": {
+      "english_text": "How does fax machine work?",
+      "urdu_text": "فیکس مشین کیسے کام کرتی ہے ؟"
+    }
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section B - Short Answer Questions",
+    "question_number": "2(xi)",
+    "content_type": "exercise_question",
+    "english_text": "Two capacitors of 20µF and 30µF are connected in parallel with a power supply of 12V. (a) Find capacitance and (b) charge on 20µF capacitor.",
+    "urdu_text": "20µF اور 30µF کے دو کیپٹرز 12V کی پاور سپلائی کے ساتھ پیرالل جوڑ میں لگائے گئے ہیں۔ (الف) ایکولنٹ کیپیٹنس اور (ب) 20µF کپیسٹر پر چارج کیلکولیٹ کریں۔",
+    "or_option": {
+      "english_text": "An electric geyser working at a potential difference of 220V draws 20A current. How much electrical energy will it consume in 1 hour?",
+      "urdu_text": "220V پوٹینشل ڈفرینس پر کام کرنے ولا الیکٹرک گیزر 20A کرنٹ لیتا ہے۔ 1 گھنٹے میں یہ کتنی الیکٹریکل انرجی خرچ کرے گا؟"
+    }
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section C - Long Answer Questions",
+    "question_number": "3",
+    "content_type": "exercise_question",
+    "english_text": "a. Describe electric potential and write its mathematical equation. b. Is it scalar or vector? c. State its unit.",
+    "urdu_text": "الف: الیکٹرک پوٹینشنل کیا ہے ؟ اس کی مساوات لکھیں۔ ب: یہ سکیلر ہے یاد یکٹر ؟ ج: اس کا یونٹ بیان کریں۔",
+    "or_option": {
+      "english_text": "Describe the construction of an electroscope. Make its diagram. How can we detect: a. Presence of charge and b. Nature of charge on the body.",
+      "urdu_text": "الیکٹرو سکوپ کی کنسٹرکشن بیان کریں۔ اس کی ڈایا گرام بنائیں۔ ہم کس طرح پتہ لگا سکتے ہیں: الف: چارج کی موجودگی اور ب: جسم پر چارج کی نوعیت"
+    }
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section C - Long Answer Questions",
+    "question_number": "4",
+    "content_type": "exercise_question",
+    "english_text": "Draw ray diagram of a telescope and determine its magnifying power.",
+    "urdu_text": "ٹیلیسکوپ کارے ڈائیگرام بنائیں اور اس کی میگنیفائینگ پاور معلوم کریں۔",
+    "or_option": {
+      "english_text": "State the functions of the live, neutral and earth wires in the domestic main supply. State reason why are domestic supplies connected in parallel.",
+      "urdu_text": "ڈومیسٹک مین سپلائی میں لائیو، نیوٹرل اور ارتھ وائرز کے فنکشن لکھیں۔ ڈومیسٹک سپلائز کو پیرالل جوڑنے کی وجہ بتائیں۔"
+    }
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section C - Long Answer Questions",
+    "question_number": "5",
+    "content_type": "exercise_question",
+    "english_text": "For the given logic gates a. OR b. AND Draw their: Symbols, Write Boolean equations, Make truth tables.",
+    "urdu_text": "لاجک گئیں OR اور AND کے: سمبلز بنائیں، بولین مساوات لکھیں، ٹروتھ ٹیبلز بنائیں۔",
+    "or_option": {
+      "english_text": "What is DC motor? State its working principle. Explain the function of a commutator during the rotation of coil in a magnetic field.",
+      "urdu_text": "ڈی سی موٹر کیا ہے ؟ اس کا اور کنگ پر نسپل بتائیں۔ میگنیٹک فیلڈ میں کوائل کی روٹیشن کے دوران کمیو ٹیٹر کا فنکشن واضح کریں۔"
+    }
+  },
+  {
+    "paper_version": "20043",
+    "section": "Section C - Long Answer Questions",
+    "question_number": "6",
+    "content_type": "exercise_question",
+    "english_text": "A simple pendulum has time period of 2s. Find the length of pendulum on earth and on moon (gm =1.6ms-²)",
+    "urdu_text": "ایک سمپل پنڈولم کا ٹائم پیریڈ 2s ہے ۔ زمین پر اور چاند پر پنڈولم کی لمبائی معلوم کریں۔ (gm =1.6ms-²)",
+    "or_option": {
+      "english_text": "What is a simple pendulum. What type of motion does it execute? Draw a labelled diagram to show the forces acting on a simple pendulum during its motion. Write equation of frequency.",
+      "urdu_text": "سمپل پنڈولم سے کیا مراد ہے؟ سمپل پنڈولم کسی قسم کا موشن کرتا ہے؟ موشن کے دوران اس پر عمل کرنے والی فورسز لیبل شدہ ڈائیگرام سے دکھائیں۔ نیز اس کی فریکونسی کی مساوات تحریر کریں۔"
+    }
+  }
+]

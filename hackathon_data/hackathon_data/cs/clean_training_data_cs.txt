@@ -1,0 +1,380 @@
+RAW_DATA]Based on National Curriculum of Pakistan 2022-23
+Textbook of
+Computer Science
+Grade
+10
+National Curriculum Council
+Ministry of Federal Education and Professional Training
+National Book Foundation
+as
+Federal Textbook Board
+Islamabad
+Government Approval
+Approved by the National Curriculum Council (NCC), Ministry of Federal Education and Professional Training, Islamabad
+vide letter No. F.1(1)/2024/NBF-CS, dated October 03, 2023
+© 2023 National Book Foundation (NBF) and Federal Textbook Board
+All rights to this publication are strictly reserved. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted in any form or by any means-electronic, mechanical, photocopying, recording, or otherwise without the prior express
+written consent of the publisher. Unauthorized use or distribution of this work is strictly prohibited and may result in legal action.
+A Textbook of Computer Science for Grade 10
+based on National Curriculum of Pakistan (NCP) 2022-23
+Authors
+Dr. Saleem Iqbal (Managing Author)
+Mr. Muhammad Khalid, Dr. Faraz Ahsan, Ms. Lubna Kausar,
+Mr. Muhammad Sajjad, Mr. Shah Husn, Dr. Hamid Hassan (Co-Authors)
+Contributors/Collaborators
+Muhammad Zeeshan Ulla (Designer)
+Supervision of Curriculum and Review Process
+Dr. Mumtaz Ahmad
+Director, National Curriculum Council (NCC)
+Ministry of Federal Education and Professional Training, Government of Pakistan, Islamabad
+NCC Review Committee Members
+Ms. Sadaf Zehra Kazmi, Ms. Rozina Faheem, Mr. Muhammad Sameer Toor
+Desk Officer
+Zehra Khushal, (Assistant Education Advisor), National Curriculum Council (NCC)
+NBF Textbooks Development Supervision
+Murad Ali Mohmand
+Managing Director, National Book Foundation (NBF)
+In-Charge, NBF Textbooks Development
+Mansoor Ahmad, Assistant Director
+Printed in Pakistan
+First Edition: First Impression: February 2023 | Pages: 262 | Quantity: 100000
+Price: PKR 360/- Code: STE-723 ISBN: 978-969-37-1725-9
+Printed: Al-Wakeel Printers, Islamabad
+TEST
+EDITION
+For details on additional publications from the National Book Foundation, please visit our website at www.nbf.org.pk
+For feedback or corrections, kindly send your comments to ‘nbftextbooks@gmail.com’ and ‘textbooks@snc.gov.pk’
+Note
+All illustrations, artwork, and images in this book are intended solely for educational
+and promotional purposes, benefiting the public interest.
+PREFACE
+This Textbook has been developed by NBF according to the National Curriculum of
+Pakistan 2022- 2023. The aim of this textbook is to enhance learning abilities through
+inculcation of logical thinking in learners, and to develop higher order thinking
+processes by systematically building upon the foundation of learning from the previous
+grades. A key emphasis of the present textbook is on creating real life linkages of the
+concepts and methods introduced. This approach was devised with the intent of
+enabling students to solve daily life problems as they go up the learning curve and for
+them to fully grasp the conceptual basis that will be built upon in subsequent grades.
+After amalgamation of the efforts of experts and experienced authors, this book was
+reviewed and finalized after extensive reviews by professional educationists. Efforts
+were made to make the contents student friendly and to develop the concepts in
+interesting ways.
+The National Book Foundation is always striving for improvement in the quality of its
+books. The present book features an improved design, better illustration and
+interesting activities relating to real life to make it attractive for young learners.
+However, there is always room for improvement and the suggestions and feedback of
+students, teachers and the community are most welcome for further enriching the
+subsequent editions of this book.
+May Allah guide and help us (Ameen).
+Murad Ali Mohmand
+Managing Director
+UTILITY OR PRACTICAL APPLICATIONS OF THE SUBJECT
+Computer science is one of the important subjects that have an impact on our daily lives. It facilitates problem-
+solving, communication and team work. Students who study computer science in grade 10 able to develop
+talents such as creativity, logical reasoning and problem-solving approach. Additionally, they pull together useful
+skills that will help them succeed in this digital age. As a result they will be better able to grasp and contribute to
+the rapidly evolving world of technology.
+Domain A: Computer Systems lays Introduces how computers work. An introduction to operations of
+computer system is provided. The foundational knowledge needed to represent data in a computer along with
+understanding of information processing and storage is taught such that students may enhance their
+troubleshooting skills and understanding how system software links various components of a computer. On one
+hand this knowledge makes it easier for students to develop, test and debug code at the technological side while
+on the other hand makes collaboration and working in a team more effective by preparing students for software
+development in the real world.
+Domain B: Computational Thinking & Algorithms educate students how to address issues in a methodical
+and logical way. It assists them in decomposing complex issues into manageable segments and formulating
+detailed solutions. Students are taught typical tasks such as sorting and searching are better able to reason
+clearly and handle problems systematically. This kind of thinking is helpful not just in computer science but also
+in daily spheres of life like scheduling, task organization, etc.
+In Domain C: Programming Fundamentals covers all the aspects required for students to be knowledgeable
+for developing simple webpages using HTML. Later, how to add styles and animations within the webpage using
+CSS are included. Finally by incorporating JavaScript the websites become more responsive and handles user
+interactions like forms, etc. Last but not the least, familiarization of data structures like arrays and list; inclusion
+of complex algorithm in a program and identifying and removing of errors in a program through testing are also
+part of this unit. This way, the students can map the logical reasoning and execution of tasks in their daily lives
+and how to recognize their mistakes and rectify to address relevant issues.
+Domain D: Data and Analysis are essential features that everyone should be able to handle and understand
+nowadays. Data resides around us in digital form like handheld devices and smartphones. However, to extract
+meaningful information that is necessary corresponding analytical skills need to be developed among students.
+Additionally, in affairs of daily life students at times need to gather their own data, analyze it by studying and
+applying formulation or with the help of graphical images like charts and graphs. This way, students can identify
+patterns and trends for better decision-making.
+Domain E: Applications of Computer Science like Internet of Things (IoT) and Blockchain, broaden the
+understanding of technological use and trends among students. As technology continues to change the world,
+this understanding equips students to make practical and moral judgments. Additionally, it helps them to blend in
+with the rapid changing world. IoT allows commonplace objects to interact with each other and with the Internet,
+therefore developing our lives. Blockchain is a safe transaction recording method that is frequently used for
+cryptocurrencies but also contributes in supply-chain businesses for the sake of fairness. Students get an
+understanding of functions and social implications of these technologies by studying them.
+Domain F: Impacts of Computing underline the wide range of technological aspects on our life. The use of
+technology and internet aligns our present life style and comes up with risks associated like breaching of
+personal information. This unit provides the policy guidelines and good practices that are to be followed while
+using modern gadgets and how one can secure himself online keeping up with the moral values associated with
+our society.
+Finally, Domain H: Entrepreneurship in the Digital Age guides students to the path of 'learning and earning'
+through skills using digital devices. With problem solving aptitude and skills like web development, keeping in
+view the current applications of computers and their impacts around us; students can vigilantly come up with
+newer solutions and products. Thus, the need arises of creating and managing a firm as per industrial standards
+which can acquire clients' demands and provide services.
+Table of Contents
+Unit 1: Computer Systems
+1.1 Machine Level Representation of data ..............................................................8
+1.2 Numbering Systems...........................................................................................9
+1.3 Common Coding Schemes (ASCII and Unicode) ............................................24
+1.4 Operating System ............................................................................................26
+1.5 Computer Software..........................................................................................36
+Unit 2: Computational Thinking & Algorithms
+2.1 Computing Problems .......................................................................................54
+2.2 Basics of Counting Problems ..........................................................................55
+2.3 Basic Counting Principles ................................................................................56
+2.4 Algorithms and their Characteristics ................................................................59
+2.5 Logical Reasoning ...........................................................................................60
+2.6 Standard Algorithms........................................................................................62
+2.7 Steps in algorithm to solve computational problems.....................................63
+2.8 Abstraction ......................................................................................................64
+2.9 Creating Generalized Solutions ......................................................................65
+2.10 Modular Design ..............................................................................................66
+2.11 Algorithm Dry Run ..........................................................................................67
+2.12 Errors ..............................................................................................................69
+Unit 3: Programming Fundamentals
+3.1 Website Development.....................................................................................75
+3.2 Additional Features of HTML/CSS .................................................................76
+3.3 Advanced Programming Constructs in JavaScript .........................................92
+3.4 Complex Algorithms in JavaScript ................................................................102
+3.5 Advanced techniques for testing and debugging ..........................................106
+Unit 4: Data and Analysis
+4.1 Data Science .................................................................................................117
+4.2 Data Visualization .........................................................................................126
+4.3 Stages of the Data Science Life Cycle .........................................................134
+Unit 5: Applications of Computer Science ...........................................................148
+5.2 Foundational Components of IoT .................................................................148
+5.3 Applications of IoT ........................................................................................151
+5.4 Blockchain Technology .................................................................................156
+5.5 Applications of Blockchain ...........................................................................156
+5.6 Cloud Computing .........................................................................................158
+5.7 Speech Recognition and Voice Recognition ................................................160
+5.8 Natural Language Processing ......................................................................163
+5.9 Robotics ........................................................................................................165
+5.10 Bias and Unethical use of Artificial Intelligence ..........................................168
+5.11 Responsibilities of AI System Designers .....................................................169
+Unit 6: Impacts of Computing .............................................................................175
+6.1 What is Technology Addiction .....................................................................175
+6.2 Internet..........................................................................................................177
+6.3 The Effects of Threats to Individual Privacy and Security ..........................180
+6.4 Cloud Computing .........................................................................................181
+6.5 Hardware and Software Method to Protect Devices ....................................183
+6.6 Cybersecurity................................................................................................185
+6.7 Safety and Security Concept .......................................................................187
+6.8 Cyberbullying ...............................................................................................188
+6.9 The Environmental, Cultural and Human Impact of Computing and Assistive
+Technologies .....................................................................................................190
+6.10 Digital Divide ..............................................................................................191
+6.11 Inequitable Access to Information ..............................................................192
+Unit 7: Digital Literacy ........................................................................................200
+7.1 Information Collection .................................................................................200
+Unit 8: Entrepreneurship in Digital Age ............................................................222
+8.1 Qualitative vs. Quantitative Research | Differences, Examples & Methods .......222
+8.2 The differences between quantitative and qualitative research .....................222
+8.3 Questionnaire Design | Methods, Question Types & Examples ...................226
+8.4 What is Market Validation? ..........................................................................231
+8.5 How to Use Research to Create Customer Profiles ....................................234
+8.6 Business Pitching: Identifying Problems and Creating Solutions .................238
+1
+Computer Systems
+Learning Outcomes
+At the end of this unit students will be able to:
+> understand and describe number systems and encoding schemes for data
+representation in computer systems.
+> explain how system software controls the flow of information between hardware
+components used for input, output, storage, and processing.
+> identify and learn common software tools such as translators, integrated
+development environments, online and offline computing platforms, code
+repositories, etc.
+1010101
+011010110110101
+00001010111010001010101010
+01010101010110 Computer Systems 10101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101 to the new generation of students, the National Book Foundation (NBF) textbook for Computer Science Grade 10 (based on NCP 2022-23) is a comprehensive and well-structured resource. This textbook aims to equip students with essential knowledge and practical skills in computer science, aligning with the latest curriculum requirements. It emphasizes critical thinking, problem-solving, and the ethical implications of technology, preparing students for future challenges in the digital age.
+
+The textbook is divided into eight units, each covering distinct aspects of computer science:
+
+**Unit 1: Computer Systems**
+This unit introduces the fundamentals of computer systems, including data representation, number systems, coding schemes (ASCII and Unicode), operating systems, and computer software. It provides a solid foundation for understanding how computers work and how information is processed and stored.
+
+**Unit 2: Computational Thinking & Algorithms**
+Focusing on computational thinking, this unit delves into problem-solving strategies, basic counting principles, algorithms and their characteristics, logical reasoning, and standard algorithms. It also covers the steps involved in developing computational solutions, abstraction, and the creation of generalized solutions.
+
+**Unit 3: Programming Fundamentals**
+This unit introduces students to programming concepts with a focus on web development using HTML, CSS, and JavaScript. It covers advanced programming constructs, complex algorithms, and techniques for testing and debugging, essential for creating interactive and dynamic web pages.
+
+**Unit 4: Data and Analysis**
+This unit explores data science, data visualization, and the stages of the data science life cycle. It teaches students how to gather, analyze, and interpret data, identify patterns, and make informed decisions, which are crucial skills in today’s data-driven world.
+
+**Unit 5: Applications of Computer Science**
+This unit delves into the practical applications of computer science, including the Internet of Things (IoT), blockchain technology, cloud computing, speech recognition, natural language processing, and robotics. It also touches upon the ethical considerations and responsibilities associated with AI system design.
+
+**Unit 6: Impacts of Computing**
+This unit discusses the various impacts of computing on society, including technology addiction, internet usage, cybersecurity threats, hardware and software protection, and the environmental, cultural, and human impacts of technology. It emphasizes safe and responsible computing practices.
+
+**Unit 7: Digital Literacy**
+Focusing on digital literacy, this unit covers information collection, social media platforms (YouTube, Facebook, Instagram, Twitter, Podcasts), and the skills required to navigate and utilize digital resources effectively and ethically.
+
+**Unit 8: Entrepreneurship in Digital Age**
+This unit introduces the concepts of entrepreneurship in the digital age, covering qualitative and quantitative research methods, questionnaire design, market validation, and business pitching strategies. It aims to foster an entrepreneurial mindset among students.
+
+Overall, the NBF Computer Science Grade 10 textbook is a comprehensive and well-organized resource that aligns with the National Curriculum of Pakistan 2022-23. Its emphasis on practical applications, critical thinking, and ethical considerations makes it a valuable tool for students to develop essential computer science skills and prepare for future academic and professional endeavors.The document provided is a textbook for Computer Science Grade 10, based on the National Curriculum of Pakistan 2022-23. Below is the transcription of the text, with each paragraph prefixed with ``.
+
+Based on National Curriculum of Pakistan 2022-23
+Textbook of
+Computer Science
+Grade
+10
+National Curriculum Council
+Ministry of Federal Education and Professional Training
+National Book Foundation
+as
+Federal Textbook Board
+Islamabad
+Government Approval
+Approved by the National Curriculum Council (NCC), Ministry of Federal Education and Professional Training, Islamabad
+vide letter No. F.1(1)/2024/NBF-CS, dated October 03, 2023
+© 2023 National Book Foundation (NBF) and Federal Textbook Board
+All rights to this publication are strictly reserved. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted in any form or by any means-electronic, mechanical, photocopying, recording, or otherwise without the prior express
+written consent of the publisher. Unauthorized use or distribution of this work is strictly prohibited and may result in legal action.
+A Textbook of Computer Science for Grade 10
+based on National Curriculum of Pakistan (NCP) 2022-23
+Authors
+Dr. Saleem Iqbal (Managing Author)
+Mr. Muhammad Khalid, Dr. Faraz Ahsan, Ms. Lubna Kausar,
+Mr. Muhammad Sajjad, Mr. Shah Husn, Dr. Hamid Hassan (Co-Authors)
+Contributors/Collaborators
+Muhammad Zeeshan Ulla (Designer)
+Supervision of Curriculum and Review Process
+Dr. Mumtaz Ahmad
+Director, National Curriculum Council (NCC)
+Ministry of Federal Education and Professional Training, Government of Pakistan, Islamabad
+NCC Review Committee Members
+Ms. Sadaf Zehra Kazmi, Ms. Rozina Faheem, Mr. Muhammad Sameer Toor
+Desk Officer
+Zehra Khushal, (Assistant Education Advisor), National Curriculum Council (NCC)
+NBF Textbooks Development Supervision
+Murad Ali Mohmand
+Managing Director, National Book Foundation (NBF)
+In-Charge, NBF Textbooks Development
+Mansoor Ahmad, Assistant Director
+Printed in Pakistan
+First Edition: First Impression: February 2023 | Pages: 262 | Quantity: 100000
+Price: PKR 360/- Code: STE-723 ISBN: 978-969-37-1725-9
+Printed: Al-Wakeel Printers, Islamabad
+TEST
+EDITION
+For details on additional publications from the National Book Foundation, please visit our website at www.nbf.org.pk
+For feedback or corrections, kindly send your comments to ‘nbftextbooks@gmail.com’ and ‘textbooks@snc.gov.pk’
+Note
+All illustrations, artwork, and images in this book are intended solely for educational
+and promotional purposes, benefiting the public interest.
+PREFACE
+This Textbook has been developed by NBF according to the National Curriculum of
+Pakistan 2022- 2023. The aim of this textbook is to enhance learning abilities through
+inculcation of logical thinking in learners, and to develop higher order thinking
+processes by systematically building upon the foundation of learning from the previous
+grades. A key emphasis of the present textbook is on creating real life linkages of the
+concepts and methods introduced. This approach was devised with the intent of
+enabling students to solve daily life problems as they go up the learning curve and for
+them to fully grasp the conceptual basis that will be built upon in subsequent grades.
+After amalgamation of the efforts of experts and experienced authors, this book was
+reviewed and finalized after extensive reviews by professional educationists. Efforts
+were made to make the contents student friendly and to develop the concepts in
+interesting ways.
+The National Book Foundation is always striving for improvement in the quality of its
+books. The present book features an improved design, better illustration and
+interesting activities relating to real life to make it attractive for young learners.
+However, there is always room for improvement and the suggestions and feedback of
+students, teachers and the community are most welcome for further enriching the
+subsequent editions of this book.
+May Allah guide and help us (Ameen).
+Murad Ali Mohmand
+Managing Director
+UTILITY OR PRACTICAL APPLICATIONS OF THE SUBJECT
+Computer science is one of the important subjects that have an impact on our daily lives. It facilitates problem-
+solving, communication and team work. Students who study computer science in grade 10 able to develop
+talents such as creativity, logical reasoning and problem-solving approach. Additionally, they pull together useful
+skills that will help them succeed in this digital age. As a result they will be better able to grasp and contribute to
+the rapidly evolving world of technology.
+Domain A: Computer Systems lays Introduces how computers work. An introduction to operations of
+computer system is provided. The foundational knowledge needed to represent data in a computer along with
+understanding of information processing and storage is taught such that students may enhance their
+troubleshooting skills and understanding how system software links various components of a computer. On one
+hand this knowledge makes it easier for students to develop, test and debug code at the technological side while
+on the other hand makes collaboration and working in a team more effective by preparing students for software
+development in the real world.
+Domain B: Computational Thinking & Algorithms educate students how to address issues in a methodical
+and logical way. It assists them in decomposing complex issues into manageable segments and formulating
+detailed solutions. Students are taught typical tasks such as sorting and searching are better able to reason
+clearly and handle problems systematically. This kind of thinking is helpful not just in computer science but also
+in daily spheres of life like scheduling, task organization, etc.
+In Domain C: Programming Fundamentals covers all the aspects required for students to be knowledgeable
+for developing simple webpages using HTML. Later, how to add styles and animations within the webpage using
+CSS are included. Finally by incorporating JavaScript the websites become more responsive and handles user
+interactions like forms, etc. Last but not the least, familiarization of data structures like arrays and list; inclusion
+of complex algorithm in a program and identifying and removing of errors in a program through testing are also
+part of this unit. This way, the students can map the logical reasoning and execution of tasks in their daily lives
+and how to recognize their mistakes and rectify to address relevant issues.
+Domain D: Data and Analysis are essential features that everyone should be able to handle and understand
+nowadays. Data resides around us in digital form like handheld devices and smartphones. However, to extract
+meaningful information that is necessary corresponding analytical skills need to be developed among students.
+Additionally, in affairs of daily life students at times need to gather their own data, analyze it by studying and
+applying formulation or with the help of graphical images like charts and graphs. This way, students can identify
+patterns and trends for better decision-making.
+Domain E: Applications of Computer Science like Internet of Things (IoT) and Blockchain, broaden the
+understanding of technological use and trends among students. As technology continues to change the world,
+this understanding equips students to make practical and moral judgments. Additionally, it helps them to blend in
+with the rapid changing world. IoT allows commonplace objects to interact with each other and with the Internet,
+therefore developing our lives. Blockchain is a safe transaction recording method that is frequently used for
+cryptocurrencies but also contributes in supply-chain businesses for the sake of fairness. Students get an
+understanding of functions and social implications of these technologies by studying them.
+Domain F: Impacts of Computing underline the wide range of technological aspects on our life. The use of
+technology and internet aligns our present life style and comes up with risks associated like breaching of
+personal information. This unit provides the policy guidelines and good practices that are to be followed while
+using modern gadgets and how one can secure himself online keeping up with the moral values associated with
+our society.
+Finally, Domain H: Entrepreneurship in the Digital Age guides students to the path of 'learning and earning'
+through skills using digital devices. With problem solving aptitude and skills like web development, keeping in
+view the current applications of computers and their impacts around us; students can vigilantly come up with
+newer solutions and products. Thus, the need arises of creating and managing a firm as per industrial standards
+which can acquire clients' demands and provide services.
+Table of Contents
+Unit 1: Computer Systems
+1.1 Machine Level Representation of data ..............................................................8
+1.2 Numbering Systems...........................................................................................9
+1.3 Common Coding Schemes (ASCII and Unicode) ............................................24
+1.4 Operating System ............................................................................................26
+1.5 Computer Software..........................................................................................36
+Unit 2: Computational Thinking & Algorithms
+2.1 Computing Problems .......................................................................................54
+2.2 Basics of Counting Problems ..........................................................................55
+2.3 Basic Counting Principles ................................................................................56
+2.4 Algorithms and their Characteristics ................................................................59
+2.5 Logical Reasoning ...........................................................................................60
+2.6 Standard Algorithms........................................................................................62
+2.7 Steps in algorithm to solve computational problems.....................................63
+2.8 Abstraction ......................................................................................................64
+2.9 Creating Generalized Solutions ......................................................................65
+2.10 Modular Design ..............................................................................................66
+2.11 Algorithm Dry Run ..........................................................................................67
+2.12 Errors ..............................................................................................................69
+Unit 3: Programming Fundamentals
+3.1 Website Development.....................................................................................75
+3.2 Additional Features of HTML/CSS .................................................................76
+3.3 Advanced Programming Constructs in JavaScript .........................................92
+3.4 Complex Algorithms in JavaScript ................................................................102
+3.5 Advanced techniques for testing and debugging ..........................................106
+Unit 4: Data and Analysis
+4.1 Data Science .................................................................................................117
+4.2 Data Visualization .........................................................................................126
+4.3 Stages of the Data Science Life Cycle .........................................................134
+Unit 5: Applications of Computer Science ...........................................................148
+5.2 Foundational Components of IoT .................................................................148
+5.3 Applications of IoT ..................................................

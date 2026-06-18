@@ -1,0 +1,4208 @@
+Textbook of
+Physics
+Grade
+10
+Based on National Curriculum 2022-23
+www.taleem360.com
+National Book Foundation
+as
+Federal Textbook Board
+Islamabad
+Government Approval
+Approved by the National Curriculum Council (NCC), Ministry of Federal Education and Professional Training, Islamabad
+vide letter No. F.No.1-3/2024/NBF/Physics, Dated: November 29, 2024
+© 2023 National Book Foundation (NBF) as Federal Textbook Board
+All rights to this publication are strictly reserved. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted in any form or by any means-electronic, mechanical, photocopying, recording or otherwise-without the prior express
+written consent of the publisher. Unauthorized use, duplication, or distribution is strictly prohibited and may result in legal action.
+A Textbook of Physics for Grade 10
+Based on National Curriculum of Pakistan (NCP) 2022-23
+Authors
+Aamir Ullah Khan (Managing Author)
+Ahmad Jan, Naeem Nazeer, Nazir Ahmed Malik, Hafiz Mehar Elahi, Muhammad Imran Khaliq (Co-Authors)
+www.taleem360.com
+Supervision of Curriculum and Review Process
+Dr. Shafquat Ali Janjua
+Joint Educational Advisor, National Curriculum Council (NCC)
+Ministry of Federal Education and Professional Training, Government of Pakistan, Islamabad
+NCC Review Committee Members
+Mr. Sajid Raza Syed (Assistant Professor, Pak Turk Maarif International, H-8/1, Islamabad)
+Mrs. Urooj-Ad-doon (Lecturer, Physics, APSAC, FWO, G7/40 Lines, Rawalpindi)
+Mr. Muhammad Awais (Instructor, Physics, BahriaCS&C, G-9/3, Islamabad)
+Desk Officer
+Mrs. Zehra Khushal, (Assistant Educational Advisor) National Curriculum Council (NCC)
+NBF Textbooks Development Supervision
+Murad Ali Mohmand
+Managing Director, National Book Foundation (NBF)
+In-Charge, NBF Textbooks Development
+Mazhar Ahmad, Assistant Director
+Printed in Pakistan
+First Edition: First Impression: February 2025 | Pages: 362 | Quantity: 100050
+Price: 470/- Code: STS-722, ISBN: 978-969-37-1724-2
+Printer: Neelam Printers, Lahore
+TEST
+EDITION
+For details on additional publications from the National Book Foundation, please visit our website at www.nbf.org.pk
+You can also reach us by phone at 051 9261125 or via email at books@nbf.org.pk
+For feedback or corrections, kindly send your comments to 'nbftextbooks@gmail.com' and 'textbooks@snc.gov.pk'
+Note
+All illustrations, artwork, and images in this book are intended solely for educational
+and promotional purposes, benefiting the public interest.
+PREFACE
+This Grade 10 Physics textbook, developed by the National Book Foundation (NBF) in
+alignment with the National Curriculum of Pakistan 2022-2023, aims to deepen students'
+understanding of physics by building on concepts learned in earlier grades. Our goal is to
+foster logical thinking and higher-order reasoning by presenting physics concepts in a way
+that connects them to real-world applications, enabling students to relate their knowledge to
+daily life and prepare them for more advanced studies.
+With contributions from dedicated experts and experienced authors, this textbook has
+undergone extensive review and refinement by professional educators. We focused on
+making the material engaging and accessible for students by introducing interactive
+concepts and real-life activities.
+www.taleem360.com
+The National Book Foundation remains committed to enhancing the quality of its
+educational materials, and this edition features an improved design, clear illustrations, and
+meaningful activities that capture students' curiosity. We welcome suggestions from
+students, teachers, and the community to further enrich future editions of this textbook.
+May Allah guide and help us (Ameen).
+Murad Ali Mohmand
+Managing Director
+3
+Practical applications for physics grade 10
+Physics is more than a school subject; it's a gateway to understanding the mechanics of the world
+around us, from the minuscule particles within an atom to the vast networks of galaxies. As you
+dive into this Grade 10 textbook, you'll see that physics isn't just about memorizing equations or
+facts-it's about building a mindset for discovery and innovation. This subject provides the tools
+you need to solve real-world problems, and the skills developed here will open doors to fields as
+varied as engineering, medicine, and technology.
+Every concept you'll study has a direct impact on everyday life and future career opportunities.
+Whether it's understanding the forces that hold buildings steady or the mechanics of electric
+circuits, each chapter will prepare you for roles that are essential in fields shaping Pakistan's
+future.
+www.taleem360.com
+Chapter 10: HEAT CAPACITY AND MODES OF HEAT TRANSFER
+This chapter delves into the science of how heat is stored and transferred. Understanding
+concepts like thermal conduction, convection, and radiation is essential in fields such as energy
+efficiency, HVAC (heating, ventilation, and air conditioning) design, and renewable energy.
+Careers in environmental engineering, energy conservation, and climate science rely heavily on
+the principles discussed here.
+Chapter 11: THERMAL EXPANSION AND CHANGE OF STATE
+In this chapter, you'll explore the kinetic theory of matter, thermal expansion, and latent heat,
+which are fundamental in materials science, engineering, and environmental studies. Concepts
+like thermal expansion of solids and liquids are particularly useful in civil and mechanical
+engineering, where they are used to design buildings, bridges, and machinery that withstand
+temperature changes.
+Chapter 12: WAVES
+Studying wave theory, reflection, refraction, and diffraction lays the foundation for work in
+telecommunications, sound engineering, and medical imaging. Professionals in fields like
+broadcasting, audio engineering, and seismology rely on a solid understanding of wave behavior to
+analyze sound waves, light waves, and seismic activity.
+Chapter 13: SOUND
+In this chapter, you'll learn about the production and propagation of sound, pitch, loudness, and
+applications of ultrasonic waves. This knowledge is essential in areas like acoustical engineering,
+medical ultrasonography, and environmental science. Careers in audio technology, noise pollution
+control, and even entertainment are built upon these principles.
+Chapter 14: OPTICS
+Here, you will study laws of reflection and refraction, lenses, and applications like gravitational
+and acoustic lensing. These topics are fundamental in fields such as optical engineering, vision
+sciences, and photography. Professionals in fields like ophthalmology, camera design, and fiber
+optics use these principles to create and refine imaging technologies.
+4
+www.taleem360.com
+Chapter 15: ELECTROSTATICS
+Understanding electrostatics, electric fields, and electrical discharges is crucial for careers in
+electronics, telecommunications, and safety engineering. Applications of electrostatics are found
+in devices like photocopiers, air purifiers, and touch screens, opening paths to jobs in electronics
+design, environmental control systems, and industrial safety.
+Chapter 16: CURRENT ELECTRICITY
+This chapter covers current flow, potential difference, Ohm's law, and resistance-the backbone
+of electrical and electronic engineering. Knowledge in current electricity is vital for careers in
+power distribution, electrical engineering, and electronics. Whether working with power grids,
+household appliances, or complex electronic circuits, these concepts are widely applied.
+Chapter 17: ELECTRIC CIRCUITS
+In this chapter, you'll study the components and design of electric circuits, including resistors,
+potential dividers, and power applications. This knowledge is essential for careers in circuit
+design, computer engineering, and electrical safety. In Pakistan, the demand for skilled circuit
+designers and power engineers is growing in areas like renewable energy systems, automation,
+and telecommunications.
+Chapter 18: ELECTRONICS
+This chapter introduces students to the world of diodes, transistors, and Boolean logic, the
+building blocks of modern electronics. Careers in electronics, telecommunications, and even
+quantum computing are within reach for students who master the concepts of analogue and digital
+electronics.
+Chapter 19: ELECTROMAGNETISM
+This chapter explores magnetic fields, electromagnetic induction, and the operation of
+generators and motors. Understanding electromagnetism is crucial for careers in power
+generation, robotics, and transportation engineering. Applications in electric vehicles, magnetic
+storage devices, and energy systems make this field rich in opportunities for engineers and
+technicians alike.
+Chapter 20: ELECTROMAGNETIC WAVES
+The study of electromagnetic waves, spectrum applications, and light scattering is essential in
+fields like satellite communications, radiology, and space exploration. With Pakistan advancing in
+areas such as remote sensing and medical imaging, this chapter lays a solid foundation for careers
+in telecommunications, medical technology, and atmospheric sciences.
+Chapter 21: NUCLEAR PHYSICS
+The study of atoms, isotopes, and nuclear reactions offers a gateway to careers in energy
+production, medical imaging, and scientific research. By understanding radioactivity, students
+can contribute to fields like nuclear energy, healthcare, and space exploration, where the
+manipulation and safe handling of nuclear materials are essential.
+In conclusion, the journey through Grade 10 physics prepares students not only for higher
+academic pursuits but also for impactful careers in diverse fields. Whether you're interested in
+energy solutions, medical technologies, or cutting-edge electronics, physics equips you with the
+tools to shape the future
+5
+www.taleem360.com
+بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
+اللہ کے نام سے جو بڑ ے مہربان،نہایت رحم والے ہیں
+Contents
+Unit 10: HEAT CAPACITY AND MODES OF HEAT TRANSFER
+10.1 Specific Heat Capacity
+10.2 Transfer of Heat Transfer of Heat
+10.3 Applications of Heat Transfer
+10.4 Green House Effect and Global Warming
+10.5 Flow of Heat in Geothermal Activities
+Summary
+Exercise
+www.taleem360.com
+Unit 11: THERMAL EXPANSION AND CHANGE OF STATE
+11.1 Kinetic Theory of Matter
+11.2 Thermal Expansion
+11.3 Evaporation
+11.4 Latent Heat
+11.5 Pressure Exerted by Gas Particles
+11.6 Superconductivity
+Summary
+Exercise
+Unit 12: WAVES
+12.1 Wave Motion
+12.2 Wave Propagation
+12.3 Characteristic Wave Parameters
+12.4 Waves and their Types
+12.5 Types of Waves On the Basis of Medium
+12.6 Types of Waves On the Basis of Propagation
+12.7 Wave Characteristics
+12.8 Properties of Waves
+12.9 Tsunamis
+Summary
+Exercise
+6
+www.taleem360.com
+Unit 13: SOUND
+13.1 Source of Sound
+13.2 Nature of Sound Waves
+13.3 Ultrasound
+13.4 Infrasound
+13.5 Characteristics of Sound Waves
+13.6 Analysing Sound Waves
+13.7 Speed of Sound
+13.8 Noise
+13.9 Reflection, Refraction and Diffraction of Sound Waves
+13.10 Echo
+13.11 Acoustics
+13.12 Human Hearing System
+Summary
+Exercise
+www.taleem360.com
+Unit 14: OPTICS
+14.1 Reflection of Light
+14.2 Refraction of Light
+14.3 Total Internal Reflection
+14.4 Thin Lenses
+14.5 Application of Lenses
+14.6 Visible Spectrum
+14.7 Human Eye and Colour Perception
+14.8 Gravitational Lensing
+14.9 Acoustic Lenses
+Summary
+Exercise
+Unit 15: ELECTROSTATICS
+15.1 Static Charge
+15.2 Conductors and Insulators
+15.3 Charging and Discharging
+15.4 Electroscope
+15.5 Electric Field
+7
+www.taleem360.com
+15.6 Applications of Electrostatics
+15.7 Electrical Breakdown
+Summary
+Exercise
+Unit 16: CURRENT ELECTRICITY
+16.1 Electric Current
+16.2 Alternating and Direct Current
+16.3 Potential Difference
+16.4 Emf
+16.5 Ohm's Law
+16.6 Resistance
+16.7 Resistivity
+16.8 Electrical Measuring Instruments
+16.9 Experiment for Demonstration of Resistance
+Summary
+Exercise
+www.taleem360.com
+Unit 17: ELECTRIC CIRCUITS
+17.1 Circuit Elements and Diagram
+17.2 Resistors
+17.3 Types of Resistors
+17.4 Combination of Resistors
+17.5 Combination of EMF Sources
+17.6 Electricity and its Uses
+17.7 Electrical Energy
+17.8 Electric Power
+17.9 Household Circuits and Electric Safety
+Summary
+Exercise
+Unit 18: ELECTRONICS
+18.1 Semiconductors
+18.2 N and P Type Semiconductors
+18.3 PN Junction
+8
+www.taleem360.com
+18.4 Characteristics of Diode Under Biasing
+18.5 Light Emitting Diode
+18.6 Transistor
+18.7 Relays and Switching Circuits
+18.8 Transistor as a Switch
+18.9 Digital Electronics
+18.10 Fundamental Logic Gates
+18.11 Universal Logic Gates
+18.12 Uses of Logic Gates
+18.13 Analogue and Digital Electronics
+18.14 Quantum Computers
+Summary
+Exercise
+www.taleem360.com
+Unit 19: ELECTROMAGNETISM
+19.1 Magnetic Field Due to Current Carrying Wire
+19.2 Magnetic Field Due to Current Carrying Solenoid
+19.3 Earth's Magnetic Field
+19.4 Application of Magnetic Effect of Current
+19.5 Force On a Current Carrying Conductor Place in a Magnetic Field
+19.6 Current Carrying Coil in a Magnetic Field
+19.7 Electric Motor
+19.8 Electromagnetic Induction
+19.9 Lenz's Law
+19.10 Electric Generator
+19.11 Transformer
+19.12 Deflection of Electron Beam
+19.13 Cathode Ray Oscilloscope
+Summary
+Exercise
+Unit 20: ELECTROMAGNETIC WAVES
+20.1 Electromagnetic Spectrum
+20.2 Applications of electromagnetic waves
+20.3 Risks associated with electromagnetic waves
+9
+www.taleem360.com
+20.4 Scattering of Light
+20.5 Nature of Light
+Summary
+Exercise
+Unit 21: NUCLEAR PHYSICS
+21.1 Discovery of Nucleus
+21.2 Nuclear Representations
+21.3 Isotopes and Radioisotopes
+21.4 Radioactivity
+21.5 Nuclear Decay
+21.6 Half-Life
+21.7 Ionizing Nuclear Radiations
+21.8 Applications of Radiation
+21.9 Background Radiation
+21.10 Nuclear Fission
+21.11 Nuclear Fusion
+21.12 Dark Matter
+21.13 Falsibility
+Summary
+Exercise
+www.taleem360.com
+GLOSSARY
+INDEX
+BIBLIOGRAPHY
+AUTHORS PROFILE
+10
+Unit
+10
+HEAT CAPACITY AND MODES
+OF HEAT TRANSFER
+Why does a person
+enjoy comparatively
+cooler weather near sea
+at day compared to
+land areas?
+www.taleem360.com
+STUDENT LEARNING OUTCOMES
+The students will:
+✓ [SLO: P-10-C-01] Define and calculate specific heat.
+✓ [SLO: P-10-C-02] Suggest experiments to measure the specific heat capacity.
+✓ [SLO: P-10-C-03] Analyse everyday effects due to the large specific heat of water.
+✓ [SLO: P-10-C-30] Justify experiments to distinguish between good and bad thermal conductors.
+✓ [SLO: P-10-C-31] Explain thermal conduction in all solids.
+✓ [SLO: P-10-C-32] Explain convection in liquids and gases.
+✓ [SLO: P-10-C-33] Explain convection in seawater to support marine life.
+✓ [SLO: P-10-C-34] Describe the role of land breezes and sea breezes in maintaining moderate coastal
+climates.
+✓ [SLO: P-10-C-35] Explain how birds are able to fly for hours without flapping their wings and gliders are able
+to rise by riding on thermal currents.
+✓ [SLO: P-10-C-36] Describe the process of thermal energy transfer by radiation.
+✓ [SLO: P-10-C-37] Describe the effect of surface color and texture on the emission, absorption and reflection
+of infrared radiation.
+✓ [SLO: P-10-C-38] Justify qualitatively how the rate of emission of radiation depends on the surface
+temperature and surface area of an object.
+✓ [SLO: P-10-C-39] Justify experiments to distinguish between good and bad emitters and absorbers of
+infrared radiation.
+✓ [SLO: P-10-C-40] Analyze the consequence of heat radiation in the greenhouse effect and its effect in global
+warming.
+Unit 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+✓ [SLO: P-10-C-41] Analyze everyday applications of conduction, convection and radiation.
+✓ [SLO: P-10-F-23] Use ideas of convection to explain how cyclones are formed.
+✓ [SLO: P-10-F-24] Explain how global warming contributes to extreme weather events.
+✓ [SLO: P-10-F-25] Explain the phenomena of geothermal activity on the basis of conduction, convection and
+radiation.
+Have you ever wondered why water takes time to boil or why metal feels colder than wood at the
+same temperature? These questions lead us to explore heat, specifically specific heat capacity
+and heat transfer methods.
+We will start with specific heat capacity, which is the heat needed to raise a substance's
+temperature. Water, with its high specific heat capacity, heats slowly but retains warmth longer,
+linking kitchen mysteries to broader climate issues. We will conduct experiments to measure the
+specific heat capacities of various materials. Next, we will look at the three main heat transfer
+methods: conduction, convection, and radiation. These principles explain why hot coffee cools,
+why upper floors feel warmer, and how the sun's energy reaches us. Understanding these concepts
+is crucial for grasping their roles in greenhouse effects and global warming. Finally, we'll explore
+geothermal phenomena, where the Earth's hot core drives magma movements and tectonic
+shifts, leading to earthquakes and volcanic eruptions. Throughout this chapter, consider how heat
+and its movement impact your daily life and the world around you.
+www.taleem360.com
+10.1 SPECIFIC HEAT CAPACITY
+Specific heat capacity or specific heat of a material is the amount of heat absorbed or lost to
+change the temperature of 1 kg of its substance by 1 kelvin or 1 degree celsius.
+Q
+c=
+10.1
+MAT
+Where 'c' is the specific heat of the material, 'Q' is the amount of heat absorbed or lost, 'm' is the
+mass of the substance and 'AT', i.e. (T final - Tinitial) is the change in temperature of the substance.
+Its SI unit is joule per kilogram per kelvin (J kg¹ K´¹). Its other units in use are J kg¹ °C´¹ and Jg¹ °C¹.
+For example, specific heat of aluminum is 900 J kg¹ K´¹. Its value in other units can be written as
+900 J kg¹ °C¹ and 0.9 Jg¹ °C¹.
+Some materials require small amount of heat like metals (for example aluminium, copper, iron
+and diamond etc). These materials have low value of specific heat. Such materials are good
+conductor of heat. We can say that these materials cannot retain heat for longer time with them.
+These materials heat up and cool down quickly. Therefore, such materials are used in heat sinks.
+Some substances require large amount of heat like water to raise its temperature by one kelvin.
+They have large specific heat. These materials absorb or loose large amount of heat for small
+change in their temperature. They cannot be easily heated up or cooled down. It means that
+these materials can retain heat in them. These materials are used for controlling the temperature
+National Book Foundation
+12
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+UNIT 10
+UNIT
+Why does a person comparatively cooler weather near sea at day compared
+to land areas?
+OPENER?
+The cooler daytime temperatures experienced in coastal areas, compared to inland
+regions, result from the interplay between the high specific heat capacity of water and
+the moderating effects of sea breezes. Coastal areas tend to be cooler during the day
+than areas further inland due to the differing heat capacities of water and land.
+Water's higher specific heat capacity means it takes more energy to raise its
+temperature compared to land. Therefore, the water temperature
+rises much more gradually. This results in cooler air temperatures near
+coastal areas, influenced by the slower-warming water bodies.
+The temperature difference between land and sea creates a pressure
+gradient that drives sea breezes. As the land absorbs solar radiation
+and heats up, the air above it warms, becomes less dense, and rises,
+forming a low-pressure zone. In contrast, the cooler sea surface
+maintains a cooler, denser air mass above it, establishing a high-pressure area. This pressure difference
+www.taleem360.com
+propels the cooler air from the sea towards the land, generating a sea breeze. This influx of cooler, more
+humid air from the ocean moderates coastal temperatures, keeping them lower than inland areas.
+in different devices. For example, water has large
+specific heat therefore it is used in cars as engine coolant.
+10.1.1 USES OF LARGE SPECIFIC HEAT OF WATER
+Water has large specific heat (4200 J kg¹ K´¹). Due to it, it
+has significant uses in our daily life.
+A. Temperature Variation in Land and Coastal Areas:
+The specific heat of dry soil (800 J kg¹ K´¹) is smaller than
+that of water. It is about five times smaller than that of
+water. It is why land area quickly heats up in summer and
+temperature rises from about 45 °C to 50 °C, and also
+because land quickly cools down in winter, leading to low
+temperatures from 5 °C to 0 °C. But in coastal areas,
+temperature variation is small. In Karachi, average
+temperature variation is from 19 °C to 32 °C. So, oceans
+and large lakes absorb a lot of heat from the sun during
+the summer and keep the heat stored in them. On the
+other hand, in winters, oceans and lakes release heat into
+the atmosphere. This phenomenon keeps the
+temperature moderates between summer and winter in
+coastal areas.
+Table 10.1: SPECIFIC HEATS OF
+SELECTED SUBSTANCES
+Materials
+Specific heat J/kg K
+Aluminum
+910
+Copper
+387
+Glass
+840
+Gold
+129
+Iron/ steel
+452
+Lead
+128
+Silver
+235
+Ethanol
+2450
+Glycerin
+2410
+Mercury
+139
+Water
+4190
+Carbon dioxide
+638
+Oxygen
+651
+Steam (100 °C)
+1520
+13
+National Book Foundation
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+B. Maintaining stability of Ocean and Lake Temperatures: Lakes and oceans heat up and cool
+down slowly due to high specific heat of water. This prevents changes in the temperature of the
+lake and oceans and thus provides a suitable environment for aquatic life.
+C. Human Body Temperature Regulation:
+The human body contains approximately
+60% water. A healthy body maintains its
+temperature about 37 °C. Now, we can
+relate how can our body maintain its
+temperature due to high specific heat of
+water.
+Water pump
+Thermostat
+Upper radiator hose
+Radiator core
+Bleed hose
+D. Cooling system and Heat Exchangers:
+Water is used as coolant in power plants,
+different industrial process and cooling
+system of automobiles (radiators) as shown FIGURE 10.1 Cooling system of vehicles
+in figure 10.1. Water takes large amount of excess heat from the machines and effectively
+transfer heat using heat exchanger. It prevents overheating in the machinery and maintain their
+high efficiency.
+Coolant
+expansion
+tank
+Radiator fan
+Lower radiator hose
+Air flow
+www.taleem360.com
+E. Cooking Process: Water is good for cooking because of its high specific heat. It heats up slowly
+and distributes heat evenly. It ensures food cooking without burning. Hot drinks like tea and
+coffee stay hot for long time. Can you explain it?
+Example 10.1
+A 200 g sample of a solid metal is heated from 25 °C to 75 °C. If 3,500 joules of heat energy is
+required to raise the temperature of the metal, what is the specific heat of the metal?
+GIVEN:
+Mass 'm' = 200 g = 0.2 kg
+Change in temperature 'AT' = 75 °C - 25 °C = 50 °C = 50 K
+(Change in temperature in celsius and kelvin scales is same)
+Heat energy 'Q' = 3,500 J
+SOLUTION:
+Specific heat capacity is given by: c =
+REQUIRED:
+Specific heat of metal 'c' = ?
+Q
+mAT
+putting values c=
+3,500 J
+(0.2kg)(50K)
+Therefore
+3,500 J
+(0.2kg)(50K)
+ANSWER
+Therefore, the specific heat of the metal is 350 J kg´¹ K´¹.
+National Book Foundation
+14
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+UNIT 10
+Example 10.2
+A half kilogram sample of aluminum (specific heat capacity c= 900 J kg¹ K´¹) is heated from
+room temperature of 25 °C to 100 °C. How much heat is absorbed by the aluminum to raise
+its temperature?
+GIVEN:
+Mass 'm' = 0.5 kg, Specific heat 'c' = 900 J kg¹ K¹
+Initial temperature 'T. = 25 °C
+final
+Final temperature 'T
+= 100 °C
+Change in temperature 'AT' = 100 °C - 25 °C = 75 °C = 75 K
+SOLUTION:
+Specific heat capacity is given by:
+REQUIRED:
+Heat absorbed 'Q' = ?
+Q
+mCAT
+or Q = mCAT
+putting values Q = (0.5 kg) × (900 Jkg´¹ K´¹) x (75 K)
+Therefore
+Q = 33,750 J = 33.75 kJ
+ANSWER
+The amount heat required by sample of aluminum is 33.75 kJ.
+www.taleem360.com
+10.1.2 MEASUREMENT OF SPECIFIC HEAT OF SOLIDS AND LIQUIDS
+There are different experiments which can be used to determine specific heat of solids and
+liquids. The most common methods are "method of mixtures" and "electrical heating method".
+A. Method of mixtures: The experiments for measurement of unknown specific heat capacity of
+solids and liquids by method of mixtures are discussed below:
+1. Measurement of unknown specific heat capacity of solids: This method uses a calorimeter to
+determine the heat capacity of a substance. In this method, when the hot sample e.g. a solid is
+added to water in the calorimeter, heat is exchanged between them as well as the calorimeter.
+From the law of conservation of energy, the heat lost by hot bodies will be equal to the heat
+gained by cold bodies. Then we form the equation after measuring the change in temperature of
+the water in calorimeter and masses of substances. After careful analysis, we can calculate the
+specific heat capacity of the sample.
+Apparatus: A Bunsen burner or hot plate, copper calorimeter with lid stirrer and insulating cover,
+a metallic solid cylinder (e.g. brass or copper cylinders), weighing machine, water, beaker,
+laboratory stand and two thermometers
+Key Variables:
+Independent Variable is the temperature of the metal block.
+Dependent Variable is the energy supplied to the metal block by heating.
+15
+National Book Foundation
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+Thermometer T₁ °C
+Stand
+T₂°C
+Thermometer
+T₂°C
+Suspended
+Cylinder
+Boiling
+water
+Insulating
+Box
+Stirrer
+Water
+Beaker
+burner
+(a) Initial temperature of
+water in calorimeter
+FIGURE 10.2 Measurement of specific heat capacity of a solid with mixture method.
+(b) Temperature of boiling
+water and solid cylinder
+(c) Final temperature of
+the mixture in calorimeter
+www.taleem360.com
+Procedure:
+1. Take an empty calorimeter of known heat capacity C, Mass of calorimeter m, with
+the stirrer and lid.
+2. Fill the calorimeter with enough water to completely submerge the solid later. Weigh (m) the
+calorimeter with water. Difference of masses (m - m) is equal to the mass of water (m) in the
+calorimeter.
+3. Place the calorimeter in its insulating cover and insert thermometer in it. Measure the
+temperature of water T₁ °C (equal to the temperature of the surroundings) as shown in figure 10.2
+(a).
+4. Measure the mass of the given solid using a weighing machine and note down its mass as m₂.
+5. Boil water in a beaker with the solid submerged. Measure the boiling water temperature
+(T₂ °C). In this step, ensure that the solid attains the same temperature as the boiling water on
+heating as shown in figure 10.2 (b).
+6. Remove the solid from boiling water, shake off excess water, and quickly place it in the
+calorimeter. Cover the calorimeter immediately.
+7. Stir the water continuously with the stirrer for uniform distribution of heat (and temperature).
+8. Measure the final temperature of the mixture once it becomes constant on attaining
+equilibrium, record this temperature as T₂ °C as shown in figure 10.2 (c).
+9. Now we calculate the increase in temperature of water and calorimeter that is equal to
+(T₂-T₁) and decrease in temperature of solid is equal to (T₂-T₁).
+10. From principle of calorimetry i.e. law of conservation of energy, heat given by solid in cooling
+from T₂ to T₁ is equal to heat gained by the water and calorimeter in raising their temperature
+National Book Foundation
+16
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+UNIT 10
+from T₁ to T₂, Such that:
+Heat loss by solid = Heat gained by water in calorimeter + Heat gained by calorimeter
+Qs = Qw + Qc
+or
+mc (T₂-T₂) = mcw(T₂-T₁) + mc(T₂-T₁)
+By rearranging the above equation, we can find the specific heat capacity of solid.
+mcw(T₂-T₁) + mccc(T₂-T₁)
+C =
+mc(T₂-T₂)
+(mcw+mcc)(T₂-T₁)
+Hence,
+C =
+10.2
+mc(T₂-T₂)
+Result: Equation 10.2 is used to find specific heat of a solid (c.). By putting the measured masses
+of solid, water and calorimeter, specific heat capacities of water and calorimeter, and
+temperatures T₁, T₂ and T₂ in equation 10.2, we can calculate the specific heat capacity of the
+solid.
+www.taleem360.com
+ii. Measurement of unknown specific heat capacity of a liquid: To measure the unknown
+specific heat capacity of a liquid, we follow the same procedure. But in this experiment, we take
+solid of known specific heat capacity but liquid of unknown specific heat capacity c, is taken. Same
+experiment is performed to measure the unknown specific heat capacity of a liquid. fro this
+experiment, law of conservation of energy can be written as:
+mc₁ (T₂-T₁) = mc₂ (T₂-T₁) + mc₃ (T₂-T₁)
+By rearranging the above equation, we get:
+mc₂ (T₂-T₁) + mc₃ (T₂-T₁)
+Hence,
+C =
+10.3
+m₁(T₂-T₁)
+Example 10.3
+A 150 g piece of an unknown solid cylinder is heated to 100 °C and then placed into a
+calorimeter containing 200 g of water at 25 °C. The calorimeter has a mass of 50 g and a
+specific heat capacity of 0.9 J/g°C. The final temperature of the system (solid, water, and
+calorimeter) is 30 °C. Assume no heat is lost to the surroundings. Calculate the specific heat
+capacity of the solid.
+GIVEN:
+Mass of solid cylinder 'm' = 150 g
+Mass of water in calorimeter 'm' = 200 g
+Mass of calorimeter 'm' = 50 g
+Initial temperature 'T₁' = 25 °C
+REQUIRED:
+Specific heat capacity 'c' = ? (in J/g °C)
+Temperature of solid cylinder 'T₁' = 100 °C
+Final temperature 'T' = 30 °C
+Specific heat of water 'c' = 4.18 J/g °C
+Specific heat of calorimeter 'c' = 0.9 J/g °C
+17
+National Book Foundation
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+SOLUTION:
+From principle of calorimetry, we have: c₁ =
+(mcw + mcc)(T₂-T₁)
+mc(T₂-T₂)
+(200 g)(4.18 J/g°C) × (50 g)(0.9 J/g°C) x (30 °C - 25 °C)
+putting values c =
+(150 g)x(100 °C - 30 °C)
+Therefore
+c = 0.42 J/g°C
+ANSWER
+The specific heat capacity of solid is 0.42 J/g°C.
+B. Electrical Heating Method: The experiments for measurement of unknown specific heat
+capacity of a solid and liquids are discussed below:
+www.taleem360.com
+i. Measurement of unknown specific heat capacity of solids: In this method, we measure the
+amount of heat transferred to a material and measure its temperature change.
+Apparatus: A solid block or cylinder e.g. aluminium with a hole in it for a heater and a smaller
+hole for a thermometer, an immersion heater, voltmeter, ammeter, thermometer.
+Procedure:
+1. Calculate the mass of the solid block.
+2. Place an electrical immersion heater into the central
+hole at the top of the weighed metal block. Connect the
+heater with an ammeter to measure current and with a
+voltmeter to measure voltage (potential difference)
+applied on the heater as shown in figure 10.3.
+3. Place the thermometer into the smaller hole. Add few
+drops of oil into the hole to make sure the thermometer
+is surrounded by hot material.
+Immersion Heater
+Metal Block
+Thermometer
+Measurement of specific
+FIGURE 10.3 heat capacity of a solid
+by electrical method
+4. Insulate the block by wrapping it with cotton wool.
+5. Record the initial temperature of the block.
+6. Connect the heater to the power supply and turn it on for ten minutes. Record the current and
+potential difference.
+7. After ten minutes, turn the heater off. Record the highest temperature that it reaches
+(temperature readings will rise even after the heater is turned off).
+8. Calculate the heat energy generated by water.
+Result: Calculate the specific heat capacity of the solid block using the formula:
+Q
+C=
+mAT
+10.4
+National Book Foundation
+18
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+UNIT 10
+ii. Measurement of unknown specific heat capacity of liquids:
+Apparatus: An immersion heater, voltmeter, ammeter, thermometer, water and calorimeter.
+Procedure:
+1. Calculate the mass of empty calorimeter (m₁).
+2. Add some liquid e.g. water in calorimeter and measure
+the mass of calorimeter plus liquid (m). Difference of the
+masses (m - m₁) gives the mass of liquid (m).
+Heat generated by heater is calculated by:
+Heat energy = electrical energy supplied to
+heater
+Heat energy = Voltage × current × time
+3. Measure the initial temperature of the calorimeter
+You will study this formula in detail in
+plus liquid using thermometer.
+unit 16: Current electricity
+4. Place electrical heater inside the liquid, and connect ammeter and voltmeter with it. Switch it
+ON. Measure the voltage and current passing through the heater as shown in figure 10.4.
+5. Temperature will start to rise. When temperature rises for 10 °C, switch off the heat and stir
+the liquid well and measure the highest temperature of the liquid. Then find the temperature
+difference between highest temperature and initial temperature of liquid.
+www.taleem360.com
+6. From law of conservation of energy:
+Energy Supplied = Heat gained by liquid
++ Heat gained by calorimeter
+QHeater = Qw + Qc
+QHeater = m₁c₁ (T₂-T₁) + m₂c₂ (T₂-T₁)
+Result: By rearranging the above equation, we get:
+QHeater - m₂ c₂ (T₂-T₁)
+C₁ =
+m₁(T₂-T₁)
+10.5
+By putting the measured values of heat energy
+produced by heater, masses of liquid and calorimeter
+and initial and final temperatures, we can measure
+the specific heat capacity of liquid.
+10.2 TRANSFER OF HEAT
+Insulated
+container
+Liquid
+e.g. water
+Heating resistor
+Measurement of specific
+FIGURE 10.4 heat capacity of a liquid
+by electrical method
+Heat transfer occurs when thermal energy is transferred from one object to another because of a
+temperature difference. This process continues until both objects reach the same
+temperature, which is known as thermal equilibrium. There are three methods of heat transfer
+i.e. conduction, convection and radiation.
+19
+National Book Foundation
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+10.2.1 THERMAL CONDUCTION
+A cooking pot's top edges get extremely hot when we touch them after it has been on the stove for
+a while, even if they are not heating hot directly. It happens because heat is transferred to the
+top edges due to the phenomenon of conduction. Similarly, when frying vegetables in a pan as
+shown in figure 10.5. Heat transfer takes place from the flame to the pan and then to the
+vegetables due to conduction.
+This method of heat transfer takes place in solids. In
+conduction, heat is transferred from atoms to atoms.
+Metals are good conductors of heat because they have a
+large number of free electrons that travel faster across
+the metal when metal is heated. That's why heat energy
+is transferred quickly in metals. We can define thermal
+conduction as: 'It is method of transfer of heat due to
+collisions of atoms or molecules and motion of free
+electrons in solids from its hot part to cold part'.
+FIGURE 10.5 Thermal Conduction
+www.taleem360.com
+Copper
+Iron
+Carbon
+Water
+Air
+Glass
+Rubber
+Better conductors
+Better insulators
+FIGURE 10.6 Thermal Conductors
+When one of the ends of a rod is heated, atoms at this end start vibrating with larger amplitude.
+These atoms hit their neighbouring atoms and transfer heat energy as shown in figure 10.7.
+Now, these atoms vibrate with larger amplitude and hit their nearby atoms, and process
+continues. Heat energy is transferred between the two ends in this manner.
+When a copper rod and a wooden stick are heated simultaneously, we find that the copper rod's
+other end heats up more quickly than the wooden stick's other end.
+This is due to the fact that
+metallic rods, such as copper
+rods, have a lot of free
+electrons. In comparison to
+vibrating atoms, these free
+electrons get energy from
+the hot end and transfer
+energy fast from one end of
+the rod to its second end.
+Faster vibrating atoms
+collide with slower
+vibrating atoms
+Free electrons
+transfer energy
+through the metal
+Hot
+Cold
+end
+Heat
+Atom
+Electron
+FIGURE 10.7 Mechanism for thermal Conductors
+National Book Foundation
+20
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+UNIT 10
+We can say that metals transfer heat energy quickly than other solids like wood, glass etc.
+Experiment: Let's discuss an experiment to differentiate between good and bad conductors
+(figure 10.8).
+Apparatus: Three long thin strips of different metals (for example copper, iron, and aluminium
+rods), Vaseline or wax, drawing pins and a Bunsen burner.
+Control variables: length of metal rod,
+diameter of rods, position in the Bunsen
+flame.
+Method: The following procedure is adopted.
+1. Apply small dots of wax at the ends of
+metal rods and fix the drawing pins in them.
+Wax
+Drawing pin
+Iron rod
+Copper rod
+Aluminium rod
+Bunsen burner
+Tripod stand
+2. Position the other end of the metal rods
+into a Bunsen flame. Make sure that heat can
+reach every metal rods in the same amount.
+FIGURE 10.8 Good and bad conductors
+www.taleem360.com
+3. As the heat flows through metal rods, wax will melt and pin will drop. Record the time taken for
+the wax to melt and the drawing pin to drop off. The fastest time shows the best conductor of
+heat. It happens because good conductors allow heat to flow fast through them and cause
+Vaseline to melt soon.
+Result: The drawing pin falls off the copper rod first followed by the aluminium.
+Conclusion: From this we can conclude that copper conducts better than aluminium, while
+aluminium conducts better than iron and brass.
+10.2.2 CONVECTION
+When we heat water on the stove, we can see the movement
+of water. Water molecules at the bottom receive heat
+immediately. According to KMT, intermolecular forces
+between these water molecules decrease as temperature
+rises, and the distance between molecules increases. This
+makes the water less dense at bottom. This less dense water
+FIGURE 10.9
+Transfer of heat via
+convection
+moves from bottom to top after taking heat energy. The dense cold water at the top sinks to fill
+the gap and gains heat energy. In this way, the molecules of the water move themselves to
+transfer heat energy due to differences in density in two parts of the fluid.
+'The method of transfer of heat due to bulk movement of molecules in fluids is called
+convection'. We can also define it as "convection is the transfer of heat energy due to the
+transfer of fluid itself." Convection only takes place in liquids and gases. It cannot take place in
+solids.
+21
+National Book Foundation
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+Experiments: As illustrated in the figure 10.10, put some potassium
+permanganate crystals in the bottom of a beaker filled with water. A
+stream of potassium per manganate travels upward and produces a
+convectional current when the beaker is heated.
+Water at bottom of beaker heats up, it expands and becomes less dense.
+This less dense water rises up and transfer heat energy from the bottom
+to the top of the container. Then cold water (denser water) flows
+downward from the sides and replaces the hot water. This process
+continues and heat continuously transfers due to the continuous flow of fluid.
+FIGURE 10.10
+Formation of
+convectional current
+You can perform another experiment at home to understand the convection process as shown in
+figure 10.11. Take blue and red food colours. Use blue food colour to make blue colour ice cubes.
+Now take the water in a transparent bowl or box and put blue ice cubes on one of its sides. Add
+warm water on the other side. Place the ink pot filled with red food colour on the warm water side
+and the bottom of the container. You will see that red food colour on the warmer side will rise first
+and then it will move towards
+the cooler blue ice side. And
+cold water, being denser,
+sinks, and its left place is
+filled by the red colour water.
+www.taleem360.com
+This process continues and
+shows the transfer of heat due FIGURE 10.11 Colours showing flow of fluid from hot to cold regions
+to the motion of molecules.
+A. Convection and Marine Life: Convection is a crucial process that helps support marine life in
+the oceans. It involves the movement of seawater driven by differences in temperature and
+salinity across the globe as shown in figure 10.12. Salty water is denser than fresh water. In some
+areas, seawater becomes saltier and denser, especially where a lot of water evaporates due to
+hot weather.
+Heat released
+to atmosphere
+Warm water is less dense than cold water.
+When the sun heats the surface of the ocean,
+the water at the surface becomes warmer and
+less dense. This warm water rises and spreads
+out across the surface. Cold water is denser
+than warm water.
+While in polar regions, the seawater cools
+down and becomes denser, causing it to sink
+to ocean depths. These movements of water
+FIGURE 10.12 Convection currents across the globe
+National Book Foundation
+22
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+UNIT 10
+cause convectional
+currents. Upward
+movement of sea water is
+called upwelling and
+downward movement of
+sea water is called
+downwelling as shown in
+figure 10.13.
+Coastline Wind
+Upwelling
+Current
+Seafloor
+(b) Upwelling at sea shores
+0°C
+(b) Downwelling in polar waters
+Distribution of food:
+FIGURE 10.13 Upwelling and downwelling
+Upwelling typically occurs along coastlines where winds blow parallel to the shore. As surface
+water is pushed away from the coast, it is replaced by water rising from below. This deeper water
+is usually colder and richer in nutrients (containing nitrogen, phosphate and organic materials) as
+compared to the surface water. Phytoplankton (a tiny plant like organism) uses these nutrients an
+sunlight to grow and multiply shown in figure 10.14. Phytoplankton is food source for many
+marine creatures from small (zooplankton) to large (whales).
+www.taleem360.com
+Distribution of oxygen: Marine animals,
+like fish nee oxygen to live. Most oxygen
+is dissolved in top water exposed to air.
+Convection causes this water to go deep
+into the ocean floor. Without
+convection, deep waters would lack
+oxygen, making it difficult for marine
+life to survive.
+Plankton in oceans
+Phytoplankton
+Zooplankton
+Calms and
+sponges
+Hard coral
+Laval and baby fish
+Distribution of heat: Due to upwelling
+warm water rises up and takes heat to
+top. Convection distribute heat
+throughout the ocean. This helps to
+stabilize the temperature. Also, the
+movement of warm and cold water around the globe effects climate patterns, which can affect
+the habitats of marine life.
+FIGURE 10.14 Plankton in our oceans
+INFORMATION
+Rubber is generally a better insulator than air. Rubber has a lower thermal
+conductivity than air, meaning it can reduce the transfer of heat energy more
+effectively. Rubber has tightly bound electrons which helps to resist transfer of
+heat. Rubber can resist the flow of heat energy about 4-8 times better than air.
+23
+National Book Foundation
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+B. Land Breeze and Sea Breeze: Breeze continuously
+blows on the coastal areas due to convection. Breeze
+during the day is called sea breeze and breeze during the
+night is called land breeze.
+SEA BREEZE
+Warm air from land
+Cool air from ocean
+Sea Breeze: During the day, land heats up quickly than
+the sea due to its low specific heat. Therefore, air above
+the land becomes hot, expands and becomes less dense.
+This hot air above land rises up and cool air above sea
+moves toward the land to fill the gap.
+LAND BREEZE
+Warm air from ocean
+Land Breeze: At night, temperature of land quickly falls
+than the water (water can maintain its temperature for
+Cool air from land
+long time due to its high specific heat capacity). Due to
+this, air above the sea is hotter than the air above the
+land. Therefore, hot air above the sea water rises up and cool
+air from the land moves towards the sea to fill the gap.
+FIGURE 10.15 Sea and land breeze
+These breezes continuously blow across the coastal areas and help to maintain the moderate
+climate there as shown in figure 10.15. These natural wind patterns help to cool coastal areas
+during the day and moderate temperatures at night, resulting in a more temperate and stable
+climate. Sea breeze carries moisture from the ocean, influencing coastal humidity and
+precipitation patterns. This continuous blowing of breezes exchanges gases from land to sea and
+sea to land (and prevents the stagnancy of gases in the region).
+www.taleem360.com
+C. Thermal and Bird's Flight: During the day, Sun heats the land unevenly, dark and concrete
+structures absorb more heat than other areas like grass or water. Therefore, air above hot areas
+become less dense and rises from the ground. This rising hot air is surrounded by the cooler air
+around it, forms an eddy, and birds and gliders use them to soar through the air.
+Birds like eagles, hawks, vultures, etc. are
+expert thermal riders. These birds have
+large and wide wings. By spreading their
+wings and tilting them slightly upwards,
+they ride on this rising air (thermals) as
+shown in figure 10.16. To stay within the
+thermal in this rising air, they fly in circles.
+They glide between thermals and maintain
+their high altitude without flapping their
+wings for a long period of time.
+Colder air sink
+Warm air rises
+FIGURE 10.16 Motion of birds on thermals
+National Book Foundation
+24
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+UNIT 10
+D. Hurricanes and Cyclones: Hurricanes form over warm ocean waters. The warm water causes
+evaporation and this moist air rises due to convection. As it rises, it cools and forms clouds
+through condensation. This condensation releases latent heat which warms the surrounding
+atmosphere, making the air there lighter. As a result, the air continues to rise, lowering the
+atmospheric pressure at its surface. This decrease in pressure increases the rate of evaporation
+and causes more warm, moist air from oceans to move up. The Earth's rotation causes this rising
+air to spin, forming a cyclonic system. As the system gathers strength, it can develop into a
+hurricane with high wind speeds.
+10.2.3 THERMAL RADIATIONS
+Heat transfer through electromagnetic waves doesn't require any physical contact. For example
+the sun heats the Earth through radiation, and you feel warmth from a fireplace even at a
+distance (figure 10.17). "The process of transfer of heat in the form of electromagnetic
+radiation (infra-red radiation) is called radiation".
+www.taleem360.com
+Heat transfer through conduction and convection requires a medium, however heat transfer
+through radiation does not require a material medium. There is vacuum between the Earth and
+the Sun but still heat (infra-red radiation also known as IR radiation) and light reaches the Earth.
+(a) Dry lands
+(b) Burning woods
+(c) Hot iron
+FIGURE 10.17 Examples of sources of thermal radiations
+Light is the fastest entity in nature. All
+forms of electromagnetic radiation (figure
+UV Visible light
+Infra red
+10.18), including heat, move at the speed
+47%
+Visible
+light
+of light. Therefore, radiation is the fastest
+method for transferring heat. Every object
+emits infrared radiation. The amount of heat
+2% UV
+emits infrared radiation. Every object
+Sun emits large amount of radiation
+whereas less hot objects like human body
+FIGURE 10.18 Solar spectra
+emits small amount of radiation.
+A. Effect of Different Surfaces: All the objects absorb as well as radiate heat energy in the form
+of infrared radiations. The amount of thermal radiation emitted by an object depends on
+different factors:
+25
+National Book Foundation
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+MINI LAB
+Materials: Three identical hot water bottles, three different insulating materials
+(e.g., bubble wrap, foam sheet, and newspaper etc.), Thermometers, Hot water
+Procedure:
+1. Fill the three hot water bottles with hot water (around 80 °C to 90 °C).
+- Bubble wrap (conduction insulation)
+2. Wrap each bottle with a different insulating material: Foam sheet (convection insulation)
+- Newspaper (radiation insulation)
+3. Measure and record the initial temperature of the water in each bottle using a thermometer.
+4. Place the bottles in a room with a consistent temperature (around 20 °C to 25 °C).
+5. Measure and record the temperature of the water in each bottle every 15 minutes for an hour.
+6. Compare the temperature changes in each bottle to see which insulating material performed best.
+www.taleem360.com
+Surface colour of the object: Different
+coloured surfaces have different absorption
+and emission abilities as shown in table 10.2.
+Table 10.2: EFFECTS OF RADIATION ON
+DIFFERENT SURFACE COLOURS
+Colour
+Absorbing
+Emitting
+Reflecting
+A good absorber is a good emitter, but it is a
+Black
+Best
+Best
+Worst
+bad reflector. For example, wearing black
+clothes on a sunny day absorbs more heat and
+Dull/Dark
+Good
+Good
+Bad
+warms us. Black-coloured surfaces are good
+White
+Bad
+Bad
+Good
+emitters; that's why laptop chargers are
+made up of black-coloured surfaces. It helps Shiny silver
+Worst
+Worst
+Best
+to cool it quickly. Similarly, the worst absorber is also the worst emitter, but it is a good
+reflector. Shiny silver surfaces are good reflectors; that's why car windscreen shades are made
+from silver-coloured surfaces.
+Texture of the surface: Texture is the quality of something that can be known by touch, or the
+degree to which something is rough or smooth or soft or hard. Texture of a surface can be rough,
+bumpy, slick, scratchy, smooth, silky, soft, prickly etc. Rough, dull, and dark surfaces are good
+absorbers and emitters of radiation, but they are the worst reflectors. While smooth and shiny
+surfaces are bad absorbers and emitters of radiation, they are good reflectors. Before painting
+the walls of the houses, they are made smooth and usually painted white. So that they could
+become good reflectors and less absorbers. It helps
+controlling the temperature of the houses.
+Surface area of the object: At the same temperature,
+a hot body with a big surface area emits more radiation
+than a body with a small surface area. Therefore, heat
+radiators installed in houses, car radiators etc have FIGURE 10.19 Infra-red heater
+large surface area, which helps them to radiate quickly.
+National Book Foundation
+26
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+UNIT 10
+MINI LAB
+Materials: Two similar cans (one can have shiny silver surface and the other is painted
+dull black) with lid, thermometer and radiant heater.
+Procedure: Pour an equal amount of water into two cans. Place both cans at the same
+distance from an electric heat source. Insert thermometers into the cans as shown in
+the figure. There are two experiments that can be conducted with this setup:
+1. Turn on the heater and after ten minutes, the water
+Equal distance
+in the can with the dull black surface will heat up
+significantly hotter than the water in the other can.
+2. Keep the heater off and pour boiled water into the
+Dull black surface
+Radiant heater
+cans. After ten minutes, the water in the can with the
+dull black surface will be much cooler than the water in
+Shiny silver surface
+the other can.
+What can you conclude from these experiments, that which surface is a good absorber and which
+surface is a good reflector of heat?
+www.taleem360.com
+For example, infrared heater (figure 10.19) that primarily emits infrared waves have large
+plate area so that it could radiate more heat.
+B. Effect of temperature on the rate of radiation: As we know that all objects absorb as well as
+radiate heat. Rate of radiation emitted by an object is directly proportional to temperature of
+the object. High temperature objects radiate more than low temperature body. Sun has high
+temperature and large surface area, it emits large amount of radiation while a cooking stove has
+low temperature and small surface area than the Sun, it emits less amount of radiation.
+When an object is absorbing more heat than radiating, its temperature will rise. When the object
+is emitting more heat than absorbing, its temperature will drop i.e. it will cool down. An
+object will remain at same temperature if it is absorbing and radiating heat at equal rate. This
+state is called thermal equilibrium. A hot cup of tea is placed on table, initially its temperature is
+higher than its surroundings. It will be emitting radiation at faster rate. Its temperature will
+decrease. After a while, its temperature will reach the temperature of surroundings (i.e. it will
+reach thermal equilibrium).
+C. Leslie cube: The Leslie cube is used to demonstrate how different surface textures affect the
+emission of thermal radiation. It consists of four sides having different surfaces usually they
+are black and white painted surfaces, a matte black or dark coloured surface and shiny metal surface.
+It is hollow cube with lid at its top. Hot water is used usually to heat the interior of the cube. An
+'infrared (IR) thermometer' as detector is used to measure the amount of IR radiation emitted
+from the surface of the cube.
+27
+National Book Foundation
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+The experiment on the Leslie cube (figure
+Leslie cube Shiny silver
+10.20) follows the following procedure.
+1. Boiling water is added to the Leslie cube Matt
+black
+for heating it.
+Matt
+2. Wait until the cube reaches the desirable White
+temperature.
+Infrared
+detector
+3. Measure the quantity of radiation
+emitted from each surface by placing the IR
+www.taleem360.com
+thermometer at the same distance from
+each one in turn. (The infrared
+thermometer detects the infrared FIGURE 10.20 Different surfaces of Leslie cube
+radiation emitted by each surface. Higher
+radiation translates to a higher temperature reading.)
+The surfaces which is better at emitting radiation show a higher temperature reading on the
+infrared thermometer, while the surfaces which are bad at emitting radiations have a lower
+reading. After performing the experiment, we can have the following conclusions:
+• Black surface is the best absorber and emitter but worst reflectors.
+• Dark coloured surface is good absorber and emitter but bad reflector.
+• White surface is good reflector while bad absorber and emitter.
+• Shiny metal (shiny silver) surface is the best reflector while worst absorber and emitter.
+10.3 APPLICATIONS OF HEAT TRANSFER
+A. Cooking in kitchen pan using conduction, convection and radiation: When you place a
+kitchen pan on a stove burner, heat from the burner conducts through the base of the pan as
+shown in figure 10.21. The metal of the pan absorbs the heat energy due to direct contact with
+the hot surface. Hot metal surface transfers the heat energy to food in contact with it by
+conduction. Also, this heat travels to whole surface
+of the pot and the handle. This explains why the
+Heat
+Convection
+materials that are poor heat
+Conductors, such plastic or wood.
+Conduction
+When heating water in a pan or pot on the stove,
+convection currents occur. As the water near the
+bottom of the pan heats up, it becomes less dense
+Radiation
+Radiation
+and rises, while cooler water from the top sinks. This
+circulation helps distribute heat evenly and speeds FIGURE 10.21 Heat transfer in kitchen pan
+up the boiling process.
+National Book Foundation
+28
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+UNIT 10
+Heat from the flame also reaches the pot through radiation process. In outdoor grilling or broiling
+in an oven, heat radiates from the hot charcoal or heating element directly onto the surface of
+the metal pan through radiation. The pan absorbs the radiant heat, which then transfers to the
+food inside the pan. So the kitchen pans can use all heat transfer methods for cooking as shown in
+figure 10.22.
+B. Heating a room by convection: In winter, gas
+heaters are commonly used in Pakistan to keep
+rooms warm. When a gas heater is ignited, it
+heats the air surrounding it. The heated air
+becomes less dense and rises, generating
+convection currents. As the hot air rises, cooler
+air moves in to take its place near the heater.
+This cooler air then gets heated by the heater, FIGURE 10.22 Heating room by convection
+Gas
+heater
+Less dense hot air rises
+Cold denser air sinks
+www.taleem360.com
+rises. The air that has risen eventually cools down becomes denser and sinks back towards the
+heater. This continuous cycle of hot air rising and cool air sinking creates a convection current
+that helps distribute heat throughout the room, gradually raising the overall temperature.
+C. Mechanism of a household hot-water system:
+The most common hot water system is the storage
+tank water heater as shown in figure 10.23. Cold
+water enters your house and splits into hot and cold
+lines. The storage tank holds this cold water and
+heats it with an electric element or gas burner
+controlled by a thermostat. Hot water naturally
+rises to the top of the tank. When you turn on a hot
+water tap, the hot water from the top flows out. As
+hot water is used, cooler water from the bottom
+refills the tank and is reheated. This cycle keeps a
+steady supply of hot water available.
+Heat
+exchanger
+Burner
+Fan
+Gas
+Cold water
+Hot water
+FIGURE 10.23 Household Hot-Water System
+POINT TO
+PONDER
+Why are freezer compartment at the top of refrigerator?
+The freezer is located at the top of a refrigerator to take advantage
+of convection, the cold air from the freezer travels down and cools
+the bottom of the refrigerator. The warm air from the bottom rises
+and gets cooled again in the freezer.
+Also the freezer is placed above the hot compressor, which is usually
+located near the bottom of the refrigerator.
+29
+National Book Foundation
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+D. Maintaining Liquid Temperature: Wrapping an insulator
+around a hot object or around a hot/cold liquid containing
+object can reduce the flow of heat. This property of insulators
+helps to maintain the temperature of liquids. This property of
+insulators is used in thermos flasks (also called vacuum flask) as
+shown in figure 10.24. Thermos flasks has double walled
+construction with vacuum between its inner and outer walls.
+With vacuum in the double walls, conduction of heat of the
+liquid through the outer wall is not possible. Transfer of heat is
+also not possible through the vacuum. Convection requires
+movement of air for heat flow, so convection currents cannot
+produce. Some heat is lost due to radiation. To minimize heat
+loss due to radiation, inner walls of the flasks are silvered. This
+reflects a significant portion of the radiant heat back towards
+the liquid inside, minimizing heat loss. Some of the heat can
+flow out due to conduction from the material of the flask and
+from the lid. Therefore, inner of the thermos flasks are now
+made up stainless steel which has low conductivity and lids are
+made up of plastic which usually trap air for better insulation.
+Cap
+Lid or stopper
+Inner glass wall
+Outer glass wall
+Hot liquid
+Reflective coating
+(Silvered surface)
+Vacuum
+Outer casing
+Insulated support
+FIGURE 10.24 Thermos flask
+www.taleem360.com
+E. Reducing Thermal Energy Transfer in Buildings: We can maintain comfort improve energy
+efficiency and reducing heating and cooling costs by proper thermal insulation in our homes and
+other buildings. Thermal insulation in winters, slows down the heat loss from warm interior to
+colder outside environment and it reduces the need of heating systems. In summer, it slows down
+the heat gain from the hot outside environment to the cooler interior, keeping the building cooler
+and reducing the need for air conditioning. Thermal insulation can be achieved in many ways. To
+reduce the conduction and convection, use double wall glazing windows with vacuum or air
+between its walls as shown in figure 10.25 (a), use foam etc in the gaps on the walls or doors. False
+ceiling which traps the air acts as
+Glass
+Air space
+insulation between the roof and the
+ground as shown in figure 10.25 (b),
+using thick curtains etc. Proper
+Spacer
+orientation of the home and shading
+Desiccant
+during the summer reduce the heat
+entering the home. Proper
+(a) Doubled glazing window
+(b) False cieling
+ventilation also help to reduce
+temperature inside the home during FIGURE 10.25 Reducing thermal energy transfer
+summer.
+National Book Foundation
+30
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+UNIT 10
+F. Measuring Temperature with Infrared thermometers: In this chapter, we have studied that
+all objects emit heat radiations in the form of infrared radiation. These are not visible but we can
+sense them because they carry heat. Heat coming from the Sun, heaters or hot plates etc have
+infrared radiations in large amount. It is this heat that the infrared thermometers detect to
+measure the temperature of objects.
+When it is unsafe or impracticable to make direct physical touch, infrared thermometers are
+used. For example, during the Corona Pandemic, infrared thermometers were routinely used.
+They are also used to determine the temperatures of highly hot surfaces, such as those found in
+furnaces, industries, food storage facilities, and hazardous places, such as those containing
+radioactive materials etc. Infrared thermometers can be utilized as:
+1. Carefully read the instructions on the device manual.
+2. Power on infrared thermometer and adjust its scale (degree Celsius or degree Fahrenheit).
+3. Point the thermometer sensor to the target surface.
+Hold the thermometer steadily at a suitable distance
+mentioned in the manual as shown in figure 10.26.
+www.taleem360.com
+4. Press and hold the trigger (a button) until the reading
+on the display screen stabilizes.
+5. Once you hear a beep or see a stable reading on the
+display screen, release the trigger and note down the
+FIGURE 10.26 Infrared thermometer
+temperature.
+The following precautions should be maintained while using infrared thermometer.
+1. Each infrared thermometer has a distance-to-spot (D:S) ratio. This ratio tells you the diameter
+of the target area (whose temperature is to be measured) relative to the distance from the
+target. For example, a D:S ratio of 12:1 means that for every 12 units of distance from the object,
+the thermometer will measure a spot with a diameter of 1 unit. So, if you hold the thermometer
+12 inches away from the surface, it will measure temperature of the circle roughly 1 inch in
+diameter.
+2. Avoid taking measurement of the small objects, moving objects, wet objects, reflective
+surfaces and rough surfaces.
+3. Keep comparing its accuracy, off and on, with the mercury thermometer.
+10.4 GREEN HOUSE EFFECT AND GLOBAL WARMING
+Just like all objects, Earth also absorbs and emits radiations. Earth absorbs theses high energy
+radiations and emits low energy radiations back in the atmosphere. But water vapours, carbon
+dioxide, methane and other greenhouse gases forming atmosphere absorb these heat radiations
+emitted by the Earth and re-emit back to the Earth. Due to this, Earth warms which is necessary
+31
+National Book Foundation
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+for life to sustain on it. This is called greenhouse effect. If Earth had no atmosphere, it would have
+emitted all the absorbed radiations and its temperature would have drop to -180 °C at night
+(equal to temperature of Moon at night). At such low temperature, life would not have existed at
+the Earth.
+Some light that hits the earth is
+6% is scattered by atmosphere
+reflected back into space, while
+the rest becomes heat
+20% is reflected by clouds
+Greenhouse gases
+absorbed and reflect heat
+clouds 5% is reflected by
+radiated by the Earth
+Earth's Surface
+20% is absorbed by
+preventing it from
+atmosphere and clouds
+escaping into space.
+49% is absorbed by Earth's surface
+FIGURE 10.27 Trapping heat by greenhouse gases in the atmosphere
+www.taleem360.com
+Human activities like burning of fossil fuels (coal, wood, oil and natural gas), large number of
+vehicles on roads generating smoke, many industrial and agricultural activities (producing
+methane and nitrogen oxide) and deforestations (which reduces the number of trees that can
+absorb carbon dioxide) have increased the concentration of greenhouse gases in the atmosphere.
+Due to this amount of thermal radiation, trapped by the greenhouse gases, have increased. This
+has increased the Earth's average temperature. This gradual increase in the temperature of
+Earth's atmosphere and oceans is called global warming. This higher temperature is affecting our
+ecosystem, weather pattern (e.g.
+duration of season is changing) and
+human health. Due to global
+warming, we are facing extreme
+More
+evaporation
+Global Warming
+Drier
+flooding, hurricanes, extreme
+Dry area
+rainfall, droughts etc. Let's discuss
+their causes:
+A. Flooding: This increased
+temperature of the Earth is causing
+fast melting of glacier, which is
+More rain
+Wet area
+Global Warming
+wetter
+increasing the sea levels. Rising sea
+levels is a threat to coastal area life
+as it is increasing flooding and
+erosion of land.
+FIGURE 10.28 Droughts and extreme rainfalls
+National Book Foundation
+32
+POINT TO
+PONDER
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+UNIT 10
+Climate models predict that by 2050, global fires could increase by 19% compared to
+2015. Why is this happening?
+There are three main reasons for increase in global fires:
+1. Hotter, Drier Conditions: A key factor is rising temperatures. A warmer climate
+means more evaporation, leading to drier soil and vegetation. This creates more
+flammable fuel for fires to spread quickly.
+2. Longer Fire Seasons: As temperatures rise, the window for hot
+and dry weather - prime fire season - gets longer. This extends the
+period when wildfires are most likely to ignite and spread.
+3. Changes In Precipitation Patterns: Rainfall patterns are also
+predicted to shift due to climate change. Some areas may
+experience less rain, further exacerbating drought conditions and
+increasing fire risk.
+www.taleem360.com
+B. Hurricanes: Global warming heats up the oceans, giving hurricanes more energy. This makes
+them stronger with faster winds and heavier rain. Warm air can hold more moisture, so hurricanes
+can drop even more rain.
+C. Rainfall: Rising temperature due to global warming have increased evaporation, causing
+greater moisture in the atmosphere and resulting in more intense rainfall in the area that already
+experience significant rainfall.
+D. Droughts: Due to greater evaporation rate, water in soil and plants is decreasing. It is causing
+the land to get drier and making it harder for plants to acquire enough water to grow healthily.
+E. Wildfires: Increased temperatures due to global warming are drying out more trees,
+vegetation, and bushes, increasing the amount of fuel available for fires. If a fire starts due to
+lightning or human activity, it can quickly spread over a large area, becoming uncontrollable. This
+results in huge amounts of smoke, significantly decreasing air quality.
+INFORMATION
+The image shows communities at
+COMMUNITIES
+higher risk to health issues related
+OF COLOR
+to climate change and Possible
+remedies. Dark text shows steps
+that can be made to reduce the
+dangers that those communities
+face, while white text highlights
+such risks.
+CHILDREN
+Adaptation efforts that
+consider these communities
+can reduce harm.
+OLDER ADULTS
+Checking on indoor
+temperatures and
+air quality.
+LEAD INCOME
+COMMUNITIES
+Access to affordable
+and healthy housing.
+Food and water safety
+programs.
+Clean public
+transportation.
+Access to social support
+networks.
+Stronger community
+ties.
+Lack of access to
+healthcare.
+Financial instability.
+Pre-existing health
+conditions.
+Lower life expectancy.
+Less access to green
+spaces.
+Exposure to extreme
+heat.
+Asthma and other
+respiratory illnesses.
+Cardiovascular disease.
+Comprehensive disaster
+management can improve
+preparedness.
+33
+National Book Foundation
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+MINI LAB
+Activity: Carbon Footprint of Daily Transportation
+Carbon Footprint: A carbon footprint measures greenhouse gas emissions from
+activities like fossil fuel burning, deforestation, and industrial processes. It can be
+reduced by unplugging devices, using energy-efficient technologies, and adopting
+renewable energy sources.
+Ecological Footprint: The ecological footprint measures the resources needed to
+support a lifestyle, including land, water, and waste absorption. A larger
+footprint means higher environmental impact, so reducing it helps
+protect the planet.
+Activity: We can estimate carbon footprints using simple calculations.
+For example, a car emits approximately 0.2 kg of CO₂ per kilometre
+travelled. If a student travels 5 km to school every day by car, he can
+calculate his daily carbon emissions from transportation as:
+Daily CO₂ emission = 5 km × 0.2 kg CO₂/km = 1kg CO₂/day
+Then, calculate for a week (assuming 5 days per week of school):
+Weekly CO₂ emission = 1 kg/day x 5 days = 5 kg CO₂/week
+20%
+6.4%
+6.4%
+27%
+20%
+18%
+17.6%
+15%
+www.taleem360.com
+Class Activity: All students of the class are asked to calculate the carbon footprint of their own daily
+transportation and compare results with classmate. Discuss actions to lower your carbon footprint?
+Carbon Footprint
+F. Winter Storms: Winter storms are events like snow, sleets and freezing rains with strong winds.
+Due to increased moisture in atmosphere results in heavier snowfall in winters.
+We have to take steps to fight the effects of this global warming. We have to stop deforestation
+and increase forestation on the globe which are natural carbon dioxide absorbing source. This can
+reduce the about of carbon dioxide in the atmosphere. We have to find such energy efficient
+sources which releases no or minimum greenhouse gases. Beside this, we have to adapt with this
+global warming conditions as well. Make resilient infrastructure which could sustain the extreme
+weather events.
+INFORMATION
+Recent Heat waves and Floods In Pakistan due to Global Warming
+Heat-waves May- June 2022: Devastating heatwave gripped Pakistan
+and India with temperatures exceeding 51 °C (123.8 °F). Scientists linked
+this event to global warming.
+Devastating Floods 2022: Severe monsoon rains and rapid glacial melt,
+both influenced by climate change, caused disastrous floods in the whole
+country, especially provinces Sindh, major areas of Khyber Pakhtunkhwa
+and Balochistan, and some areas of Punjab.
+34
+National Book Foundation
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+10.5 FLOW OF HEAT IN GEOTHERMAL ACTIVITIES
+The structure of the Earth is divided into three
+parts: core, mantle, and crust as shown in figure
+10.29. The core is the central part of the earth. It
+is the hottest part. Its temperature is about
+6000 °C. It is mainly composed of iron and nickel.
+The core is so hot due to different factors,
+involving left-over heat during the formation of
+the earth, radioactive decay of elements like
+uranium and thorium inside the core, and extra
+pressure applied by the earth's gravity. The inner
+core is the portion of the core that is solid. The
+core's solid form is maintained by the extreme
+pressure. The molten portion of the core is referred
+to as the core's pressure has dropped. Temperature of the outer core is about 4000 °C. The mantle lies
+between core and crust. It is the thickest part. It floats on the outer core. It is composed of the
+silicate minerals mainly containing iron and magnesium. It is solid but shows plasticity
+(permanent change in shape of solid material) under high pressure due to gravity. The crust is the
+outer part of the earth's structure. It is composed of silicate materials. It is divided into
+continental crust and oceanic crust. The lithosphere is the layer between the crust and the upper
+mantle. The asthenosphere lies just beneath the lithosphere and plays a critical role in plate
+tectonics. Magma is molten or partially molten rock located beneath the Earth's crust. It forms
+from the partial melting of the mantle and crust due to various geological processes.
+Crest
+Lithosphere
+(Crust and upper
+most mantle)
+Asthenosphere
+0 to
+100 km
+Mantle
+2900 km
+Outer Core
+5100 km
+Core
+Inner
+Core
+6738 km
+Earth
+FIGURE 10.29 Earth's structure
+www.taleem360.com
+10.5.1 FLOW OF MAGMA BENEATH
+THE EARTH
+There is extremely high temperature
+Ridge Push
+Oceana Ridge
+Slab Pull
+Ocean Trench
+around 2,000 °C to 6,000 °C between core
+to crust. This intense heat within the
+Mantle
+mantle can cause some solid rock to
+Lithospheric mantle
+partially melt, forming magma. This
+molten material i.e. magma is less dense
+than the surrounding solid rock. Heat is
+Asthenosphere
+transferred from core to mantle through
+conduction as there is temperature
+Convection Currents
+difference between core and mantle. In
+FIGURE 10.30 Flow of Magma Beneath the Earth
+35
+National Book Foundation
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+the mantle, hot magma rises up, becomes less dense and rises up i.e. It transfers heat through
+convection. Hot magma heats up and cold magma sinks. This process develops convectional
+current as shown in figure 10.30. In this way, magma flows from bottom of mantle towards crust.
+Hotter magma flows easily than colder one. When magma flows, it melts the rocks on the way
+which may change its composition. When magma cools down, it solidifies and forms rocks deep
+underground. If magma finds a path to the surface through vents or fissures, it erupts as lava,
+shaping volcanic landscapes.
+10.5.2 VOLCANIC ERUPTIONS
+Magma rises from the mantle due to convectional currents and pressure difference in mantle and
+crust. It is stored in the crust at the place, called magma chamber.
+As magma rises, its pressure decrease. This allows
+Ash cloud
+the dissolved gases such water vapor, carbon
+CO₂
+dioxide, and other volatiles to release and it
+SO₂
+H₂O
+increases the internal pressure of the magma
+Crater
+Vent
+chamber. When this pressure exceeds the strength
+Secondary vent
+Lava flow
+of the covering rock, magma fractures it and creates
+pathways (main and secondary vents) for itself to
+Ash
+reach the crust. This leads to a forceful volcanic
+Conduit
+eruption through crater (main opening), driven by
+high-pressure gases and magma as shown in figure FIGURE 10.31 Volcanic eruption
+10.31. The hot magma that flows out during an
+Rocks layers of
+earth crust
+Magma chamber
+eruption is called lava. Volcanic eruption depends
+upon factors like magma composition, temperature,
+amount of gas and interaction with water etc.
+www.taleem360.com
+10.5.3 MOVEMENT OF TECTONIC PLATES
+Tectonic plates are very large, rigid parts of the Earth's crust and upper most mantle. These plates
+float on the molten mantle (semi-fluid asthenosphere). These tectonic plates interact with other
+tectonic plates and generate geothermal activities like earthquakes, volcanic eruptions etc.
+Movement of Tectonic plate is basically due to the process of magma convection current in
+mantle. Convection currents of magma drag the plates along with it and cause horizontal
+movement in tectonic plates. Similarly, sinking of dense and cold magma due to convection
+applies a pull on the tectonic plates and helps them to move as shown in figure 10.32.
+Movement of tectonic plates is very slowly, few centimeters per year. Due to their movement,
+tectonic plates can move apart (diverge or spreading), come together (converge), or slide past
+each other (transform faulting).
+National Book Foundation
+36
+Continental crest
+Volcanic island arc
+Deep sea trench
+Ocean water
+Spreading ocean
+ridge
+Ocean crest
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+UNIT 10
+0
+Lithosphere
+Cold
+Frictional Drag
+-100
+-200
+Depth (km)
+Hot
+Asthenosphere
+(Ductile low strength)
+-300
+Pull
+-400
+FIGURE 10.32 Movement of tectonic plates caused by the motion of magma
+INFORMATION
+There are seven major
+tectonic plates:
+www.taleem360.com
+North American
+plate
+Eurasian Plate
+1. Pacific Plate
+Pacific Plate
+2. North American Plate
+African Plate
+3. South American Plate
+South American
+plate
+Indo Australian Plate
+4. Eurasian Plate
+5. African Plate
+Antarctic Plate
+6. Indo-Australian Plate (It is considered as two separate tectonic plates i.e. Indian plate and Australian plate)
+7. Antarctic Plate
+Apart from these there are eight minor plates (Arabian plate, Caribbean plate, Indian plate etc.) and many
+micro plates (Rivera Plate, Somali Plate etc.) as well.
+10.5.4 EARTH'S CORE MAINTAINING ITS TEMPERATURE
+Scientists believe that Earth's formation involved accretion, where gravity pulls matter together
+to create celestial bodies. After the Sun formed, gravity combined dust, rocks, ice, and gases to
+form massive objects like Earth. According to the Giant Impact Hypothesis, a planet named Theia
+collided with Earth about 4.4 billion years old, resulting in the destruction of Theia. The partial
+melting of Earth and the scattering debris into space. The early atmosphere was mainly hydrogen
+and helium, and as the crust solidified, volcanic eruptions and asteroid impacts introduced water,
+water vapour, ammonia, and carbon dioxide. Over time, Earth evolved to support life. Today, the
+Earth's core remains extremely hot, around 6000 °C. Lets discuss different factors due to which
+Earth's core is maintaining its temperature.
+A. Residual Heat from Formation: During the formation of the Earth (accretion process), large
+37
+National Book Foundation
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+number of massive objects, e.g. planetesimals objects, asteroids and other massive objects
+collided with it. The kinetic energy from these collisions was converted into heat, large amount
+heat energy has been retained in the Earth's core.
+B. Radioactive Decay: There are certain radioactive elements present in the Earth's core like
+uranium-238 and thorium-232 and potassium-40. During decay of these radioactive elements,
+large amount of energy is released in the form of heat. This process is continuously contributing to
+the temperature of the core. Due to decay process, amount of these radioactive elements is also
+decreasing, that's why rate of heat generation from radioactivity has decreased slightly.
+C. Gravitational Compression: During the formation of the Earth, its materials were compressed
+under the force of gravity. This increased the pressure and hence, temperature in the core. In this
+way, gravitational compression becomes a constant source of heat to the core.
+D. Crust as Insulator: The Earth's outer layers act as a thick layer of insulation. This slows down
+the rate at which heat escapes from the core into space. So, crust helps maintain the high
+temperature of the core for a longer period.
+www.taleem360.com
+Mechanisms that generate heat are gradually slowing down, allowing heat to escape from the
+Earth. However, this process is so slow that the core has managed to maintain its temperature for
+the past 4 billion years.
+SUMMARY
+• Heat Capacity is the amount of heat required to raise the temperature of any amount of
+substance by 1 °C or 1 K.
+• Specific Heat Capacity is the amount of heat required to raise the temperature of one gram
+of substance by 1 °C or 1 K.
+• Conduction is the mode of transfer of heat due to direct contact of medium particles, which
+do not change their positions. It occurs in solids because of difference in temperatures.
+• Convection is the mode of transfer of heat due to the motion of particles. It occurs in liquids
+and gases because of the density difference between different regions.
+• Radiation is the mode of transfer of heat due to electromagnetic waves. It does not require
+material medium for its motion.
+• Land Breeze is the breeze that blows from the land. It normally occurs during the night and
+early morning.
+• Sea breeze is the breeze that blows from the massive water bodies. It normally occurs
+during the summer and spring season.
+• Greenhouse Effect is the process through which heat is trapped near Earth's surface by
+substances known as greenhouse gases.
+National Book Foundation
+38
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+UNIT 10
+Global Warming is the long-term heating of Earth's surface observed since the pre-
+industrial period (between 1850 and 1900) due to human activities, primarily fossil fuel
+burning.
+• Cyclones are large revolving tropical storms caused by winds blowing around a central area
+of low atmospheric pressure.
+• Hurricane is a tropical system with winds that have reached a constant speed of 74 miles
+per hour or more.
+• Heat Wave is a period of abnormally hot weather generally lasting more than two days and
+can occur with or without high humidity.
+• Flooding is an overflow of water onto normally dry land.
+• Drought is a prolonged dry period (deficiency of precipitation) in the natural climate cycle
+that can occur anywhere in the world.
+• Accretion is a process in which particles of matter, such as dust and gas, gradually come
+together due to gravitational attraction to form large objects, like planets, moons etc.
+• Debris refer to the fragments rock, dust and other material that were scatteredd into space
+as a result of collision between Theia an Earth.
+• Geothermal Activity is a group of natural heat transfer processes, caused by the presence
+of excess heat in the subsurface of the affected area, occurring on Earth's surface.
+www.taleem360.com
+39
+National Book Foundation
+UNIT 10
+EXERCISE
+MULTIPLE CHOICE QUESTIONS
+QI. Choose the best possible option in the following questions.
+1. Why is water used in radiators of automobile as coolant?
+A. It is easily available
+B. It is low cost or free
+C. It has large specific heat
+D. It has oxygen
+2. Which of the following situations is the best example of conduction?
+A. A metal spoon becomes hot when placed in boiling water
+B. Warm air rising near a heater
+C. Sunlight warming the surface of the Earth
+D. A microwave oven heating food
+www.taleem360.com
+3. Which combination of heat transfer methods would be dominant when you place your hand
+near, but not touching, a fire?
+A. Conduction and radiation
+B. Convection and conduction
+C. Radiation and convection
+D. Conduction and insulation
+4. What is symbol and what is unit for the heat capacity of an object?
+A. J°C-¹
+B. J kg¹ K¹
+C. J kg¹
+D. J kg¹ K
+5. If the same amount of heat energy is supplied to equal masses of water and copper, why
+does the temperature of copper increase faster?
+A. Copper has a lower specific heat capacity B. Water is a poor conductor of heat
+C. Convection in water dissipates heat energy quickly
+D. Radiation from water is stronger
+6. The transfer of heat that takes place because of density difference in fluids is
+A. Conduction
+B. Radiation
+C. Convection
+D. Insulation
+7. Which of the following statements best explains why the Earth experiences more heat
+from the Sun than the Moon, despite being almost the same distance away?
+A. Earth is better conductor than the moon
+B. The Earth has greenhouse gases
+C. The Moon reflects most of the Sun's radiation
+D. Moon traps heat effectively
+8. Dull black colour on a surface is the best absorber of radiation, which of the followings is
+the best radiator?
+A. Dull black surface
+B. Shining silver surface
+C. Red Coloured Surface
+D. White surface
+National Book Foundation
+40
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+9. How does the enhanced greenhouse effect contribute to global warming?
+A. It increases the Earth's ability to reflect solar radiation
+B. It traps more heat in the Earth's atmosphere, raising global temperatures
+C. It blocks ultraviolet rays from entering the atmosphere
+D. It increases the Earth's rotation speed, causing heat buildup
+10. What is the primary driving force behind the movement of tectonic plates?
+A. Gravitational pull of the Moon
+B. Solar radiation
+C. Mantle convection currents
+D. Magnetic field of the Earth
+11. Which layer of the Earth is composed of partially molten rock that can flow slowly?
+A. Lithosphere
+B. Asthenosphere
+C. Mesosphere
+D. Outer core
+www.taleem360.com
+12. Which of the following extreme weather events is most directly associated with rising sea
+levels?
+A. Tornadoes
+B. Wildfires
+C. Hurricanes
+D. Earthquakes
+CONSTRUCTED RESPONSE QUESTIONS
+QII. Follow the directions to respond to the following questions.
+1. This AI-generated image illustrates global warming caused by the greenhouse effect and
+its impact on climate change. It shows how rising temperatures due to the greenhouse effect
+led to more frequent and intense heatwaves and hurricanes.
+It shows how rising temperatures due to the
+greenhouse effect led to more frequent and
+intense heatwaves and hurricanes. Answer the
+following questions, considering the concepts
+mentioned above:
+a. How do increased temperatures lead to
+more frequent heatwaves in cities?
+b. How might the intensity of future
+heatwaves and hurricanes change if global
+temperatures continue to rise?
+c. Explain what the glass roof of a
+greenhouse and carbon dioxide in Earth's
+atmosphere have in common in terms of
+heat and temperature.
+National Book Foundation
+41
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+2. This table shows the temperature of 10 g of water and 10 g of iron after being in direct
+sunlight for up to 60 minutes.
+Time (minutes)
+0
+15
+30
+45
+60
+Temperature of water (°C)
+25
+26.2
+27.5
+28.8
+30
+Temperature of iron (°C)
+25
+35
+45
+55
+65
+a. Create line graphs of temperature (on the y-axis) and time (on the x-axis) for both water
+and iron on a graph sheet. Be sure to label the substances.
+b. Based on the data in the table, which heats up quickly: water or metal?
+c. Which do you think will cool more slowly: water or iron? Elaborate your answer.
+d. When you boil water in an iron pot on the stove, which heats up faster: the iron pot or the
+water? Provide a reason for your response.
+www.taleem360.com
+SHORT RESPONSE QUESTIONS
+QIII. Give a short response to the following questions.
+1. Why should we wear dark-coloured clothes in winter and white-coloured clothes in
+summer?
+2. In a house, geysers or water boilers are fitted on the ground floor, and still, we get warm
+water on the top floor without using a pump. How is it possible?
+3. Where will you get more heat from the wood fire, 1 meter above the woods or 1 meter
+from the front of the woods?
+4. Why do crowded city areas feel hotter compared to the outskirts on a hot summer day?
+State the reasons for this difference.
+5. Why is the is the metallic handle of a door colder than the wood of the same door when
+touched?
+6. How do trees help reduce the effects of climate change, and what could happen if forests
+are depleted?
+7. How does gravity contribute to the Earth's core temperature?
+8. Why do certain gases in the atmosphere trap more heat than others?
+9. What are the potential environmental impacts of extraction of geothermal energy?
+10. How does the specific heat capacity of different materials affect their use in cookware?
+National Book Foundation
+42
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+UNIT 10
+11. Water at 20°C is sent deep underground into heated layers, where it turns into a mix of
+steam and hot water at 100°C. As the steam and hot water cool back down to 20°C, why
+does 1 kg of steam release more energy than 1 kg of hot water?
+LONG RESPONSE QUESTIONS
+QIV. Give a detailed response to the following questions.
+1. Explain the concept of specific heat capacity in matter. Discuss various applications of water
+based on its high specific heat capacity.
+2. What is conduction, and how is it explained by the kinetic theory of solids? What makes
+metals better conductors than other solid substances.
+3. Analyze how heat is transferred through convection. Provide at least three practical
+examples of how convection is used in daily life.
+www.taleem360.com
+4. Analyze the process of heat transfer through radiation, explaining why it is the fastest
+method of heat transfer. What factors influence the rate of heat transfer by radiation?
+5. Analyze the role of greenhouse gases in global warming. How does global warming
+contribute to the increased severity of hurricanes, heat waves, flooding, and droughts?
+6. Why Earth's core has extreme high temperature even after 4 billion years? Explain in detail.
+7. How are tectonic plates formed, and what factors cause them to move? Explain these causes
+in detail and discuss the effects of plate movements.
+NUMERICAL RESPONSE QUESTIONS
+QV. Solve the questions given below.
+1. Convert specific heat of water 4180 J kg´¹ K¹ into units of Jg´¹°C´¹.
+(Ans. 4.18 Jg¹°C´¹)
+2. Calculate amount of heat given to 25 kg of water to increase its temperature by 50°C.
+(Ans. 5.25 MJ)
+3. A half kg block of an unknown metal is heated from 30 °C to 80 °C, requiring 19 kJ of heat
+energy. (a) Calculate the specific heat capacity of the metal. (b) If the same metal block is
+heated from 80 °C to 125 °C, how much additional heat energy would be needed?
+(Ans. 760 J kg¹K´¹, 17.1 kJ)
+4. Calculate the change in temperature of 5 litre of water if it absorbs 8.4 MJ of heat energy?
+(Use Specific heat of water = 4200 J kg¹ K´¹)
+(Ans. 400 °C)
+43
+National Book Foundation
+UNIT 10
+HEAT CAPACITY AND MODES OF HEAT TRANSFER
+5. In a container, 100 g of water at 80 °C is mixed with 200 g of water at 20 °C. What will be the
+final temperature of the mixture, assuming no heat loss to the surroundings (and
+container)? (Use specific heat capacity of water is 4200 J kg¹ K¹ or 4.2 J g¹ K¹).
+(Ans. 40 °C)
+6. A 200 g piece of an unknown solid cylinder is heated to 110 °C and then placed into a
+calorimeter containing 200 g of water at 20 °C. The calorimeter has a mass of 60 g and
+specific heat capacity of 0.9 J/g°C. The final temperature of the system (solid, water, and
+calorimeter) is 35 °C. Assume no heat is lost to the surroundings. Calculate the specific
+heat capacity of the solid.
+(Ans. 890 J kg¹ K¹ or 0.89 Jg¹ K´¹)
+7. A hot steel rod is cooled by plunging it into cold water, as shown in Fig. The steel rod has a
+mass of 3 kg and is initially at a temperature of 450 °C. It cools to 50 °C when placed in the
+water. The specific heat capacity of steel is 460 J kg¹ °C¹. Calculate the thermal energy
+(heat) lost by the steel rod as it cools to 50 °C.
+steel rod
+www.taleem360.com
+(Ans. 552 kJ)
+National Book Foundation
+44
+STUDENT LEARNING OUTCOMES
+The students will:
+✓ [SLO: P-10-C-04] Use the terms for the changes in state between solids, liquids and gasses.
+✓ [SLO: P-10-C-05] Explain thermal expansion in terms of kinetic theory.
+✓ [SLO: P-10-C-06] Analyze the applications and consequences of thermal expansion in real life.
+✓ [SLO: P-10-C-07] Analyze melting, solidification, boiling and condensation in terms of energy transfer
+without a change in temperature.
+✓ [SLO: P-10-C-08] State the melting and boiling temperatures for water at standard atmospheric pressure.
+✓ [SLO: P-10-C-09] Describe qualitatively the thermal expansion of solids.
+✓ [SLO: P-10-C-10] Explain the thermal expansion of liquids.
+✓ [SLO: P-10-C-11] Analyse the pressure and the changes in pressure of a gas in terms of particles.
+✓ [SLO: P-10-C-12] Differentiate between boiling and evaporation.
+✓ [SLO: P-10-C-22] Describe evaporation in terms of particles.
+✓ [SLO: P-10-C-23] Analyze how temperature, humidity, surface area and air movement over a surface affect
+evaporation.
+www.taleem360.com
+✓ [SLO: P-10-C-24] Explain how evaporation causes cooling.
+✓ [SLO: P-10-C-25] Describe the use of cooling caused by evaporation in the refrigeration process without using
+harmful CFCs.
+✓ [SLO: P-10-C-26] Explain latent heat.
+✓ [SLO: P-10-C-27] Justify experiments to determine latent heat of fusion and latent heat of vaporization of
+ice and water.
+✓ [SLO: P-10-C-28] State that certain materials, when cooled to near absolute zero, can exhibit
+superconductivity.
+✓ [SLO: P-10-C-29] Describe superconductivity.
+UNIT 11
+THERMAL TRANSFORMATIONS
+Have you ever wondered why there are gaps in train tracks or why a cold bottle sweats? The
+answer lies in the relationship between temperature and matter. This chapter explores how heat
+affects particle movement, leading to phenomena like expansion, evaporation, and
+superconductivity.
+We will begin with the kinetic theory of matter, examining how temperature influences particle
+motion and material properties. Then, we will look at thermal expansion, noting how solids and
+liquids expand with heat. Next, we will discuss state changes, including condensation,
+sublimation, and evaporation, along with latent heat. Finally, we will explore superconductivity,
+where certain materials lose no energy at very low temperatures. Let's explore these interesting
+thermal properties of matter!
+11.1 KINETIC THEORY OF MATTER
+www.taleem360.com
+In the previous class, we studied matter and its properties with help of kinetic molecular theory
+of matter. Let's revise some of their properties. Matter exists in three fundamental states: solid,
+liquid, and gas. Matter consists of particles (atoms and molecules). Gaps between these particles
+are the main reason that divides the matter into three states as shown in figure 11.1. Particles of
+matter apply attractive forces to each other. The difference in strength of this force is the reason
+for smaller or larger gaps between particles. The greater the strength of the attractive force
+between particles, the smaller the distance between them and vice versa.
+Solids: In solids, particles are close to each other, and they
+have a high density. There is a strong attractive force
+between particles which keeps them closely packed.
+Particles in solids can only vibrate about their mean
+position. When a solid absorbs heat, the vibrational kinetic
+Solid
+Liquid
+Gas
+Cool
+Hot
+energy and amplitude of the vibration of its particles
+increase. These particles push each other away and
+increase the gap between them. This is how solids expand
+upon heating.
+FIGURE 11.1
+Effect of temperature on distance
+between particles of matter
+Liquids: A liquid has intermediate density (smaller than a
+solid and higher than a gas). The attractive force between
+its particles is stronger than that of gases but weaker than
+that of solids. Due to it, the distance between particles in liquids is greater than that in solids.
+Liquid particles keep changing their position. Liquid particles flow. When a liquid is heated,
+attractive force between particles decreases and particles start moving.
+Gases: In gases, there is negligibly weak attractive force between gas particles. Due to weak
+attractive force, distance between particles is larger as compared to the size of the particles.
+Particles are in constant random motion and they constantly colliding with each other and with
+National Book Foundation
+46
+THERMAL TRANSFORMATIONS
+UNIT 11
+the walls of the container. Due to collisions of gas particles with container, they exert pressure.
+Gases are less dense than liquids and gases. When gases are heated, kinetic energy of gas
+molecules increases. They move faster and expand quickly. Figure 11.1 shows the change in
+distances between the particles of different states of matter due to change in their temperature.
+11.1.1 CHANGING STATES OF MATTER
+Figures 11.2 shows the change in state of ice (solid) into
+water (liquid) and then into water vapours (gas) with
+Gas (vapours)
+increase in its temperature. Attractive forces among
+particles of matter usually decrease with increase in
+temperature.
+As we now know that temperature of matter effects the
+attractive forces between its particles. Pressure on matter
+also effects the phase changes of matter. Particles of liquids
+Liquid (water)
+and gases come close to each other on increasing the
+pressure on them and vice versa.
+A. Changes Between Liquids and Solids: Let's discuss
+various phenomena involved in phase changes of matter.
+Solid (ice)
+FIGURE 11.2 Phases of matter
+www.taleem360.com
+• Freezing: It is the phenomenon in which any liquid changes into solid. When a liquid is placed
+at a place where its surroundings have low temperature then it loses heat to its surroundings.
+Its particles come close to each other and become solid at temperature called freezing point.
+For example, water changes into ice at 0 °C (freezing point of water).
+• Melting: It is the phenomenon in which solid changes into liquid. When a solid is placed at a
+place where temperature of its surroundings is high then it absorbs heat from its surroundings.
+When its temperature reaches melting point, its particles overcome their bonding attractive
+forces and start flowing. For example, ice changed in warm surroundings melts at 0 °C. Freezing
+point and melting points are same.
+B. Changes Between Liquids and Gases:
+• Vaporisation: It is the phenomenon in which a liquid is converted into gas (vapours) upon
+boiling. When a liquid is heated, its particles gain kinetic energy. On continuous heating, their
+kinetic energy becomes sufficiently high that they overcome the attractive forces between
+them and escape from the liquid. Vaporisation is shown in figure 11.3 (a) this happens at a
+certain temperature of the liquid called its boiling point.
+47
+National Book Foundation
+UNIT 11
+THERMAL TRANSFORMATIONS
+• Evaporation: It is phenomenon of conversion liquid into vapours at any temperature. We will
+discuss it in detail later in the chapter.
+• Condensation: It is a phenomenon in which gases (vapours) change into liquids. Condensation
+happens in vapours where the temperature and pressure are low. Warm air can hold more
+moisture than cool air. When the warm, moist air cools down, the water vapours condense
+because the cooler air has a lower capacity to hold water vapour. For example, when you take a
+cold water bottle out of the fridge, you often see water droplets forming on the outside as
+shown in figure 11.3 (b). This happens because the cold-water bottle cools the air around it,
+causing the water vapours in the air to condense onto liquid water on the bottles surface. Its
+other examples are formation of dew drops on grass, Foggy car wind screen, foggy bathroom
+mirrors etc.
+(a) Boiling water changing
+into vapours
+(b) Condensation of water
+vapours on cold bottle
+(c) Sublimation of dry
+ice
+(d) Deposition of frost on
+leaves
+FIGURE 11.3 Changing states of matter
+www.taleem360.com
+C. Changes Between Solid and Gases:
+• Sublimation: It is a phenomenon in which solids change directly into gases.
+• Deposition: It is a phenomenon in which gas changes directly into solid. Deposition is example of
+deposition. On a cold night, water vapour in the air becomes so cold that water vapour leaves to
+windowpanes that are much cooler than the surrounding air. The water vapor loses heat to
+National Book Foundation
+48
+THERMAL TRANSFORMATIONS
+UNIT 11
+• The coefficient of volumetric thermal expansion of solids is defined as the fractional change in
+volume per kelvin change in temperature. It tells how much volume of the solid object will
+change with respect to its original volume when its temperature rises by 1 kelvin. Its value is
+different for different materials. SI unit of B is K¹. As we know that solid expands on heating and
+National Book Foundation
+51
+THERMAL TRANSFORMATIONS
+UNIT 11
+11.3 EVAPORATION
+Have you ever thought how wet clothing dry on a clothesline or why puddles disappear on a hot
+summer day? This happens by a process known as evaporation. Evaporation is the process by
+which liquid changes into vapours (gas) at any temperature. This occurs at the surface of the
+liquid.
+11.3.1 CAUSE OF EVAPORATION
+In a liquid, Molecules in a liquid have different kinetic energies due to
+collision with each other and with walls of container. High energy
+molecules moving near the surface of the liquid escape from the surface
+of the liquid in the form of vapours as shown in figure 11.12. This is how evaporation
+takes place.
+11.3.2 EVAPORATION CAUSES COOLING
+During evaporation, fast moving molecules escape from the surface of
+the liquid. The molecules that have lower kinetic energies are left behind.
+This lowers the average kinetic energy of the liquid molecules and,
+hence, the temperature of the liquid.
+FIGURE 11.12
+Molecules escaping
+from the surface of
+liquid in evaporation
+www.taleem360.com
+The temperature of a substance relates to the average kinetic energy of its molecules. A decrease
+in temperature causes a cooling sensation. For example when we sweat the evaporation of
+moisture from the skin cools the body. Similarly, when a liquid evaporates from the surface of a
+solid, it lowers its temperature. This principle is used in refrigerators and air conditioning
+systems.
+11.3.3 FACTORS AFFECTING RATE OF EVAPORATION
+The rate of evaporation indicates how quickly molecules at the surface of a liquid escape and
+become a gas. Higher rate of evaporation means the liquid will evaporate faster. Rate of
+evaporation depends upon different factors, such as:
+A. Temperature: Rate of evaporation is directly proportional to temperature. Higher
+temperature in the liquid increases kinetic energy of its molecules and increase the rate of
+evaporation. Water in sunshine (high temperature area) evaporates faster than water in shade
+(low temperature area).
+B. Surface Area: A larger surface area allows more molecules to escape, speeding up
+evaporation. Larger is the surface area of a liquid, greater number of molecules has the chance to
+escape from its surface. It is why wet clothes are stretched out to dry quickly.
+National Book Foundation
+57
+UNIT 11
+THERMAL TRANSFORMATIONS
+C. Humidity: Dry air is less humid air (it has low value
+of moisture in it). It has ability to store more
+moisture. Therefore, lower humidity levels increase
+the rate of evaporation as dry air can allow more
+water vapours to be absorbed. You now understand
+that room air coolers function most efficiently in the
+dry air months of June and less efficiently in the
+humid months of August.
+Evaporation pad
+Fan
+Hot air
+Evaporation
+Cool air
+Pump
+Reservoir
+Schematic diagram of
+FIGURE 11.13
+room air cooler
+D. Wind Speed: Increased wind speed blows away the
+moist air near the surface, which speeds up the rate
+of evaporation. It is why wet clothes dry quickly in
+CAN YOU
+TELL?
+Why wet clothes dry up
+more quickly in summer
+than in winter?
+www.taleem360.com
+windy day than on a calm day.
+11.3.4 DIFFERENCE BETWEEN EVAPORATION
+AND BOILING
+Both boiling and evaporation represent the change of
+liquid into vapours. But there are some differences in
+both processes, as shown in table 11.4.
+Table 11.4: DIFFERENCE BETWEEN EVAPORATION AND BOILING
+Properties
+Evaporation
+Boiling
+Occurs
+at the surface of liquid
+Throughout the liquid
+Temperature
+at any temperature
+only at boiling point of liquid
+Energy Source
+Uses surrounding energy
+uses continuous external heat source
+Rate/speed
+Generally slower and depends on
+many factors
+Fast process (after reaching boiling
+point)
+Process Completion
+Time
+It takes longer to be completed
+It is quick process than evaporation
+Effect of pressure
+Less effected by external pressure
+Highly effected by external pressure
+Formation of Bubble
+No bubble formation
+Bubbles are formed throughout the
+liquid and rise from the surface
+Dependence on
+surface area
+Depends on surface area
+Does not depend on surface area
+Effect on temperature Causes cooling in surrounding
+of surrounding
+Increases temperature of surrounding
+National Book Foundation
+58
+THERMAL TRANSFORMATIONS
+UNIT 11
+11.3.5 APPLICATIONS OF EVAPORATION
+A: Refrigeration using evaporation (without CFCs): Cooling
+is produced in the fridge/refrigerators by evaporation of
+refrigerant (a liquefied gas), which absorbs heat and creates a
+cooling effect.
+DO YOU KNOW?
+The density and viscosity of a
+liquid determine how quickly it
+evaporates. Liquids that are less
+viscous and dense, such as those
+found in perfume bottles,
+evaporate more quickly.
+Freons, or chlorofluorocarbons (CFCs), were the type of
+refrigerant gas used in fridge. However, since it was found
+that CFCs are depleting the ozone in the upper atmosphere
+which increases the amount of UV rays from
+Low pressure
+High pressure
+the sun. All living things are harmed by
+Cool liquid
+Hot liquid
+ultraviolet radiation. Therefore, CFCs use
+has been prohibited. CFCs are replaced by
+the environment friendly substances like
+Cool air
+water, ammonia and hydrocarbons (propane,
+Compressor
+The refrigerator contains a coil (called
+evaporation coil) filled with refrigerant at
+Low pressure. When
+Evaporator
+Expansion valve
+The warm air inside the fridge comes into
+contact with the evaporator coil, the FIGURE 11.14 Refrigeration cycle
+refrigerant absorbs heat and changes from liquid to gas, which cools the inside of the fridge. This
+www.taleem360.com
+gas is then compressed, releasing heat outside, and is condensed
+back into a liquid by the condenser. This cycle continues to
+maintain a cool temperature inside the fridge.
+B. Food preservation: Many food items are preserved by removing
+the water content through evaporation. This concentrates the
+flavours and prevents spoilage. Examples include dried fruits,
+jerky (dried meat), as shown in figure 11.5 (a).
+(a) Fruits dried using evaporation
+C. Production of salt: Sea water is stored in large pools. As the
+water evaporates, the salt is left behind as shown in figure 11.5
+(b).
+(b) Sea salt obtained from
+evaporation of sea water
+D. Air conditioning: Air conditioners use evaporation to cool air.
+They work by passing warm air over a coil that is filled with a cool
+liquid. As the liquid evaporates, it takes heat from the air, cooling FIGURE 11.15
+Uses of evaporation
+it down.
+59
+National Book Foundation
+UNIT 11
+THERMAL TRANSFORMATIONS
+E. Fever control: When someone has a high fever, they apply a wet cloth to their forehead. The
+reason behind this is that heat from the head is removed when the water evaporates. As a result,
+the patient's brain temperature stays within acceptable bounds and no brain injury occurs.
+11.4 LATENT HEAT
+Consider you are boiling a pot of water. The temperature of the water increases gradually as you
+turn up the heat. But then, something interesting happens. The water reaches 100 °C. Even when
+you apply more heat, the temperature does not change! Where is all that energy going?
+The answer lies in a concept called latent heat. It is the hidden heat absorbed or released by a
+substance during a phase change (like melting, freezing (solidification), boiling or condensation)
+without a change in temperature. It is defined as 'It is the amount of heat energy absorbed or
+lost by a substance during its phase change without change in its temperature'.
+www.taleem360.com
+To understand this concept, look at this graph shown in figure 11.16 between temperature and
+heat energy which is added uniformly to the ice at -20 °C to 110 °C (after its boiling points). This
+graph has five portions.
+From A to B: Heat is given to ice at -20°C. Its temperature rises and but it is still ice at 0 °C.
+From B to C: Now heat given to ice is not increasing its temperature. This heat is being used to
+change its states from ice (solid) to water (liquid) at its melting point 0 °C. This amount of heat is
+called latent heat of fusion (L). This process continues till all the ice is converted into water.
+From C to D: In this portion, added heat again increases the temperature of the water uniformly
+till it reaches its boiling point.
+Temperature (T)
+Latent heat
+120
+of vaporization
+Water
+Vapours
+Stand
+Thermometer
+100
+80
+beaker
+60
+40
+Ice + water
+at 0 oC
+Water
+20 Latent heat
+B of fusion
+C
+Heat (Q)
+burner
+Ice
+Melting
+Boiling
+FIGURE 11.16 Phase change of ice to vapours
+National Book Foundation
+60
+THERMAL TRANSFORMATIONS
+UNIT 11
+From D to E: In this portion, added heat again is not used to increase the temperature of water. It
+is used to change the state of water (liquid) into vapours (gas) at its boiling point 100 °C. Heat
+added at this stage to water is called latent heat of vaporization (L).
+From E to F: After complete change of water into vapours at its melting point, added heat
+increases the temperature of the vapours (steam).
+Temperature of a substance is related with the average kinetic energy of the particles.
+Therefore, whenever added heat increases the average kinetic energy of particles of the
+substance, it will increase the temperature of the substance. But when added heat is used to
+change the state of substance, it does not change its temperature. Here, heat is used to weaken
+the attractive forces between its particles, instead of increasing their average kinetic energy.
+This happens at melting point and boiling point of the substance.
+www.taleem360.com
+During melting, the amount of heat is absorbed by the substance to change its state from solid to
+liquid at its melting point without the change in its temperature. Similarly, the same amount of
+heat is released by the same substance at its freezing point during solidification (from liquid to
+solid). The same happens for boiling of a liquid and its condensation from vapour to solids at
+boiling point. Heat energy absorbed during boiling is equal to heat energy released during
+condensation. In all these processes, heat absorbed or released by the substance is used to
+accommodate the attractive forces between its particles.
+11.4.1 LATENT HEAT OF FUSION
+The amount of heat energy required to convert a given mass of a substance from the solid state to
+the liquid state without change in its temperature is called its latent heat of fusion. During
+freezing, liquids release same amount of heat to change state to solids.
+If AQ' is the amount of heat energy needed to melt mass 'm' of a solid to liquid (or freeze liquid to
+solid), then mathematically:
+AQ = mL₁
+11.10
+Where 'L,' is the specific latent heat of fusion of substance. It is defined as: The amount of heat
+energy required to convert unit mass (one kilogram) of the solid at its melting point to liquid, (or
+liquid into solid) without any change in temperature is called its specific latent heat of fusion (L₁).
+AQ
+L₁ =
+11.11
+m
+The SI unit of specific latent heat of fusion is joule per kilogram which is expressed as J kg¹¹.
+Different substances have different specific latent heat of fusion. Latent heat of fusion of ice is
+3.33 × 10³ J kg¹.
+61
+National Book Foundation
+UNIT 11
+THERMAL TRANSFORMATIONS
+Table 11.5: LATENT HEATS OF FUSION AND VAPORISATION OF SELECTED MATERIALS
+Material
+Melting Point
+(°C)
+Latent Heat of fusion
+(J/kg)
+Boiling Point
+(°C)
+Latent Heat of
+Vaporisation (J/kg)
+Helium
+- 269.65
+5.23 × 10³
+- 269
+2.09 × 104
+Oxygen
+- 218.79
+1.38 × 104
+-183
+2.13 × 105
+Water
+0
+3.33 × 105
+100
+2.26 × 106
+Mercury
+-39
+1.13 × 104
+357
+2.93 × 105
+Sulphur
+119
+3.81 × 104
+445
+3.26 × 105
+Lead
+327
+2.45 × 104
+1750
+8.70 × 105
+Aluminum
+660
+3.97 × 105
+2450
+1.14 × 107
+Copper
+1083
+1.34 × 105
+1187
+5.06 × 106
+Silver
+961
+8.82 × 104
+2193
+2.33 × 106
+Gold
+1063
+6.44 × 104
+2660
+1.58 × 106
+www.taleem360.com
+11.4.2 LATENT HEAT OF VAPORISATION
+The amount of heat energy required to convert a given mass of a substance from the liquid state
+to the gaseous state without any change in its temperature is called its latent heat of
+vaporization. During condensation same amount of heat is released by the gases to change its
+state to liquids. If 'AQ' is the amount of heat energy needed to vaporize mass 'm' of a liquid to gas
+(or condense gas to liquid), then mathematically:
+AQ = mL₁
+11.12
+Where 'L' is the latent heat of vaporization of substance. It is defined as: The amount of heat
+energy required to convert unit mass (one kilogram) of the liquid at its melting point to gas, (or
+gas into liquid) without any change in temperature is called its specific latent heat of
+vaporization of the solid.
+AQ
+L₁ =
+11.13
+m
+The SI unit of specific latent heat of vaporization is joule per kilogram (Jkg¹). Different
+substances have different specific latent heat of vaporization. Latent heat of vaporization of
+water is 2.26 × 10° Jkg¹.
+11.4.3 EXPERIMENT TO FIND LATENT HEAT OF FUSION OF ICE
+1. Place a beaker over a stand as shown in figure 11.17.
+2. Add small pieces of ice to the beaker.
+National Book Foundation
+62
+THERMAL TRANSFORMATIONS
+UNIT 11
+3. To find out the ice's temperature, hang a thermometer inside
+the beaker.
+Iron
+stand
+Thermometer
+4. Set a burner below the beaker.
+5. Start calculating the time by stopwatch.
+6. The ice will begin to melt.
+7. Now, it will have mixture of ice and water but its
+temperature will not rise above 0°C until all the ice melts.
+Glass
+stirrer
+Beaker
+Ice
+8. Note the time which the ice takes to melt completely into
+water at 0°C.
+9. When all the ice converts to water, its temperature will begin
+to rise. Continue heating the water at 0°C in the beaker. Its
+temperature will begin to increase.
+Burner
+FIGURE 11.17
+Experimental arrangement to
+find latent heat fusion of ice
+10. Note the time which the water in the beaker takes to reach
+its boiling point at 100 °C from 0°C.
+www.taleem360.com
+11. Darw a temperature-time graph such as shown in figure
+11.18.
+Let's do some calculations to find the latent heat of fusion of ice from the graph data as follows:
+Let, mass of ice = m
+Finding the time from the graph:
+i. Time taken by ice to melt completely at 0 °C (time for fusion) = t₁ = t₁ = 3.7 minutes
+ii. Time taken by water for its temperature rise from 0 °C to 100 °C = t₂ - t₁ = 4.6 minutes
+Specific heat of water = c = 4200 J kg¹ K¹
+Increase in the temperature of water from 0 °C to 100
+°C = AT = 100 °C = 100 K
+Heat required by water to raise its temperature from
+0 °C to 100 °C is given by:
+120
+100
+80
+60
+Temperature °C
+40
+20
+-20
+putting values
+AQ = mc AT
+AQ = m(4,200 J kg¹ K´¹)(100 K)
+AQ = m(4.2 x 10³ J kg¹)
+This is the heat absorbed by water to raise its
+temperature from 0 °C to 100 °C. This heat is
+absorbed by the water in time t (4.6 minutes). Heat
+is absorbed at uniform rate. So, Rate of absorption of
+2
+4
+6
+8
+10
+12
+Time (minutes)
+FIGURE 11.18
+Temperature time graph for ice and water
+63
+National Book Foundation
+UNIT 11
+THERMAL TRANSFORMATIONS
+heat (heat absorbed by the water in unit time) is given by:
+AQ
+Rate of absorption of heat =
+t R
+Rate of absorption of heat is same during fusion process time 't,' and raising temperature time
+'t'. Hence, Heat absorbed by the water in time 't' during fusion process is:
+Total heat absorbed during fusion of ice = Rate of absorption of heat × Total time of fusion
+AQ
+t
+AQf =
+X tr = AQ X tr
+1
+R
+t
+as:
+AQ = m X L
+2
+www.taleem360.com
+Comparing equations 1 and 2:
+m X L₁ = AQ X
+tr
+t R
+Putting values in above equation and simplifying it:
+mx L₁ = m(4.2 x 10³ J kg¹¹) x
+3.7 min
+4.6 min
+Therefore, L₁ = 3.9x10³ J kg¹
+The latent heat of fusion of ice found by the above experiment is 3.37 X 10³ J kg¹ while its actual
+value is 3.36 × 10³ J kg¹.
+11.4.4 EXPERIMENT TO FIND LATENT HEAT OF VAPORISATION OF WATER
+To find latent heat of vaporization of water, we keep on heating beaker contains boiling water as
+shown in figure 11.18. Continue heating water till all the water changes into steam. Note the time
+taken by water to change completely into steam at its boiling
+Iron
+stand
+Thermometer
+point 100 °C. Extend the temperature-time graph such as
+shown in figure 11.19. Let's calculate the latent heat of fusion
+of ice from the data as follows:
+Glass
+stirrer
+Time taken by water at 100 °C to change it into steam (time of
+vaporization) = t₁ = t₃ = 24.4 min.
+Beaker
+In experiment to find latent heat of fusion L, we have
+Boiling
+Water
+calculated the rate of absorption of heat by water.
+AQ
+Rate of absorption of heat by water =
+t R
+Burner
+Total heat absorbed during vaporization of water = Rate of
+absorption of heat × total time of vaporization:
+FIGURE 11.19
+Experimental arrangement to find
+latent heat vaporization of water
+AQ =
+AQ xt=AQx
+t
+1
+t R
+tr
+as:
+AQ=mX L
+2
+National Book Foundation
+64
+THERMAL TRANSFORMATIONS
+UNIT 11
+Comparing equations 1 and 2:
+m x L₁ = AQ X
+tr
+tr
+Putting values in above equation and simplifying it:
+m x L₁ = m(4.2 x 10³ J kg´¹)x
+24.4 min
+4.6 min
+Therefore, L₁ = 2.23 x 10° J kg¹
+120
+100
+80
+60
+Temperature °C
+40
+20
+0
+-20
+-40
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+Time (minutes)
+FIGURE 11.20 Temperature Vs Time graph for water
+www.taleem360.com
+The latent heat of vaporization of water found by the above experiment is 2.23 × 10° J kg¹ while
+its actual value is 2.26 × 10° J kg¹.
+From these two experiments we outline the following general procedural steps for calculating
+latent heat of fusion and vaporization.
+1. Take the solid at its melting point in a beaker and heat it at uniform rate.
+2. Note the following time duration by the substance.
+a. Time in which it completely melts without any change in its temperature at melting point
+(fusion process)
+b. Time in which its temperature rises from melting point to boiling point
+c. Time in which it changes its state from liquid to gas without change in its temperature at its
+boiling point (boiling process)
+3. Calculate the heat absorbed by the substance during the time its temperature rises from
+melting point to boiling point.
+4. Calculate the rate of absorption of heat by dividing above calculated heat in point 3 by the time
+in which its temperature rises.
+65
+National Book Foundation
+UNIT 11
+THERMAL TRANSFORMATIONS
+AQ
+Rate of absorption of heat =
+tr
+6. Latent heat of vaporization: To calculate late of vaporisation of substance, multiply this rate
+of absorption of heat with time in which it changes its state from liquid to gas without change in
+its temperature at its boiling point.
+5. Latent heat of fusion: To calculate late of fusion of substance, multiply this rate of absorption
+of heat with time in which it completely melts without any change in its temperature at melting
+point.
+Example 11.4
+Find the amount of heat required for melting the ice-cream having mass 0.5 kg at 20 °C?
+(Latent heat of fusion for ice-cream L₁ = 3.347 x 10³ J/kg, melting point of ice-cream is - 10
+°C and specific heat capacity for ice-cream is c = 2.1 x 10³ J/kg °C).
+GIVEN:
+Mass of ice-cream 'm' = 0.5 kg
+Initial temperature 'T₁' = 20 °C
+Final temperature (melting point) = T = - 10 °C
+Specific heat capacity of ice 'c' = 2.1 x 10³ J/kg °C
+Latent heat of fusion 'L₁' = 3.347 x 10³ J/kg
+REQUIRED:
+Heat for melting ice-cream 'AQ' = ?
+SOLUTION:
+www.taleem360.com
+Change in temperature is given by: AT = T - T = - 10 °C - (- 20 °C) = 10 °C
+First, we will provide heat to increase the temperature of the ice-cream from 20 °C to -
+10 °C (melting point).
+putting values AQ₁ = mc AT
+AQ₁ = (2.1x10³ J kg¹°C´¹)(0.5 kg)(10 °C)
+Hence, AQ₁ = 1.05 x 104 J
+Now we will find heat required for melting ice-cream at its melting point is: AQ₂ = mL₁
+putting values AQ₂ = (0.5 kg)(3.347 x 10³ J kg´¹) = 16.735 x 104 J
+Total heat required will be: AQ = AQ₁ + AQ₂
+putting values AQ = 1.05 x 104 J kg¹ + 16.735 × 104 J kg¹
+Therefore, AQ = 17.785 × 104 J = 177.85 k J
+ANSWER
+So, a total of 177.85 kJ of heat will be required to melt an ice-cream of 0.5 kg at -20 °C.
+National Book Foundation
+66
+THERMAL TRANSFORMATIONS
+UNIT 11
+11.5 PRESSURE EXERTED BY GAS PARTICLES
+The molecules of a gas are in a state of continuous random motion in a
+container. They collide with one another and also with the walls of the
+container, as shown in figure 11.21. Pressure is the measure of force
+exerted by the gas particles on unit area of the walls of the container
+perpendicularly.
+Force exerted by particle due to collision
+Pressure =
+Area of the walls of container
+F
+or P =
+A
+FIGURE 11.21
+Random motion gas
+particles in a container
+www.taleem360.com
+Pressure in a gas in a container change with change in temperature,
+volume and amount of substance (number of particles).
+A. Effect of temperature: If the temperature of the gas increases, the particles move faster.
+Faster particles collide with the walls with greater force and more frequently. This increases the
+pressure of the gas in the container. Pressure of the gas will decrease if its temperature
+decreases. So, the pressure of a gas inside a container is directly proportional to its temperature
+provided the volume remains constant.
+B. Effect of volume: Pressure of a gas is inversely proportional to its volume if its temperature is
+kept constant (Boyle's law). If the volume of the container is reduced while keeping the number
+of particles constant, particles have less space to move around. This increases the number of
+collisions of its particles with the walls, which results in increase in pressure. Conversely, if the
+volume is increased, particles have more space and collide with the walls less frequently, which
+decreases the pressure as shown in figure 11.22.
+C. Effect of amount of gas (number of particles): By increasing the number of particles of the gas
+in a fixed volume increases the number of collisions of gas molecules with the walls of the
+container and hence, it increases the pressure of the gas in the container. By decreasing the
+number of particles of the gas in the container, its pressure will decrease as shown in figure
+11.22.
+More frequent collision of gas molecules with the
+More frequent collision of gas molecules with the
+container wall as the particles have more energy.
+container wall.
+Increase the
+temperature
+Increase the
+Pressure
+Gas molecules collide
+with the walls
+Gas molecules collide
+with the walls
+FIGURE 11.22 Effect of temperature and volume on pressure of gas
+67
+National Book Foundation
+UNIT 11
+THERMAL TRANSFORMATIONS
+11.6 SUPERCONDUCTIVITY
+When we connect a wire or a device like bulb with
+the cell, current flows through it. Current flow
+means in free electrons in the wire move through gaps
+between the atoms of the conductor. But they
+collide with the atoms of the conductor. This cause a
+hindrance to their flow which is called resistance of
+Electrical Resistivity
+Superconductor
+Normal Metal
+T
+the conductor and if we relate it with the material
+then it is called specific resistance or resistivity of FIGURE 11.23 Superconductors
+the material of the conductor. Atoms of the
+conductor are in vibrational motion. With decrease
+Table 11.6 CRITICAL TEMPERATURES
+in temperature, their amplitude of vibration
+OF SOME SUBSTANCES
+decreases. This increases the size of the gap
+Critical
+between the atoms. Due to which collisions of
+Substance
+temperature
+flowing electrons with the atoms of the conductor
+decrease and hence, resistivity of the material also
+Mercury (Sb)
+4.2 K
+decreases.
+Aluminum (Al)
+1.18 K
+www.taleem360.com
+If we keep on decreasing the temperature then at a
+Tin (Sn)
+3.72 K
+certain temperature (critical temperature) comes
+Lead (Pb)
+7.2 K
+when resistivity of the material becomes zero and
+Yttrium Barium Copper Oxide
+92 K
+then the material is called superconductor.
+(YBCO)
+Superconductors are those material through which
+Bismuth Strontium Calcium
+108 K
+current flows without resistance.
+Copper Oxide (BSCCO)
+The general graph relating superconductor and normal metal is shown in figure 11.23.
+Superconductivity was discovered by Dutch physicist Heike Kamerlingh Onnes in 1911. While
+studying the properties of materials at very low temperatures, he observed that electrical
+resistance of mercury becomes zero when cooled to about 4.2 Kelvin (-268.95 °C). He got Nobel
+Prize in Physics in 1913.
+National Book Foundation
+68
+THERMAL TRANSFORMATIONS
+UNIT 11
+DO YOU KNOW?
+(a) Magnetic levitation (Maglev)
+trains
+(b) Magnetic levitation by
+superconductors
+Critical Temperature: The
+temperature at which and below
+which the resistance and
+resistivity of substance become
+zero is called the critical
+temperature or superconducting
+transition temperature.
+FIGURE 11.24 Applications of superconductors
+Superconductors are used in powerful electromagnets, particle accelerators, magnetic levitation
+(Maglev) trains as shown in figure 11.24 (a), small but powerful electric motors, fast computer
+chips, and potentially more efficient power transmission lines. Researchers continue to explore
+ways to achieve superconductivity at higher temperatures, which would make it more practical
+for everyday use.
+www.taleem360.com
+SUMMARY
+• Freezing is the phenomenon in which liquid changes into solid.
+• Melting is the phenomenon in which solid changes into liquid.
+• Vaporization is the phenomenon in which a liquid is converted into gas (vapours) upon
+boiling.
+• Evaporation is phenomenon of conversion liquid into vapours at any temperature.
+• Condensation is a phenomenon in which gases (vapours) change into liquids.
+• Sublimation is a phenomenon in which solids change directly into gases.
+• Deposition is a phenomenon in which gas changes directly to solid.
+• Thermal expansion means "increase in size of matter on heating".
+• Linear thermal expansion of solids is increase in length of substance on heating.
+• Volume thermal expansion of solids is increase in volume of substance on heating.
+• Coefficient of linear thermal expansion is the fractional change in length per kelvin
+change in temperature.
+• Coefficient of volume thermal expansion is the fractional change in volume per kelvin
+change in temperature.
+• Real volume expansion is thermal expansion in volume of liquid when it is heated directly.
+• Apparent volume expansion is thermal expansion of volume of liquid in a container
+without considering the expansion of its container.
+69
+National Book Foundation
+UNIT 11
+EXERCISE
+MULTIPLE CHOICE QUESTIONS
+QI. Choose the best possible option in the following questions.
+1. If a body performing simple harmonic motion completes its one vibration in 2 seconds, its
+frequency of vibration is:
+A. 2 Hz
+B. 1 Hz
+C. 0.5 Hz
+D. 10 Hz
+2. 360 waves are passing through a point in a river in one hour, time period of the wave is:
+A. 0.1 s
+B. 1 s
+C. 10 s
+D. 100 s
+www.taleem360.com
+3. Time period of electrical vibrator of ripple tank is 0.5 s, water waves in ripple tank has
+speed of 10 m/s and amplitude of 5 cm. Calculate the frequency of the waves.
+A. 50 Hz
+B. 0.5 Hz
+C. 200 Hz
+D. 2 Hz
+4. Which of the followings is longitudinal wave?
+A. X-rays
+B. Light
+C. String waves
+D. Sound
+5. When water waves enter from deep water to shallow water:
+A. Frequency of water waves increases B. Time period of water waves decreases
+C. Speed of water waves decreases D. Wavelength of water waves increases
+6. Listening to radio transmission in deep valleys of mountain areas is due to:
+A. Reflection of waves
+B. Refraction of waves
+C. Interference of waves
+D. Diffraction of waves
+7. Which of the following are transverse waves:
+A. X-rays
+B. Light
+C. String waves
+D. All of these
+8. Tsunamis are most often generated by
+A. Flood
+B. Bomb blast
+C. Earth quake
+D. None of these
+9. Waves transfer:
+A. energy
+B. frequency
+C. wavelength
+D. velocity
+10. Which of the following characteristics of a wave is independent of the others?
+A. speed
+B. frequency
+C. amplitude
+D. wavelength
+11. The relation between v, f and λ of a wave is:
+A. Vf=λ
+B. fλ=v
+C. vλ=f
+D. v=λ/f
+National Book Foundation
+70
+THERMAL TRANSFORMATIONS
+UNIT 11
+2. Fog forms on a cold window pane in the morning. Which change of state is occurring?
+A. Melting
+B. Boiling
+C. Condensation
+D. Deposition
+3. Which process involves the change of state from a gas to a solid without passing through the
+liquid phase?
+A. Deposition
+B. Melting
+C. Freezing
+D. Sublimation
+4. Boiling point of water is:
+A. 212 °C
+B. 212 °F
+C. 100 K
+D. 373 °C
+5. J kg¹ K¹ is the unit of:
+A. specific Heat Capacity
+B. heat Capacity
+C. latent Heat of Fusion
+D. heat Energy
+www.taleem360.com
+6. Evaporation takes place from
+A. surface
+B. bottom
+C. center
+D. any location
+7. Relation between linear and volume expansion of solids is
+A. B = a/3
+B. B = 1.5 a
+C. a = B/3
+D. a = 3 B
+8. Heat added to a substance, at its melting pointing, is used to:
+A. Increase K.E. of particle.
+B. Decrease K.E. of particles
+C. Increase the attraction between particles
+D. Decrease the attraction between particles
+9. 336 J/g is latent heat of fusion of a material. How much heat is required to melt 10 g of
+material at its melting point?
+A. 336 J
+B. 3360 J
+C. 33600 J
+D. 3.36 x 107 J
+10. Which of the following factors increases the rate of evaporation?
+A. Decrease in temperature
+B. Increase in humidity
+C. Increase in wind speed
+D. Decrease in surface area
+11. What is value of a for a solid if its B is 9 × 10³ K´¹?
+A. 3 x 10³ K¹
+B. 4.5 x 10³ K¹
+C. 9 x 10³ K¹
+D. 27 x 10³ K´¹
+12. The process that involves the latent heat of vaporization is
+A. Melting of ice B. Freezing of water C. Evaporation
+D. Condensation of steam
+13. The sum and difference of the coefficient of real and apparent expansion of a liquid are in
+the ratio 2:1. The ratio of the coefficient of real expansion and apparent expansion must
+be
+A. 1:1
+B. 2:1
+C. 2:3
+D. 3:1
+71
+National Book Foundation
+UNIT 11
+THERMAL TRANSFORMATIONS
+14. Latent heat refers to the energy absorbed or released by a substance during a change of
+state, but with no change in temperature. What does "latent" mean in this context?
+A. Constant
+B. Visible
+C. Hidden
+D. Transparent
+CONSTRUCTED RESPONSE QUESTIONS
+QII. Follow the directions to respond to the following questions.
+1. Look at these graphs for heating the ice, Energy (E)-time (t) graph shows that energy is
+being supplied to ice at constant rate to change it into liquid and finally into steam. While the
+temperature (T)-time (t) graph shows that change of temperature of ice and water during
+different stages.
+a. There are two horizontal parts of this graph, where temperature is not changing but energy
+is being supplied to substance at constant rate. Explain why does temperature not change at
+these two stages?
+b. Explain why the temperature and energy trends are not same for the same time intervals.
+www.taleem360.com
+Temperature °C
+T
+Energy
+Time (s)
+Time (s)
+2. A heater supplies energy at a constant rate to a 100g of a substance. The variation with time
+of the temperature of the substance is shown in the figure. The substance is perfectly
+insulated from its surroundings. The power of the heater is 250 W.
+From the figure, answer the following questions:
+60
+a. What is melting and boiling point of the
+substance?
+50
+Temperature °C
+40
+b. How long does it take to melt completely and
+how long does it take to vaporise from liquid
+30
+state?
+20
+10
+c. How much temperature increases in its liquid
+0
+phase (x part of the graph)?
+5
+10
+15
+20
+25
+d. Calculate latent heat of vaporization of the
+Time / min
+substance?
+National Book Foundation
+72
+THERMAL TRANSFORMATIONS
+UNIT 11
+SHORT RESPONSE QUESTIONS
+QIII. Give a short response to the following questions.
+1. Why do dew-drops form on leaves and grass in a spring morning?
+2. What is the effect of pressure and temperature variation on sublimation and deposition?
+3. Why do vapors form on the handle and cylinder of a fire extinguisher when it is discharged?
+4. How does sweating helps to cool our body down during exercise?
+5. Consider a piece of metal X initially at a temperature of 100 °C. It is placed on a heater
+(which is providing heat at constant rate) until it reaches a final temperature of 400 °C. The
+metal has a melting point of 250 °C.
+(i) Draw a temperature-time graph illustrating the changes in temperature of metal X as it is
+heated.
+(ii) Now, examine a different metal, Y, which has a higher latent heat of fusion compared to
+metal X. Both metals have identical melting points and heat capacities. The heating
+procedure for metal Y is conducted under the same energy supply rate as metal X. Describe
+how the temperature-time graph for metal Y will differ from that of metal X, considering
+the implications of its greater latent heat of fusion.
+6. How does the pressure in a car tyre change during a long drive on a hot day?
+7. How does understanding thermal expansion help prevent cracks in sidewalks during hot
+weather?
+8. Imagine you are stuck in the snow with your car. Which would be more effective for melting
+the snow trapped underneath, a pot of hot water or a high-powered heat lamp?
+9. How does the evaporation of water from a plant's leaves help to transport water and
+nutrients throughout the plant?
+10. Why does air conditioning cool a drink more effectively than adding cold water?
+11. What are the challenges associated with maintaining the extremely low temperatures
+required for superconductivity to occur?
+www.taleem360.com
+LONG RESPONSE QUESTIONS
+QIV. Give a detailed response to the following questions.
+1. Explain the production of sound waves with examples.
+2. Justify why sound waves cannot travel in a vacuum. Design an experiment that
+demonstrates this principle.
+3. What is nature of sound waves? How is sound propagated? Explain.
+4. Discuss how changes in amplitude and frequency affect the loudness and pitch of sound
+waves.
+5. What is quality of sound? How do the shape and material of a sound source influence the
+waveform of the sound it produces.
+6. Explain the speed of sound in different media. How does the speed of sound differ in solids,
+liquids, and gases? Explain why, and discuss real-world implications.
+7. Distinguish between reflection and refraction by describing how each process affects wave
+direction and speed. Design an experiment to demonstrate both phenomena using a ripple
+tank, and evaluate how changes in medium affect each process.
+73
+National Book Foundation
+UNIT 11
+THERMAL TRANSFORMATIONS
+4. What are linear and volume thermal expansion of solids? Discuss qualitatively the factors
+upon which these thermal expansions depend.
+5. What are uses of thermal expansion in our daily life? Give examples
+6. Explain thermal expansion of liquids in detail.
+7. Discuss the application of bimetallic strips in temperature control devices like thermostats.
+Explain the principle of thermal expansion that allows the bimetallic strip to function, and
+illustrate how the differing expansion rates of the two metals are utilized in practical.
+8. What is superconductivity? Explain the phenomenon in detail. What is their scope in future
+world?
+NUMERICAL RESPONSE QUESTIONS
+QV. Solve the questions given below.
+1. Consider a steel bar of length 1.5m at 10 °C. It is heated to raise its temperature to 100 °C.
+Calculate (a) Increase in length (b) Final length at 100 °C. (Coefficient of linear thermal
+expansion of steel is 1.2 x 10³ K´¹)
+(Ans. 1.62 mm, 1.5 m)
+www.taleem360.com
+2. A solid cube of side length 10 cm at 25 °C is heated. What will be increase in its volume at
+125 °C if its coefficient of linear thermal expansion is 9 × 10° K¹.
+(Ans. 2.7 cm³)
+3. A steel railroad track segment is 10 meters long at a cool morning temperature of 15 °C.
+The coefficient of linear expansion for steel is 1.2 x 10³ per °C. Later in the day, the
+temperature rises to 30 °C. How much will the steel track segment expand in length?
+(Ans. 1.8 mm)
+4. A 2-liter (2000 cm³) glass bottle is filled completely with orange juice at a room
+temperature of 20 °C. The coefficient of volumetric expansion for orange juice is 5 x 104
+per °C. If the bottle is left in a hot car where the temperature reaches 40 °C, what volume
+of orange juice will overflow? Expansion of glass bottle is negligible.
+(Ans. 2 cm³)
+5. How much heat is required to change 15 kg of ice into water at its melting point?
+(Ans. 4.95 x 10° J)
+6. How much heat is required to change 7 kg of water into steam at its boiling point?
+(Ans. 1.58 x 107 J)
+7. 4 kg of ice has temperature of -20 °C. It is heated to convert into steam. Its final
+temperature is 120 °C. Calculate the total amount of heat energy involve for this
+conversion of ice into steam. (Specific heat of ice = 2100 J kg¹ K¹,Specific heat of water =
+4200 J kg¹ K´¹,Specific heat of steam = 2000 J kg¹ K¹, Latent heat of fusion of ice = 3.3 x
+10³ J kg´¹ and Latent heat of vaporization of water = 2.26 × 10° J kg´¹).
+(Ans. 1.236 × 107 J)
+National Book Foundation
+74
+Unit
+12
+WAVES
+How do large waves
+generate in a tsunami?
+www.taleem360.com
+STUDENT LEARNING OUTCOMES
+The students will:
+✓ [SLO: P-10-D-01] Prove that waves transfer energy without transferring matter
+✓ [SLO: P-10-D-02] Describe what is meant by wave motion [as illustrated by vibrations in ropes and springs and
+by experiments using water waves.]
+✓ [SLO: P-10-D-03] Describe the features of a wave [in terms of wavefront, wavelength, frequency, time
+period, crest (peak), trough, compression, rarefaction, amplitude and wave speed]
+✓ [SLO: P-10-D-04] Define the terms frequency, wavelength, and amplitude.
+✓ [SLO: P-10-D-05] Recall and apply the equation wave speed = frequency x wavelength (v=fλ)
+✓ [SLO: P-10-D-06] Illustrate that for a transverse wave, the direction of vibration is at right angles to the
+direction of the energy transfer [including giving examples such as electromagnetic radiation, waves on the
+surface of water, and seismic S-waves (secondary)]
+✓ [SLO: P-10-D-07] Illustrate that for a longitudinal wave, the direction of vibration is parallel to the direction
+of the energy transfer [including give examples such as sound waves and seismic P-waves (primary)]
+✓ [SLO: P-10-D-08] Describe how waves can undergo reflection, refraction and diffraction
+✓ [SLO: P-10-D-09] Describe how wavelength affects diffraction at an edge
+✓ [SLO: P-10-D-10] Analyze the phenomenon of tsunamis generated under the surface of water [in terms of
+underwater earthquakes/volcanic activity generating waves that increase in frequency and amplitude as
+they encounter increasingly shallow water]
+✓ [SLO: P-10-D-11] Describe how wavelength and gap size affects diffraction through a gap
+UNIT 12
+WAVES
+Waves are a fundamental aspect of both the natural world and technological advancements,
+embodying the transfer of energy and information across various mediums. From the gentle
+ripples on a pond to the powerful surges of ocean tides, waves are omnipresent, influencing
+weather patterns, communication systems, and even the fundamental structure of matter.
+Understanding waves involves exploring their properties, behaviors, and the principles governing
+their propagation, which are crucial in fields ranging from physics and engineering to medicine
+and environmental science. This introduction delves into the fascinating world of waves,
+unraveling their complexities and highlighting their significance in our daily lives and the broader
+universe.
+12.1 WAVE MOTION
+www.taleem360.com
+Waves play an important role in our daily life. It is because waves are carrier of energy and
+information over large distances. Waves require some oscillating or vibrating source. Here we
+demonstrate the production and propagation of different waves with the help of vibratory motion
+of objects, some of the waves are water waves, sound waves, electromagnetic waves etc.
+12.1.1 WATER WAVES
+When a stone is thrown into the water, it creates
+ripples that propagate outward. These ripples, or
+water waves, clearly transfer energy: you can see
+the motion of the boat bobbing up and down as the
+waves pass. However, the boat itself does not
+significantly move from its position. This illustrates
+that the energy from the wave causes the boat to
+oscillate vertically, but the boat (matter) remains
+mostly in the same place.
+FIGURE 12.1 Water Waves
+MINI LAB
+When you drop a stone into a pond, it creates
+waves on the water's surface that spread
+outwards. If you place a cork a little distance
+away from where the stone fell, the cork will
+start to bob up and down as the waves reach it.
+This happens because the cork is getting energy
+from the waves.
+This activity demonstrates that water waves, like other types of waves, transfer energy from one place to
+another without actually moving the water itself.
+National Book Foundation
+76
+WAVES
+UNIT 12
+12.1.2 SOUND WAVES
+When you speak, your vocal cords vibrate,
+producing sound waves that travel through the air.
+If you place your hand in front of a speaker, you can
+feel the vibrations of the sound waves, which
+indicates that energy is being transferred.
+However, the air molecules themselves do not
+travel from the speaker to your hand; they oscillate
+back and forth around their equilibrium positions.
+This oscillatory motion transfers the sound energy
+through the medium (air), but the individual air
+molecules stay relatively in place.
+FIGURE 12.2 Sound Waves
+www.taleem360.com
+12.1.3 ELECTROMAGNETIC WAVES
+Consider light waves or radio waves, which are
+types of electromagnetic waves. When light from
+the sun reaches Earth, it brings energy that warms
+the planet and powers photosynthesis in plants.
+However, there is no medium like air or water
+involved in the transfer of electromagnetic waves
+through the vacuum of space. Instead, electric and
+magnetic fields oscillate perpendicular to each FIGURE 12.3 Electromagnetic Waves
+other and the direction of wave propagation,
+carrying energy across vast distances without the
+need for a material medium.
+Movement of energy
+12.1.4 WAVE IN ROPE
+A transverse wave in a rope provides a clear example of
+Vibration of rope
+transverse wave motion, where the oscillations of
+the medium (the rope) are perpendicular to the
+direction of wave propagation.
+A
+B
+FIGURE 12.4 Waves in Rope
+12.2 WAVE PROPAGATION
+The key to understanding wave energy transfer without matter transfer lies in the nature of wave
+propagation. Waves are disturbances that travel through a medium (or space, in the case of
+electromagnetic waves), causing particles of the medium to oscillate around their equilibrium
+positions. Here's a step-by-step explanation:
+77
+National Book Foundation
+UNIT 12
+WAVES
+12.2.1 OSCILLATION
+In a wave, particles of the medium experience periodic
+oscillations or vibrations. These oscillations can be
+longitudinal (particles move parallel to the wave
+direction, as in sound waves) or transverse (particles
+move perpendicular to the wave direction, as in water
+and electromagnetic waves).
+INFORMATION
+12.2.2 ENERGY TRANSFER
+Generating a high frequency wave,
+requires more energy per second than
+to generate a low frequency wave.
+Thus, a high frequency wave carries
+more energy than a low frequency
+wave of the same amplitude.
+The energy of the wave is transferred through these
+oscillations. For example, in a sound wave, compressions
+and rarefactions of air molecules transfer kinetic and
+potential energy from one particle to the next.
+www.taleem360.com
+12.2.3 NO NET MOVEMENT
+Despite the oscillatory motion,
+SCIENCE
+TIDBITS
+the particles of the medium do
+A human
+eardrum can
+not undergo a net displacement.
+oscillate back
+They return to their original
+and forth up to
+20,000 times in
+positions after the wave passes.
+one second.
+Therefore, there is no overall
+transfer of matter, only energy.
+12.3 CHARACTERISTIC WAVE PARAMETERS
+There are many ways to describe or measure a wave. Some characteristics depend on how the
+wave is produced, whereas others depend on the medium through which the wave travels.
+Certain characteristic wave parameters and their definitions are given as under.
+12.3.1 WAVELENGTH 'λ'
+The shortest distance between points where the wave pattern repeats itself is called the
+wavelength, its symbol is the Greek letter lambda 'λ'.
+The unit of wavelength is 'm'. The wavelength is the repeated
+Wavelength
+Crest
+Crest
+distance of the wave pattern-a shift of the wave pattern by one
+wavelength to the right (or the left) reproduces the original
+wave pattern. The wave length may be the distance between
+Trough
+two successive crests or troughs as shown in figure 12.5, or it
+may be the distance between two successive compressions.
+FIGURE 12.5 Wavelength
+National Book Foundation
+78
+WAVES
+UNIT 12
+12.3.2 WAVEFRONT
+Huygens stated that light is a wave propagating through space like
+ripples in water or sound in air. Hence, light spreads out like a wave
+in all directions from a source. The locus of all points that travelled
+some distance during a fixed interval is called a wavefront.
+Wavefront
+FIGURE 12.6 Wavefront
+12.3.3 WAVE CREST AND TROUGH
+A crest point on a wave is the maximum value of
+upward displacement within a cycle. A crest is a
+Crest
+point on a surface wave where the displacement
+of the medium is at a maximum. A trough is the
+opposite of a crest, so the minimum or lowest
+point in a cycle.
+Trough
+FIGURE 12.7 Wave Crest & Wave Trough
+www.taleem360.com
+12.3.4 DISPLACEMENT
+The separation between mean
+Wavelength
+Wavelength
+position and any point either on
+right or left of the mean position is
+called displacement (x).
+Amplitude
+Amplitude
+Position
+Displacement is measured in meters
+(m).
+Longer Wavelength
+Higher Amplitude
+12.3.5 AMPLITUDE
+Shorter Wavelength
+Lower Amplitude
+The maximum displacement form
+FIGURE 12.8 Displacement & Amplitude
+mean on either side is called amplitude
+(x). As amplitude is also a
+displacement that's why is measured in
+meters (m).
+12.3.6 TIME PERIOD
+The maximum displacement form mean on either side is called amplitude (x). As amplitude is
+also a displacement that's why is measured in meters (m).
+12.3.7 FREQUENCY
+The number of cycles completed by an oscillating body in one second is called frequency (f). It is
+measured in cycles per second (cps) or hertz (Hz).
+79
+National Book Foundation
+UNIT 12
+WAVES
+12.3.8 RELATION BETWEEN TIME PERIOD AND FREQUENCY
+Time period and frequency are reciprocal of each other. Greater the time period smaller will be
+the frequency and vice versa.
+1
+T =
+12.1
+f
+Example 12.1
+Astudent oscillates a pendulum having 5 vibrations per second, Calculate its time period.
+GIVEN:
+Frequency 'f' = 5 Hz
+REQUIRED:
+Time Period 'T' = ?
+SOLUTION:
+www.taleem360.com
+1
+Using frequency-time relation, we have:
+T =
+f
+putting values
+T = 0.2s
+1
+5 Hz
+ANSWER
+Therefore
+So the pendulum will oscillate with a period of 0.2 s.
+12.4 WAVES AND THEIR TYPES
+Waves are carrier of energy and information over large distances. Wave is a disturbance that
+moves outward from its point of origin, transferring energy by means of vibrations with little or no
+transport of medium.
+Direction of energy transfer
+Wave motion is related to oscillation as
+particles of the medium execute simple
+harmonic motion about their mean
+position when a wave passes. For
+(a)
+example, take a rope and colour a part of
+it. Attach one end of the rope to the wall
+and wiggle the other end continuously. A
+Direction of oscillation of
+colored part of rope
+wave train will be produced. The colored
+part of rope will execute oscillations
+(b)
+about certain mean position, as shown in
+figure 12.9 (b).
+FIGURE 12.9 Direction of energy and oscillation
+12.5 TYPES OF WAVES ON THE BASIS OF MEDIUM
+Waves are divided into two types on the basis of medium requirement.
+A. Mechanical waves: Such types of waves which require material medium to propagate from one
+National Book Foundation
+80
+WAVES
+UNIT 12
+POINT TO
+PONDER
+We receive sun light (electromagnetic
+wave) but not the sound (mechanical
+wave) of fusion reactions occurring at
+the surface of earth. It is because
+there is vacuum in between earth and
+sun. Light waves can travel in vacuum
+but sound waves cannot.
+point to another point are called mechanical waves. If medium does not exist, mechanical waves
+cannot travel from one point to another point. For
+example, sound wave, rock wave in water, seismic
+wave etc.
+Electric field
+www.taleem360.com
+B. Electromagnetic waves: Such type of waves
+which do not require material medium to propagate
+Magnetic
+from one point to another point are called
+field
+electromagnetic waves. It means that the existence
+of material medium is not necessary for propagation
+Travelling
+direction
+of electromagnetic waves. It consists of electric and
+magnetic fields as shown in figure 12.10. Examples
+of electromagnetic waves are light waves, x-rays,
+Travelling of
+FIGURE 12.10 Electromagnetic wave
+ultraviolet waves, infrared waves etc.
+12.6 TYPES OF WAVES ON THE BASIS OF PROPAGATION
+Waves are divided into two types on the basis of their propagation.
+12.6.1 TRANSVERSE WAVES
+The type of waves in which the disturbance occur perpendicular to the direction of motion of the
+waves are termed as transverse waves. This means the vibrations are at right angles to the wave's
+motion as shown in figure 12.11. Transverse
+displacement
+waves are common in nature and can be
+wavelength
+direction of travel
+Crest
+observed in various forms. Waves produced in a
+string when its one end is fixed to a support and
+amplitude
+the other end is moved up and down is an
+time
+example of transverse waves.
+Trough
+A. Electromagnetic Radiation:
+Electromagnetic waves, such as light, X-rays,
+and radio waves, are examples of transverse FIGURE 12.11 Transverse Waves
+waves. These waves do not require a medium
+81
+National Book Foundation
+UNIT 12
+WAVES
+to travel. The electric and magnetic fields vibrate at right angles to each other and to the
+direction of energy transfer. For example, sunlight travels through space as an electromagnetic
+wave, bringing energy from the Sun to Earth.
+DO YOU KNOW?
+B. Waves on the Surface of Water: Waves on the surface
+Do mechanical waves pass through
+of water are another example of transverse waves. The
+vacuum, that is, empty space?
+water particles move up and down (vibration), while the
+wave energy travels horizontally across the surface. For
+DO YOU KNOW?
+instance, when a stone is thrown into a pond, ripples
+spread outwards from the point of impact, showing the
+transverse motion of the water particles.
+www.taleem360.com
+C. Seismic S-Waves (Secondary Waves): Seismic S-waves,
+produced during earthquakes, are transverse waves that
+move through the Earth. In these waves, the ground
+Earthquake produces waves through
+the crust of the Earth in the form of
+seismic waves. By studying such
+waves, the geophysicists learn about
+the internal structure of the Earth and
+information about the occurrence of
+future Earth activity.
+vibrates side-to-side or up-and-down, while the wave
+energy travels horizontally. Unlike P-waves, S-waves
+cannot travel through liquids, as they require the shear
+strength of a solid medium for their vibrations. These
+waves are critical in understanding the Earth's interior and
+locating earthquake epicenters.
+12.6.2 LONGITUDINAL WAVES
+Type of waves in which the disturbance occur parallel to the line of travel of the wave are termed
+as longitudinal waves. This means that the vibrations and the energy transfer occur along the
+same line. A longitudinal wave can be generated with a Slinky, as shown in Figure12.12. When one
+end is pushed forward along its length (i.e., longitudinally) and then pulled back to its starting
+point, as in part a, the wave will follow it and some distance is compressed.
+Parts of the wave having higher density and pressure are called compressions and parts having
+smaller density and pressure are called rarefactions.
+A. Sound Waves: Sound waves are a classic
+wavelength
+example of longitudinal waves. When we
+direction of energy
+amplitude
+speak, the air particles near our vocal cords
+compress and expand, creating regions of
+compression (where particles are close
+compression
+rarefaction
+compression
+together) and rarefaction (where particles
+are spread apart). These compressions and
+rarefactions move through the air, carrying
+motion of particles
+sound energy to the listener. For instance, FIGURE 12.12 Longitudinal Waves
+National Book Foundation
+82
+WAVES
+UNIT 12
+SCIENCE
+TIDBITS
+When you pluck a guitar string, it produces
+transverse waves along the string, meaning
+the vibrations move perpendicular to the length
+of the string. These transverse vibrations then
+cause the air around the string to vibrate,
+producing sound waves.
+Sound waves are longitudinal waves, which mean the vibrations
+occur in the same direction as the wave travels, compressing and
+rarefying the air molecules to create the sound we hear. So, while
+the motion on the string is transverse, the resulting sound waves in
+the air are longitudinal.
+when we clap, the sound travels as longitudinal waves through the air to reach someone nearby.
+B. Seismic P-Waves (Primary Waves): Seismic P-waves, generated during earthquakes, are
+another example of longitudinal waves. These waves cause particles in the Earth to vibrate back
+and forth in the same direction as the wave's movement. P-waves are the fastest type of seismic
+wave and can travel through solids and liquids. These characteristics helps scientists study the
+Earth's structure and detect earthquakes. For example, the time difference between the arrival
+of P-waves and slower S-waves at a seismic station helps determine the location of the
+earthquake's epicenter.
+www.taleem360.com
+INFORMATION
+Longitudinal waves move faster through solids than
+through gases or liquids. Transverse waves move
+through solids at a speed of less than half of the speed
+of longitudinal waves. It is because the restoring force
+exerted during this up and down motion of particles of
+the medium is less than the restoring force exerted by
+Fastest in solids
+Slowest in gases
+a back and forth motion of particles of the medium in
+case of longitudinal waves.
+12.7 WAVE CHARACTERISTICS
+Some of the main characteristics of waves are as follows:
+A. Wave Cycle: As a wave passes a given point along its path, that point undergoes cyclic motion.
+The point is displaced first in one direction and then in the other direction. Finally, the point
+returns to its original equilibrium position, thereby completing one cycle. Number of wave cycles
+are represented by 'N'. As it is a pure number, so it has no unit.
+National Book Foundation
+83
+UNIT 12
+WAVES
+B. Frequency: The number of wave cycles passing through some point per unit time is called
+frequency of the waves. Mathematically:
+N
+f=
+12.2
+t
+Frequency is measured in Hertz (Hz).
+C. Time Period: The time required for one wave cycle to pass through certain point is called Time
+Period. .It is represented by "T" and its unit seconds (s).It is the time any vibrating element of
+wave takes to move through one complete oscillation. The time period is the reciprocal of frequency.
+Mathematically:
+1
+T=
+12.3
+f
+D. Wave Speed: The distance travelled by a wave per unit time is called wave speed.
+Mathematically:
+Ad
+Wave speed v=
+At
+1
+www.taleem360.com
+If a wave travels distance equal to its wavelength 'λ', then the time taken will be equal to its time
+period 'T'. Putting these values in equation 1:
+λ
+V=
+2
+T
+As frequency is reciprocal of time period, given from equation 12.3, putting in equation 2:
+V=fλ
+12.4
+Equation 12.4 is a universal wave equation that can be used for all types of waves. For
+electromagnetic waves travelling with speed 'c', equation 12.4 can be given by:
+c=fλ
+12.5
+Example 12.2
+An athlete in the gym moves to the gym moves one end of a rope up and down, whose other end is fastened
+with a wall, with a speed of 2.5 m/s. It produces oscillations whose wavelength is 0.5 m.
+Calculate the frequency of waves generated in the rope.
+GIVEN:
+Wavelength 'λ' = 0.5 m
+Wave speed 'v' = 0.5 m/s
+REQUIRED:
+Frequency 'f' = ?
+SOLUTION:
+By universal wave equation:
+v = fλ
+or
+f=
+V
+λ
+putting values
+f=
+2.5m/s
+0.5m
+Therefore
+f=5Hz
+ANSWER
+The rope therefore oscillates at 5 times per second.
+National Book Foundation
+84
+WAVES
+UNIT 12
+Example 12.3
+Find the wavelengths of the lowest and highest frequency sounds that human can hear
+which travels with a speed of 343 m/s in air?
+GIVEN:
+Lowest frequency 'f₁' = 20 Hz
+Highest frequency 'f₂' = 20,000 Hz
+Speed of sound 'v' = 343 m/s
+REQUIRED:
+Low Wavelength 'λ₁'= ?
+High Wavelength 'λ₂'= ?
+SOLUTION:
+By universal wave equation:
+v = fλ
+or
+λ =
+V
+f
+For lowest frequency sound, the above equation becomes: λ₁ =
+www.taleem360.com
+V
+f₁
+putting values
+λ₁ =
+343m/s
+20 Hz
+Therefore
+λ₁=17.15m
+ANSWER
+Similarly for highest frequency sound:
+λ₂ =
+V
+f₂
+putting values
+λ₂ =
+343m/s
+20,000 Hz
+Therefore
+λ₂ = 0.017m
+ANSWER
+12.8 PROPERTIES OF WAVES
+The basic properties of waves like reflection, refraction and diffraction can be described with the
+help of a ripple tank by using water waves. Ripple tank is also used to calculate frequency,
+wavelength and speed of waves on water's surface. It also analyzes the characteristics of waves
+like transverse and longitudinal behavior.
+Lamp
+Stand
+Vibrator
+Motion of
+dipper
+Elastic
+bands
+Water surface
+Plane
+dipper
+Shallow
+water tray
+Motion of
+dipper
+Spherical
+dipper
+Wave pattern
+on screen
+Screen
+FIGURE 12.13 Ripple Tank Experiment
+85
+National Book Foundation
+UNIT 12
+WAVES
+Basic Construction and working: A ripple tank consists of shallow tray of water with a transparent
+base, usually illuminated from above, so that light shines through the water. The ripples on the
+water show up as shadows (bright and dark lines) on the screen underneath the tank. The ripples
+are created by a small electric motor (vibrator). The motor has an off-center weight attached.
+When the motor is turned-on, it makes the strip vibrate and thus create ripples on the surface of
+water. Straight waves in the water are created by a small electric motor.
+In order to get consistent plane waves, the motor assembly is lowered until it just touches the
+surface of water and the motor is then turned on. You should be able to see straight waves being
+created which travel across the surface of the tank, often called plane waves.
+By lighting the wavefronts being created, clear peaks and troughs can be seen on the screen as
+shown in figure 12.13. The imaginary surface representing corresponding points (crests and
+troughs) of a wave that vibrate in unison is called a wavefront. It may be plane or
+spherical depending upon the dipper used
+www.taleem360.com
+12.8.1 REFLECTION
+The change in direction of a wave front at an
+Incident ray
+Reflected ray
+interface between two different media or rigid
+barrier so that the wavefront returns in to the
+medium from which it is originated is called FIGURE 12.14 Reflection of Waves
+reflection as shown in figure 12.14. When a
+wavefront strikes a rigid barrier or
+irregular surface, it is reflected back along its
+original path.
+12.8.2 REFRACTION
+When waves travel from one medium into another its speed changes and in some cases divert from
+its original path, the phenomenon is called refraction. When a water wave enters a medium in
+which it moves more slowly, its wavelength decreases as well.
+Wave front
+The phenomenon of refraction can be
+Boundary
+wave direction
+demonstrated in the ripple tank by using a
+boundary between shallow and deep water. A thick
+wave
+direction
+ray
+plastic sheet is placed in the tray at some angle to
+the wavefront. When water waves travel from
+deep water to shallow water, its wavelength
+shallow water
+deep water
+shortened and its speed slows down. This is
+shown in figure 12.15.
+FIGURE 12.15 Refraction of Waves
+National Book Foundation
+86
+WAVES
+UNIT 12
+MINI LAB
+Place a pencil in the water, placing it
+so that it is tipped to one side. Look
+through the front of the glass and
+notice that the pencil is bent. The
+science behind it: Light "bends" when
+it passes though one substance to
+another of a different density.
+12.8.3 DIFFRACTION
+wavefront
+The bending of waves around corners of an obstacle is called
+diffraction. When waves pass through an aperture or opening it
+ray
+spreads out due to diffraction.
+We can observe the phenomenon of diffraction in a ripple tank
+Obstacle
+by generating straight waves and place two obstacles in such a
+(a) Narrow opening
+way that the separation is comparable to the wavelength of the
+waves generated in the ripple tank. Waves, after passing
+wavefront
+through the narrow opening, spread out in every direction and
+turn into circular waves. This effect is greatest when the size of
+ray
+the opening is less than or equal to the size of the wavelength of
+generated waves as shown in figure 12.16 (a).
+It is, however, to be noted that wavelength (or speed) of the
+Obstacle
+wave is not affected by diffraction. If the separation is large
+(b) Wide opening
+between obstacles compared to the wavelength, it can be seen
+FIGURE 12.16 Diffraction
+that central part of the wave is not affected, only part of the
+wave at the edges diffracts as shown in figure 12.16 (b).
+www.taleem360.com
+A. Wavelength and Diffraction: The wavelength is the distance
+UV Light
+IR Light
+< 400 nm
+> 800 nm
+between consecutive crests (or troughs) of a wave.
+• Shorter Wavelengths: Waves with shorter wavelengths
+diffract less. If the wavelength is much smaller than the size
+of the gap, the waves will primarily travel straight through
+with minimal spreading.
+B₁-B₃
+• Longer Wavelengths: Waves with longer wavelengths
+diffract more. This means that if the wavelength is large
+compared to the size of the gap, the waves will spread out
+significantly after passing through the gap.
+FIGURE 12.17 Wavelength
+and diffraction
+UV light, which has a shorter wavelength, diffracts less than IR
+light, which has a longer wavelength, as shown in figure 12.17.
+National Book Foundation
+87
+UNIT 12
+WAVES
+B. Gap Size and Diffraction: The size of the opening through which the waves pass.
+• Narrow Gaps: When the gap size is comparable to or smaller than the wavelength of the wave,
+significant diffraction occurs. The waves spread out widely on the other side of the gap.
+• Wide Gaps: When the gap size is much larger than the wavelength, diffraction is minimal. The
+waves pass through the gap with only slight spreading, and most of the wave energy remains in
+the original direction of propagation.
+For example sound waves have relatively large wavelength that is why they can diffract around
+obstacles and through openings, allowing you to hear sounds even when you can't see the source.
+Whereas light wave has much shorter wavelength, visible light has a wavelength range from about
+400 nm to 700 nm. When light passes through a slit or an aperture that is much larger than its
+wavelength, there is minimal diffraction, and the light beam remains well-defined. However, if
+the slit is on the order of the light's wavelength (as in a diffraction grating), significant diffraction
+and interference patterns can be observed.
+www.taleem360.com
+12.9 TSUNAMIS
+A tsunami is a series of large ocean waves created by
+underwater disturbances. These waves travel quickly
+across the ocean and can reach great heights when they
+approach the shore, causing massive flooding and
+damage to coastal areas as shown in figure 12.17.
+FIGURE 12.18 Tsunami destruction
+12.9.1 TSUNAMI GENERATION
+Tsunamis are most commonly caused by underwater
+Wave
+earthquakes, especially those that happen at tectonic
+plate boundaries where one plate is pushed beneath
+another. This sudden movement of the ocean floor
+displaces a large amount of water, resulting in powerful
+Epicenter of
+earthquake
+waves that travel across the ocean as shown in figure
+Tsunami hits
+12.18. Tsunamis can also be triggered by underwater
+the coast
+volcanic eruptions, as the explosion displaces water and
+creates waves that spread outward. Additionally,
+landslides occurring under the ocean can displace water
+Tsunami start during earth
+quake and giant waves travel
+across the sea
+and generate tsunamis. The movement of sediment and
+rock on the seafloor causes water displacement, leading
+to the formation of tsunamis. Although rare, large
+meteorites impacting the ocean can also cause massive
+waves due to the significant displacement of water.
+FIGURE 12.19 Tsunami generation
+National Book Foundation
+88
+WAVES
+UNIT 12
+12.9.2 CHARACTERISTICS OF TSUNAMIS
+Tsunami waves move quickly across the ocean after the initial
+DO YOU KNOW?
+Lituya Bay, Alaska, July 9, 1958 A
+notable exception was the 1958
+tsunami triggered by a landslide in
+a narrow bay on Alaska's coast. Its
+over 1,700-foot wave was the
+largest ever recorded for a tsunami.
+disturbance, often traveling at speeds of 500-800 km/h (310-
+500 mph). In deep waters, the waves are not very high,
+making them hard to spot. However, as they near the coast,
+their speed slows down while their height increases
+significantly as the wave energy gets compressed.
+When tsunamis hit land, they can cause massive destruction with their towering height and
+powerful energy, flooding coastal regions, demolishing structures, and resulting in substantial
+loss of life and property.
+www.taleem360.com
+SUMMARY
+• Wave is the energy transfer mechanism without the transport of material media.
+• Mechanical Waves are the waves that require medium for their propagation.
+• Electromagnetic waves are the waves that do not require any media for their propagation.
+• Transverse waves are the waves in which particles of the medium vibrate/oscillate
+perpendicular to the direction of motion of waves.
+• Longitudinal waves are the waves in which particles of the medium vibrate/oscillate
+parallel to the direction of motion of waves.
+• Seismic waves are caused by the sudden movement of materials within the Earth, such as
+slip along a fault during an earthquake.
+• Reflection is the throwing back by a body or surface of light, heat, or sound without
+absorbing it.
+• Refraction is the change in direction of a wave passing from one medium to another caused
+by its change in speed.
+• Diffraction is the bending of waves around the edges of an obstacle.
+• Tsunamis are a series of enormous ocean waves caused by earthquakes, underwater
+landslides, volcanic eruptions or asteroids.
+National Book Foundation
+89
+UNIT 12
+EXERCISE
+MULTIPLE CHOICE QUESTIONS
+QI. Choose the best possible option in the following questions.
+1. If a body performing simple harmonic motion completes its one vibration in 2 seconds, its
+frequency of vibration is:
+A. 2 Hz
+B. 1 Hz
+C. 0.5 Hz
+D. 10 Hz
+2. 360 waves are passing through a point in a river in one hour, time period of the wave is:
+A. 0.1 s
+B. 1 s
+C. 10 s
+D. 100 s
+www.taleem360.com
+3. Time period of electrical vibrator of ripple tank is 0.5 s, water waves in ripple tank has
+speed of 10 m/s and amplitude of 5 cm. Calculate the frequency of the waves.
+A. 50 Hz
+B. 0.5 Hz
+C. 200 Hz
+D. 2 Hz
+4. Which of the followings is longitudinal wave?
+A. X-rays
+B. Light
+C. String waves
+D. Sound
+5. When water waves enter from deep water to shallow water:
+A. Frequency of water waves increases B. Time period of water waves decreases
+C. Speed of water waves decreases D. Wavelength of water waves increases
+6. Listening to radio transmission in deep valleys of mountain areas is due to:
+A. Reflection of waves
+B. Refraction of waves
+C. Interference of waves
+D. Diffraction of waves
+7. Which of the following are transverse waves:
+A. X-rays
+B. Light
+C. String waves
+D. All of these
+8. Tsunamis are most often generated by
+A. Flood
+B. Bomb blast
+C. Earth quake
+D. None of these
+9. Waves transfer:
+A. energy
+B. frequency
+C. wavelength
+D. velocity
+10. Which of the following characteristics of a wave is independent of the others?
+A. speed
+B. frequency
+C. amplitude
+D. wavelength
+11. The relation between v, f and λ of a wave is:
+A. Vf=λ
+B. fλ=v
+C. vλ=f
+D. v=λ/f
+National Book Foundation
+90
+WAVES
+UNIT 12
+CONSTRUCTED RESPONSE QUESTIONS
+QII. Follow the directions to respond to the following questions.
+1. (a) In the graph below represent crest, trough and origin. (b) Also in similar graph drawn
+again show displacement, amplitude and wavelength.
+a
+b
+www.taleem360.com
+SHORT RESPONSE QUESTIONS
+QIII. Give a short response to the following questions.
+1. What will happen to frequency of waves in a ripple tank if time period of electrical vibrator
+is decreased? What will happen to speed of waves?
+2. What will happen to wavelength, speed, frequency and time period of the water waves in
+ripple tank if water waves enter from deep water to shallow water regions?
+3. Nuclear fusion explosions are taking place at Sun, we get heat on earth but do not hear
+sound. Why?
+4. Why do water waves refract at the boundary of shallow water and deep water? Relate this
+behavior to refraction of light.
+5. Classify different wave types based on whether they require a medium for propagation.
+Justify why electromagnetic waves do not need a medium.
+6. Under what conditions maximum diffraction of waves occurs?
+7. Distinguish between reflection and refraction by describing how each process affects wave
+direction and speed. Design an experiment to demonstrate both phenomena using a ripple
+tank, and evaluate how changes in medium affect each process.
+LONG RESPONSE QUESTIONS
+QIV. Give a detailed response to the following questions.
+1. How does a wave transfer energy without transferring matter? How does this principle
+apply to different media like ropes, water, and air?
+91
+National Book Foundation
+UNIT 12
+WAVES
+2. Describe the key characteristics of a wave (wavelength, frequency, amplitude) and their
+relationships to each other. How do these characteristics affect the wave's energy and
+behavior?
+3. Explain the relationship between wave speed, frequency, and wavelength using the
+equation v = fλ. Analyze a scenario where one of these variables changes and discuss the
+impact on the others.
+4. Compare and contrast transverse and longitudinal waves, providing examples of each. Why
+is this distinction important in understanding wave behavior?
+5. Describe how waves undergo reflection, refraction, and diffraction. Analyze a real-world
+scenario to illustrate these phenomena.
+6. How does the wavelength of a wave affect its diffraction pattern? What factors determine
+the extent of diffraction, and how can this principle be applied in technology?
+7. Explain the formation of tsunamis due to underwater earthquakes. Discuss how these
+waves change as they move from deep to shallow water and their potential impacts.
+8. How does the amplitude of a wave relate to the amount of energy it carries? Use
+mathematical reasoning and real-world examples to support your answer.
+9. Differentiate between primary (P) and secondary (S) seismic waves. How do these waves
+provide insights into the Earth's internal structure?
+10. Discuss practical applications of wave reflection, refraction, and diffraction in technology.
+Provide examples and analyze their significance.
+www.taleem360.com
+NUMERICAL RESPONSE QUESTIONS
+QV. Solve the questions given below.
+1. If 10 waves are produced on a long-stretched string of length 20 m. What is wavelength of
+the waves? What will be frequency of the wave if speed of waves is 12 ms´¹. (Ans. 2 m, 6 Hz)
+2. In a ripple tank 1.5 m, waves cover this length in 2 seconds. If distance between
+two successive crest and trough is 10 cm then find the number of waves, frequency of waves
+and their time period?
+(Ans. 7.5 waves, 3.75 Hz, 0.266 s)
+3. Calculate the frequency of red light wavelength 700 nm in vacuum? (Ans. 4.29 × 10¹4 Hz)
+4. A wooden bar vibrating into the water surface in a ripple tank has a frequency of 12 Hz.
+The resulting wave has a wavelength of 3 cm. What is the speed of the wave?
+(Ans. 0.36 m s´¹)
+5. What is the wavelength of the radio-waves transmitted by an FM station at 90 Mhz?
+(Ans. 3.33 m)
+National Book Foundation
+92
+Unit
+13
+SOUND
+What is the typical
+material used to make
+drumheads?
+www.taleem360.com
+STUDENT LEARNING OUTCOMES
+The students will:
+✓ [SLO: P-10-D-12] Describe the production of sound.
+✓ [SLO: P-10-D-13] Describe the longitudinal nature of sound waves.
+✓ [SLO: P-10-D-14] State the approximate range of frequencies audible to humans as 20Hz to 20000Hz.
+✓ [SLO: P-10-D-15] Justify why sound waves cannot travel in a vacuum.
+✓ [SLO: P-10-D-16] Describe how changes in amplitude and frequency affect the loudness and pitch of sound
+waves.
+✓ [SLO: P-10-D-17] Describe how different sound sources produce sound waves with different timbres.
+✓ [SLO: P-10-D-18] Describe an echo as the reflection of sound waves.
+✓ [SLO: P-10-D-19] Justify simple experiments to show the reflection of sound waves.
+✓ [SLO: P-10-D-20] Illustrate a method involving a measurement of distance and time for determining the
+speed of sound in air.
+✓ [SLO: P-10-D-21] State that the speed of sound in air is approximately 330 - 350m/s.
+✓ [SLO: P-10-D-22] Describe that, in general, sound travels faster in solids than in liquids and faster in liquids
+than in gasses.
+✓ [SLO: P-10-D-23] Define ultrasound as sound with a frequency higher than 20 kHz.
+✓ [SLO: P-10-D-24] Illustrate and analyze the uses of Ultrasound [in cleaning, prenatal and other medical
+scanning, and in sonar.
+✓ [SLO: P-10-D-25] Illustrate the use of infrasound.
+✓ [SLO: P-10-D-26] Analyze the effects of noise pollution on the environment.
+UNIT 13
+SOUND
+✓ [SLO: P-10-D-27] Justify the importance of acoustic protection.
+✓ [SLO: P-10-D-28] Describe how knowledge of the properties of sound waves is applied in the design of
+buildings with respect to acoustics.
+✓ [SLO: P-10-D-29] Explain the use of soft materials to reduce echo sounding.
+✓ [SLO: P-10-D-30] Explain, with examples, how sound can reflect, refract and diffract.
+✓ [SLO: P-10-D-31] Explain how sound is converted by the eardrum and nerves into electrical signals that are
+then interpreted by the brain.
+Sound is a mechanical wave that originates from the
+vibration of particles in a medium such as air, water,
+or solids. These vibrations create longitudinal waves,
+where particles oscillate parallel to the direction of
+wave propagation, causing regions of compression
+and rarefaction. The properties of sound waves,
+including frequency, amplitude, and speed,
+determine the characteristics of the sound, such as
+pitch and loudness. Sound waves require a medium
+to travel, and their behavior can be influenced by FIGURE 13.1 Sound Devices
+reflection, refraction, diffraction, and interference.
+www.taleem360.com
+Sound is essential for communication, entertainment, and various technological applications,
+making its study important in diverse fields.
+13.1 SOURCE OF SOUND
+That object which is basically the cause of vibration is called Source of Sound. For Example;
+Our clapping hands, chirping birds, Musical Instruments etc. as shown in figure 13.2.
+Clapping hands
+Bird Chirping
+Thunder
+Ringing cellphone
+Musical instruments school bell
+foot steps
+car horn
+FIGURE 13.2 Sources of Sound
+National Book Foundation
+94
+SOUND
+UNIT 13
+POINT TO
+PONDER
+A stethoscope works by transmitting sound from
+the chest-piece to the listener's ears through air-
+filled hollow tubes. The chest-piece typically has
+a plastic disc known as the diaphragm. The
+diaphragm picks up vibrations from physiological
+noises.
+These vibrations create acoustic pressure waves, which travel up the
+tubing to the listener's ears after multiple reflections.
+13.1.1 HOW SOUND IS PRODUCED?
+Production of sound totally depends upon vibration of object. Vibrating source transforms energy,
+due to vibration and it compels to the surrounding medium to vibrate through which sound wave
+travels. The surrounding medium particles obey to and fro motion. Basically sound waves are such
+waves which produce sensation of listening when strike with ear drum. Production of pressure
+waves are the main cause of vibration, later on it collides with our auditory system resultantly we
+are able to listen sound. Sounds surround us from machines and vehicles to birds and
+conversations. Experiments show that vibrations are essential for sound production, such as:
+blowing across a bottle, Plucking a stretched rubber band, flapping cardboard or bird wings and
+striking a bell or drumhead.
+www.taleem360.com
+Let's perform a very simple and short duration
+experiment to show the vibration is necessary for
+Vibrating
+tuning
+fork
+production of sound. Few things are required in this
+experiment like Tuning fork, rubber pad, Glass and
+water only. First of all take glass which is filled with
+Glass
+Water
+full of water. Secondly hit tuning fork on rubber pad
+and touch one prong of vibrating tuning fork very
+gently with surface of water as shown in figure
+13.3(a). In third step, vibrating tuning fork will be
+dipped vertically into glass of water as shown in
+(a)
+(b)
+FIGURE 13.3 Production of sound
+figure 13.3 (b).
+In both of the above positions of vibrating tuning fork, sound can be observed due to vibration of
+tuning fork with particles of medium (water molecules). This experiment can be performed with
+empty glass and sound of vibration of tuning fork can also be heard, but in both cases sound
+impact will be different because in empty glass air exists so sound impact is smaller as compare to
+presence of water.
+National Book Foundation
+95
+UNIT 13
+SOUND
+INFORMATION
+Bats can hear frequencies up to 120,000 Hz. Other animals cannot hear such high-pitched sounds. Mice
+can hear frequencies up to 100,000 Hz, dogs up to 35,000 Hz, and cats up to 25,000 Hz. Humans hear
+sounds only upto about 20,000 Hz, but children can usually hear higher-frequency sounds than adults
+13.1.2 MEDIUM FOR PROPAGATION OF SOUND
+As we know that sound waves are mechanical longitudinal in nature so for propagation of sound
+waves from one point to another point medium is required. Without the existence of medium
+these waves may be produced by vibrating objects but cannot travel from one place to another
+place. For example; in class room if air does not exist, students will be able to listen all lecture
+points are delivered by teacher. Let's discuss a very simple experiment for understanding the
+importance of medium for propagation of sound waves.
+Let's take an electric bell and an airtight glass bell jar. The
+electric bell is suspended inside the airtight bell jar. The bell
+jar is connected to a vacuum pump, as shown in figure13.4.
+If you press the switch you will be able to hear the bell. Now
+start the vacuum pump. When the air in the jar is pumped
+out gradually, the sound becomes fainter, although the same
+current is passing through the bell. After some time when
+less air is left inside

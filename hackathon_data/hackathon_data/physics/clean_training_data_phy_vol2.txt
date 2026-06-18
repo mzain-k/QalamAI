@@ -1,0 +1,82 @@
+POINT TO PONDER
+Gravitational lensing serves as a powerful tool for finding the distribution of dark matter (it is invisible glue that keeps stars, dust and gasses together in galaxies and make up majority of galaxy's mass) and dark energy in the universe as dark matter exerts gravitational influence without emitting light. Future advancements in observational techniques such as next generation telescopes and surveys promise to revolutionize our understanding of the universe unveiling new discoveries and insights into the nature.
+close by another galaxy on its way to reach the Earth. Einstein predicted this effect but he considered it unlikely that we would ever observe it. But in 1979 gravitational lensing was observed and it becomes an observable phenomenon when the double Quasar (Quasars are the highly luminous cores of distant galaxies) was discovered became the first example of lensed object, as it was behind another galaxy i.e. that galaxy lies exactly between the Earth and the double Quasar. This quasar was named as "double" due to a special effect of the phenomenon of gravitational lensing i.e. gravitational lensing can lead to the formation of multiple images of the same distant source. This can be explained by the figure 14.29 (a).
+As from the above figure it is seen that the light coming from the source is bending from both sides of the intervening galaxy and making two images of the source. Similarly in some cases when the source lies exactly behind a galactic object due to bending of light all around the intervening object makes a ring of light around it and is called "Einstein rings". The first time the bending of light due to a heavy object in ground was in 1919 during the observation of total solar eclipse and the light was bent by the amount predicted by the general relativity as shown in figure 14.29 (b).
+14.9 ACOUSTIC LENSING
+Sound is a form of energy produced by the vibration of bodies. The science of sound is known as acoustics and can be defined as: 'The branch of physics that deals with examining and studying the sound is called acoustics.'
+It deals with the production, transmission and effects of sound. The main application of acoustics is to make the music or speech sound as good as possible. When a sound wave is used as an
+FIGURE 14.29 Gravitational lensing
+National Book Foundation
+
+UNIT 14 OPTICS
+Information carrier or energy orientation method its energy gradually reduces during propagation. Therefore, we must use different techniques to focus sound waves to efficiently utilize sound energy.
+Acoustic lenses can focus the energy of sound waves in a relatively small space which is a region with high energy density as shown in figure 14.30. In this figure an electrical signal is converted into sound which is released from a speaker (which acts like an object plane) then we use acoustic lens which focuses these sound waves on a single point at the end which acts like the image plane. Acoustic lenses manipulate sound waves in a manner similar to how optical lenses handle light and can be defined as: 'A lens that brings sound waves to a focus by having walls of collodion film and being filled with a heavy gas, which retards and refracts sound waves, is called acoustic lens.'
+The aim of the acoustic lens is to focus sound in much the same way that an optical lens focuses light. In loudspeakers a mechanical device used to improve the dispersion of high frequencies so that dispersion is much more uniform across the audible spectrum. A high frequency loudspeaker mechanical acoustic lens spreads a single point sound source into a parallel wave front.
+14.9.1 TYPES OF ACOUSTIC LENSES:
+There are two commonly used types of acoustic lenses i.e. the slant-plate lenses and perforated-plate lenses.
+A. Slant-Plate Lens: The design of the most commonly seen acoustic lens is the slant-plate lens which utilizes a series of plates with carefully calculated hyperbolic shapes which results in a horizontal response pattern. A slant-plate lens is shown in figure 14.31 (a). They make to select portion of expanding pressure wave to travel farther than other portions of the wave this tend to shape the pressure wave by controlling the dispersion.
+B. Perforated-Plate lens: Perforated-plate lenses consist of a collection of perforated barriers at the horn
+FIGURE 14.30 Focusing sound with acoustic lenses
+FIGURE 14.31 Types of acoustic lenses.
+National Book Foundation
+
+OPTICS UNIT 14
+mouth. These perforated screens are actually ring shaped with varying sizes of center cutouts. These perforated plate lenses can diverge as well as converge the sound just like diverging and converging lenses do with the light signals. Perforated plate lens is shown in figure 14.31 (b).
+14.9.2 MATERIAL AND SHAPES OF ACOUSTIC LENSES:
+Acoustic lenses can be made from various materials like plastic, epoxy, rubber and liquids due to reasons given below:
+A. Plastic: Plastic materials are commonly used for making acoustic lenses because it can easily be fabricated and have good acoustic properties.
+B. Epoxy: Epoxy is also commonly used material for making acoustic lenses it offer good sound permeability and can be molded into specific shapes.
+C. Rubber: Rubber is used in acoustic lenses for their flexibility and the ability to deform the lenses.
+D. Liquid: Some acoustic lenses use liquid filled chambers to converge or diverge sound waves. Similarly acoustic lenses come in different shapes each shape serves specific purpose. They can be shaped in spherical, ellipsoidal, parabolic and gradual geometric curves as explained here:
+E. Spherical Acoustic Lenses: These acoustic lenses have curved surface like a sphere, they focus or diverge the sound waves according to their curvature.
+F. Ellipsoidal Acoustic Lenses: These are similar to spheres but a little elongated in one direction (somehow like an egg) they can focus sound waves in a specific direction.
+G. Parabolic Acoustic Lenses: These acoustic lenses have a parabolic shape and are excellent at focusing sound waves to a single point.
+H. Gradual Geometric Acoustic Lenses: Lenses with gradual geometric curves achieve gradient refractive index distribution allowing precise acoustic focusing.
+Acoustic lenses are important for applications like under water imaging, sonar systems and medical ultrasound etc. They are also used in non-destructive testing of materials which are opaque to light but sound waves can penetrate the material and find the voids and cracks without destructing the material. Now researchers are exploring 3-D printed meta-materials with balcony like structures to create impact resistant acoustic lenses.
+SUMMARY
+• Optics is the science of light and its interaction with matter.
+• Reflection of light is when a ray of light approaches a smooth polished surface and bounces back is called reflection.
+• First law of reflection states that the incident ray, the reflected ray and the normal all lie in same plane.
+National Book Foundation
+
+UNIT 14 OPTICS
+• Second law of reflection states that the angle of incident ray is equal to the angle of the reflected ray.
+• Refraction of light is the phenomenon in which the light ray's direction changes when it enters from one medium to another.
+• Speed of light in vacuum is constant but in other transparent media the speed of light decreases, its speed depends upon the density of the medium.
+• Refractive index is the measure of bending of a light ray when passing from one medium to another.
+• Perspex Block is a tough transparent plastic block which is used instead of glass blocks.
+• Total Internal reflection is the phenomenon in which a light ray travelling in denser medium bounces back to the same medium after striking the boundary of a rarer medium.
+• Critical Angle is the angle of incident light ray for which in spite of transmission into other medium the light ray moves along the boundary between the two media.
+• Optical Fibers are the doubly refractive indices concentric tubes of glass or plastic which are used for transmission of light using the phenomenon of total internal reflection.
+• Lenses are transparent objects that refract light in a specific way to form images.
+• Convex Lens is a type of lens which is thick from the center and thin from the outer edges it converges the parallel light rays to a single point.
+• Concave Lens is a type of lens which is thin from the center and thick from the outer edges it diverges the parallel light rays.
+• Focal length is the distance from the lens to its focal point for a converging lens the focal length is positive while for a diverging lens the focal length is negative.
+• Magnifying glass is a single lens device which is used to see bigger images of the objects.
+• Dispersion from a prism is the phenomenon in which white light splits into its seven constituent colors due to different extent of refraction.
+• Near Point is the minimum distance at which if the object is placed we have clear image on our retina.
+• Gravitational Lensing is the phenomenon in which light bends while passing by a heavy galactic object due to its strong gravity.
+• Acoustic Lensing is the technique in which some materials are used to focus or diverge sound waves.
+National Book Foundation
+
+OPTICS UNIT 14
+EXERCISE
+MULTIPLE CHOICE QUESTIONS
+Q1. Choose the best possible option in the following questions.
+1. A glass slab is dipped in a transparent liquid having same refractive index as that of glass slab. We cannot see the boundary of the two media (glass and liquid) due to ___ refraction.
+A. Maximum B. Minimum C. Zero D. Unit
+2. An incident ray makes an angle of 45° with a plane mirror. The angle of reflection is:
+A. 30° B. 45° C. 60° D. 90°
+3. Two plane mirrors are arranged parallel facing each other. The image(s) formed may be:
+A. One B. Two C. Four D. Infinite
+4. The apparent flattening of the Sun at the dawn and dusk is due to phenomenon of:
+A. Refraction B. Reflection C. Dispersion D. Polarization
+5. On summer days you see the reflections on roads which is called mirage. It is due to:
+A. Refraction B. Reflection C. Dispersion D. Total internal reflection
+6. The colors in the rainbow are formed by:
+A. Refraction B. Reflection C. Dispersion D. Total internal reflection
+7. The lenses in your eyes produce image on retina:
+A. Inverted and virtual B. Inverted and real
+C. Erect and virtual D. Erect and real
+8. What is the speed of light in diamond if its refractive index is 2.5?
+A. 1.2 × 10⁸ m/s B. 2.5 ×

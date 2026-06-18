@@ -1,0 +1,3156 @@
+Based on National Curriculum 2022-23
+Textbook of
+Mathematics
+GRADE
+10
+National Book Foundation
+Ministry of Federal Education and Professional Training
+Government of Pakistan
+Government Approval
+Approved by the National Curriculum Council (NCC), Ministry of Federal Education and Professional Training, Islamabad
+vide letter No. F.1(1-10)/2024/NCP-NOC/NBF/Maths, dated 19th September, 2024
+© 2025 National Book Foundation (NBF) as Federal Textbook Board
+All rights to this publication are strictly reserved. No part of this publication may be reproduced, stored in a retrieval system, or
+transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written
+written consent of the publisher. Unauthorized use, duplication or distribution is strictly prohibited and may result in legal action.
+A Textbook of Mathematics for Grade 10
+Based on National Curriculum of Pakistan (NCP) 2022-23
+Authors
+Dr. Saleem Ullah (Managing Author)
+Dr. Khalid Mahmood, Ms. Nabeela Azad, Ms. Hafsa Jabeen (Co-Authors)
+Contributors/Collaborators
+Muhammad Ahmad Nawaz (Designer)
+Supervision of Curriculum and Review Process
+Dr. Shafquat Ali Janjua
+Joint Educational Advisor, National Curriculum Council (NCC)
+Ministry of Federal Education and Professional Training, Government of Pakistan, Islamabad
+NCC Review Committee Members
+Mr. Abdul Rauf, EST, FG Public School No.8 Rawalpindi, FGEI's
+Major General Retired Malik Muhammad Abbas, Ms. Uzma Malik, Psychologist
+Desk Officer
+Zehra Khushal, (Assistant Educational Advisor), National Curriculum Council (NCC)
+NBF Textbooks Development Supervision
+Murad Ali Mohmand
+Managing Director, National Book Foundation (NBF)
+In-charge, NBF Textbooks Development
+Mansoor Ahmad, Assistant Director
+Printed in Pakistan
+First Edition: First Impression: February, 2025 | Pages: 300 | Quantity: 100000
+TEST
+EDITION
+Price: 400/-. Code: STE-724, ISBN: 978-969-37-1726-6
+Printer: Al-Qazi Printers, Peshawar
+For details on additional publications from the National Book Foundation, please visit our website at www.nbf.org.pk
+You can also reach us by phone at 051-9261125 or via email at books@nbf.org.pk
+For feedback or corrections, kindly send your comments to 'nbftextbooks@gmail.com' and 'textbooks@snc.gov.pk'
+Note
+All illustrations, artwork, and images in this book are intended solely for educational
+and promotional purposes, benefiting the public interest.
+PREFACE
+Textbook of Mathematics for Grade 10 has been developed by NBF according to the
+National Curriculum of Pakistan 2022- 2023. The aim of this experimentation skills is to
+enhance learning abilities through inculcation of logical thinking in learners, and to
+develop higher order thinking processes by systematically building upon the foundation of
+learning from the previous grades. A key emphasis of the present experimentation skills is
+on creating real life linkages of the concepts and methods introduced. This approach was
+devised with the intent of enabling students to solve daily life problems as they go up the
+learning curve and for them to fully grasp the conceptual basis that will be built upon in
+subsequent grades.
+After amalgamation of the efforts of experts and experienced author, this book was
+reviewed and finalized after extensive reviews by professional educationists. Efforts
+were made to make the contents student friendly and to develop the concepts in
+interesting ways.
+The National Book Foundation is always striving for improvement in the quality of its
+books. The present book features an improved design, better illustration and interesting
+activities relating to real life to make it attractive for young learners. However, there is
+always room for improvement and the suggestions and feedback of students, teachers and
+the community are most welcome for further enriching the subsequent editions of this
+book.
+May Allah guide and help us (Ameen).
+Murad Ali Mohmand
+Managing Director
+Applications of Mathematics
+Complex Numbers: Complex numbers play a critical role in fields such as engineering,
+electronics, and quantum physics. They are especially valuable for modeling oscillations in
+alternating current (AC) circuits, which are foundational to modern electrical systems, and for
+analyzing waveforms and resonances that occur naturally in many types of physical systems.
+Quadratic Equations: Quadratic equations model a range of phenomena. In physics, they
+describe projectile motion; in finance, they are used for profit and cost optimization; and in
+architecture, they inform structural designs by calculating load distributions and parabolic
+shapes for stability.
+Matrices and Determinants: Matrices are essential in solving complex systems of equations and
+executing transformations in areas like computer graphics and machine learning. Determinants,
+closely related to matrix invertibility, provide insights into properties of shapes and can be used
+to calculate area, volume, and to determine if linear systems have unique solutions.
+Linear and Quadratic Inequalities: Linear and quadratic inequalities express ranges of values
+that satisfy given conditions, such as acceptable income levels, speed limits or temperature
+thresholds. In real life, they are essential in budgeting, optimizing resources in industries,
+setting safety regulations, and environmental monitoring, where certain parameters must stay
+within safe or efficient boundaries.
+Algebraic Fractions: Algebraic fractions simplify relationships found in finance (like calculating
+compound interest), physics (such as wave motion and light refraction), and data science (for
+probability ratios and odds in statistical models). They allow complex relationships to be
+expressed in simpler, comparable terms.
+Functions and Graphs: Functions are mathematical tools that map inputs to outputs, visualized
+through graphs to represent relationships between variables, such as speed over time, cost
+versus quantity, or population growth over years. These graphical representations are
+fundamental in economics, biology, and physics, where understanding variable relationships is
+key to predicting and modeling real-world changes.
+Vectors: Vectors combine magnitude and direction, making them indispensable in applications
+like navigation, physics (force and velocity calculations), and engineering (stress analysis in
+materials). In computer graphics, they help in rendering movements and 3D transformations,
+contributing to realistic visualizations.
+Trigonometry: Trigonometry is crucial for solving right and non-right triangles. Its applications
+span navigation, construction, and astronomy, where precise distance and angle measurements
+are essential, from mapping locations to constructing stable structures.
+Chords and Arcs of a Circle: Understanding chords and arcs forms the basis of circular geometry,
+used extensively in design, architecture, and mechanical engineering, where curves and circular
+components (like gears or wheels) must be accurately measured and constructed.
+Tangents and its Construction: A tangent touches a circle at one point, forming a right angle
+with the radius at that point. This principle has practical applications in road and race track
+design, gear construction, and analyzing rotational motion, where precision at points of contact
+is crucial. Constructing tangents, arcs, and circular sections is fundamental in structural design,
+architecture, bridge engineering, and urban planning.
+Statistics: Statistics, through measures like mean, median, mode, range, and standard
+deviation, help summarize and interpret data trends. Statistics play an essential role in business
+forecasting, healthcare analytics, social sciences, and environmental studies, where decisions
+must be made based on reliable data insights.
+Table of Contents
+Sr. No. Description P. No.
+1 Complex Numbers 6
+2 Quadratic Equations 27
+3 Matrices And Determinants 55
+4 Linear and Quadratic Inequalities 78
+5 Algebraic Fractions 97
+6 Functions And Graphs 115
+7 Vectors in Plane 140
+8 Application of Trigonometry 160
+9 Chord and Arcs of a Circle 196
+10 Tangents and Angles of a Circle 215
+11 Practical Geometry of Circles 232
+12 Basic Statistics 245
+13 Answers 279
+01
+Complex Numbers
+After studying this unit students will be able to:
+• Recognize complex numbers, conjugate and modulus of a complex numbers.
+• Apply basic operations on complex numbers.
+• Define commutative laws, associative laws and distributive laws for complex numbers.
+• Recognize additive and multiplicative identity and find additive and multiplicative
+inverse of complex numbers.
+• Find real and imaginary parts of x1 + iy1 for n = ±1, ±2,...
+x2 + iy2
+• Find solution of equations having complex values.
+• Apply the geometric interpretation of a complex numbers.
+• Solve daily life problems involving complex numbers.
+Until the sixteenth century, mathematicians were puzzled by square roots of a negative numbers.
+For example, the solutions of x²- 2 = 0 are √2 and – √2. But what are the solution of x² + 2 = 0?
+To find the solution of this equation, imaginary numbers were defined.
+A French mathematician René Descartes was the first to emphasize the imaginary nature of
+numbers, positing that “one can imagine as many (numbers) as already mentioned in each
+equation, but sometimes, there is no quantity that matches what we imagine.”
+However, in 16th century an Italian mathematician Gerolamo Cardano, proved that having a
+negative term inside a square root can lead to the solution of an equation.
+Later, in the 18th century, mathematician Carl Friedrich Gauss consolidated Cardano's
+premises, in addition to developing a treatise on complex numbers in a plane and thereby
+established the modern bases of the term.
+René Descartes Gerolamo Cardano Carl Friedrich Gauss
+Imaginary and Complex Numbers
+Negative numbers do not have square roots in the real number system. However, a larger number
+system that contains the real number system is designed so that negative numbers do have square
+roots. This system is called the complex number system and it makes use of a number that is a
+square root of –1. We call this new number i.
+Let us find the solution of:
+x² + 1 = 0 (i)
+From (i), x² = –1 which implies x = ±√–1 = ±i
+The number i is the solution of x² + 1 = 0, and is defined as:
+i = √–1 where i² = –1
+Since the square of a real number is not negative, therefore
+i is not a real number and is called the imaginary unit.
+Using i we can define square root of any negative number.
+Interesting Information
+Girolamo Cardano began his
+career as a doctor and studied,
+taught and wrote mathematics as a
+side line. He held important
+positions at The University of
+Pavia and Bologna in Italy and
+wrote many works on arithmetic,
+astronomy, physics and medicine.
+To express the roots of negative numbers in terms of i, we can use the fact that in the complex
+numbers, √–x = √–1x = i√x. When x is a positive real number and i is the imaginary number,
+the number i√x is called a pure imaginary number.
+Example: Express each number in terms of i.
+a. √–5 b. √–9 c. √–17
+d. √–64 e. 3i√–5i f. √–5 × √–20
+Solution:
+a. √–5 = √–1 × 5 = √–1 √5 = i√5 = √5i
+We prefer to write i as ai,
+where a is rational number.
+b. √–9 = √–1 × 9 = √–1 × √9 = i × 3 = 3i
+c. √–17 = √–1 × 17 = √–1 × √17 = i√17 = √17i
+d. √–64 = √–1 × 64 = √–1 × √64 = i√64 = i8 = –8i
+e. 3i × 5i = 15i² = 15 × (–1) = –15 where (i² = –1)
+f. √–5 × √–20 = √–1 × 5 × √–1 × 20 = (√–1 × √5) × (√–1 × √20)
+ = i√5 × i√20 = i²√5 × 20 = –1√100 = –10
+Imaginary Number
+An imaginary number is a number that can be written a + bi, where a and b are real
+numbers, b ≠ 0.
+Unit-01: Complex Numbers 7 National Book Foundation
+Complex Numbers
+When a and b are real numbers and b is allowed to be 0, the number a + bi is said to be complex.
+A complex number is any number that can be written in the form of a + bi, where a and b are
+any real numbers and both a and b can be zero.
+Key Fact:
+• The numbers 2 + 5i, 7 – 11i, 18i are imaginary as b ≠ 0 in these numbers. But they
+are also complex numbers.
+• Complex number like 5i in which a = 0 and b ≠ 0 are imaginary number with no real
+part. Such numbers are called pure imaginary numbers.
+• As 6 can be written as: 6 + 0i. Therefore, every real number is a complex number with
+0 as imaginary part.
+• The set of complex numbers is denoted by C and R ⊂ C.
+The complex number
+a + bi
+7, 2 + 7i, –11i
+Imaginary number
+a + bi, b ≠ 0
+7 + 3i, 2i, –1/2i
+Complex numbers that are
+real numbers. a + bi, b = 0
+4, √7, –11, 6
+Complex numbers
+a + bi, a ≠ 0, b ≠ 0
+2 + 3i, 5 – 7i
+Pure imaginary numbers
+a + bi, a = 0, b ≠ 0
+–7i, 1/3i, 19i
+Irrational
+numbers
+√2, √7
+Rational
+numbers
+2/3, 7, –19, 2.5
+Unit-01: Complex Numbers 8 National Book Foundation
+Addition and Subtraction of Complex Numbers
+The complex numbers obey the commutative, associative and distributive law. Thus, we can add and
+subtract them as we do binomials. Moreover, the sum and difference of two complex numbers is also a
+complex number. If z₁ = a + bi and z₂ = c + di are two complex numbers then their sum and difference is
+defined as:
+Sum:
+Add real part in real part and imaginary part in imaginary part.
+z₁ + z₂ = (a + bi) + (c + di) = (a + c) + (b + d)i
+Difference: Subtract real part in real part and imaginary part in imaginary part.
+z₁ – z₂ = (a + bi) – (c + di) = (a – c) + (b – d)i
+Example: Simplify:
+a. (7 + 5i) + (4 + 3i) b. (5 + 6i) – (7 – 4i)
+Solution:
+a. (7 + 5i) + (4 + 3i)
+= 7 + 5i + 4 + 3i
+= 7 + 4 + 5i + 3i (combine real and
+= 11 + 8i imaginary parts)
+b. (5 + 6i) – (7 – 4i)
+= 5 + 6i – 7 + 4i
+= 5 – 7 + 6i + 4i (combining real and
+= –2 + 10i imaginary parts)
+Multiplication of Complex Numbers
+If a + bi and c + di are two complex numbers then their product can be found by using distributive
+law.
+(a + bi)(c + di) = a(c + di) + bi(c + di) = ac + adi + bci + bdi²
+ = ac + adi + bci – bd (ac – bd) + (ad + bc)i ..... (as i² = –1)
+Therefore, the product of two complex numbers is also a complex number.
+For complex numbers, the property √a√b = √ab does not hold in general, but it does when a
+is negative and b is a non-negative number.
+To express square root of negative numbers, we first express them in terms of i. For example:
+√–3 × √–7 = √–1 × 3 × √–1 × 7 = i√3 × i√7 = i²√21 = –√21i; correct.
+But, √–2 × √–5 = √(2)(–5) = √10 is wrong.
+Example: Simplify and multiply:
+a. √–2√–11 b. –2i.5i c. –3i(2 – 8i)
+d. √–9 √–36 e. (3 – 2i)(1 + 5i) f. (5 – i)(9 – 3i)
+Solution:
+a. √–2√–11 = √–1√2 × √–1√11 = i√2 × i√11 = i²√2 × 11 = –√22
+b. –2i.5i = –10(i²) = –10(–1) = 10 (as i² = –1)
+Unit-01: Complex Numbers 9 National Book Foundation
+c. –3i(2 – 8i) = –6i + 24i² = –6i – 24 = –24 – 6i
+d. √–9√–36 = √–1 × 9√–1 × 36 = i√9 × i√36 = i3 × i6 = 18i² = –18
+e. (3 – 2i)(1 + 5i) = 3 + 15i – 2i – 10i² = 3 + 13i – 10(–1) = 13 + 13i
+f. (5 – i)(9 – 3i) = 45 – 15i – 9i + 3i² = 45 – 24i + 3(–1) = 42 – 24i
+Powers of i
+We now want to simplify certain expressions involving higher powers of i, simplifying powers
+of i can then be done by using the fact that i² = –1 and expressing the given power of i in terms
+of i². Consider:
+i³ = i² . i = (–1) . i = –i
+i⁴ = i² . i² = (i²)² = (–1)² = 1
+i⁵ = i⁴ . i = (i²)² . i = (–1)² . i = i
+i⁶ = i⁴ . i² = (i²)² . i² = (–1)² . (–1) = –1
+i⁷ = i⁶ . i = (i²)³ . i = (–1)³ . i = –i
+i⁸ = (i⁴)² = (i²)⁴ = (–1)⁴ = 1
+The powers of i cycle themselves through the values of i, –1, –i and 1.
+Example: Simplify:
+a. i¹¹ b. i²² c. i⁵¹ d. i¹⁰⁰
+Solution:
+Key Fact:
+Imaginary numbers appear
+in the field of engineering
+and physical sciences.
+a. i¹¹ = (i²)⁵ i = (–1)⁵ i = –i
+b. i²² = (i²)¹¹ = (–1)¹¹ = –1
+c. i⁵¹ = (i²)²⁵ i = (–1)²⁵ i = –i
+d. i¹⁰⁰ = (i²)⁵⁰ = (–1)⁵⁰ = 1
+Example: Write the expressions in the form of a + ib.
+a. 2 + i³ b. 19 + 7i⁵ c. i¹² + i¹⁵ d. 4i³ + 8i⁶
+Solution:
+a. 2 + i³ = 2 + i²i = 2 + (–1)i = 2 – i
+b. 19 + 7i⁵ = 19 + 7(i⁴)i = 19 + 7(1)i = 19 + 7i
+c. i¹² + i¹⁵ = (i²)⁶ + (i²)⁷i = (–1)⁶ + (–1)⁷i
+ = 1 + (–1)i = 1 – i
+d. 4i³ + 8i⁶ = 4i²i + 8(i²)³ = 4(–1)i + 8(–1)³
+ = –4i + 8(–1) = –4i – 8 = –8 – 4i
+Conjugates of Complex Numbers
+Conjugate of complex number is a complex number obtained by changing the sign of the
+imaginary part. In simple words, conjugate of a complex number is a number that has the same
+real part as the original complex number, and the imaginary part has the same magnitude but
+opposite sign.
+The conjugate of a complex number a + ib is a – ib.
+For example, the conjugate of 5 + 6i is 5 – 6i and that of 3 – 11i is 3 + 11i.
+Commonly, the complex number is denoted by z and its conjugate by z̄.
+For example, if z = 11 + 7i then z̄ = 11 + 7i = 11 – 7i
+Unit-01: Complex Numbers 10 National Book Foundation
+Example: Find the conjugate:
+a. 5 + 9i b. 13 – 5i c. –5 – 7i d. 11i
+Solution:
+a. 5 + 9i the conjugate is 5 – 9i b. 13 – 5i the conjugate is 13 + 5i
+c. –5 – 7i the conjugate is –5 + 7i d. 11i the conjugate is –11i
+Division of Complex Numbers
+Dividing complex numbers is a little more complicated than addition, subtraction, and
+multiplication of complex numbers because it is difficult to divide a number by an imaginary
+number.
+For dividing complex numbers, we need to find a term by which we can multiply the numerator and
+the denominator that will eliminate the imaginary part of the denominator so that we end up with a
+real number in the denominator.
+If z₁ = x₁ + iy₁, and z₂ = x₂ + iy₂, are the two complex numbers, then division of z₁ by z₂ is written as:
+z₁ / z₂ = (x₁ + iy₁) / (x₂ + iy₂) ..... (i)
+To eliminate the imaginary part in the denominator, we multiply the numerator and denominator
+of (i) by the conjugate of x₂ + iy₂, i.e. by x₂ – iy₂.
+z₁ / z₂ = (x₁ + iy₁) / (x₂ + iy₂) × (x₂ – iy₂) / (x₂ – iy₂) ..... (ii)
+After that, we will simplify the expression (ii).
+Steps for Dividing Complex Numbers
+To divide the two complex numbers, follow these steps:
+• First, calculate the conjugate of the complex number that is at the denominator of the
+fraction.
+• Multiply the conjugate with the numerator and the denominator of the complex fraction.
+• The algebraic identity (a + b) (a – b) = a² – b² in the denominator and substitute
+i² = –1.
+• Apply the distributive property in the numerator and simplify.
+• Separate the real part and the imaginary part of the resultant complex number.
+Example: Divide and simplify to the form a + ib.
+a. (–7 + 3i) / (2 – 5i) b. (11 + 5i) / (10i) c. (1 – 7i) / (3 + 4i)
+Solution:
+a. (–7 + 3i) / (2 – 5i)
+= (–7 + 3i) / (2 – 5i) × (2 + 5i) / (2 + 5i)
+= (–7)(2) + (–7)(5i) + (3i)(2) + (3i)(5i) / 2² – (5i)²
+= –14 – 35i + 6i + 15i² / 4 – 25i²
+= –14 – 35i + 6i + 15(–1) / 4 – 25(–1)
+= –14 – 35i + 6i – 15 / 4 + 25
+= –29 – 29i / 29
+= –29/29 – 29i/29
+= –1 – i
+b. (11 + 5i) / (10i)
+= (11 + 5i) / (10i) × (–10i) / (–10i) multiplying and dividing by conjugate of denominator (10i = 0 + 10i)
+= (11)(–10i) + (5i)(–10i) / (10i)(–10i)
+= –110i – 50i² / –100i²
+= –110i – 50(–1) / –100(–1)
+= –110i + 50 / 100
+= 50/100 – 110i/100
+= 1/2 – 11/10i
+c. (1 – 7i) / (3 + 4i)
+= (1 – 7i) / (3 + 4i) × (3 – 4i) / (3 – 4i) multiplying and dividing by conjugate of denominator
+= (1)(3) + (1)(–4i) + (–7i)(3) + (–7i)(–4i) / (3)² – (4i)²
+= 3 – 4i – 21i + 28i² / 9 – 16i²
+= 3 – 25i + 28(–1) / 9 – 16(–1)
+= 3 – 25i – 28 / 9 + 16
+= –25 – 25i / 25
+= –1 – i
+Exercise 1.1
+1. Simplify and express in terms of i.
+i. √–3 ii. √–6√4 iii. √–4/9
+iv. √–20 v. 4–√–60 vi. √–8√–2
+2. Simplify:
+i. (4 – i) + (5 + 5i) ii. (7 – 6i) – (5 – 6i) iii. (–2 + 8i) – (7 + 3i)
+iv. (4 – 2i) – (5 – 2i) v. (2 + 4i)(1 + 2i) vi. (1 – 4i)(2 – 3i)
+vii. –8i(2 – 2i) viii. (3 + 2i)² ix. (3 – 6i)(3 + 6i)
+Unit-01: Complex Numbers 12 National Book Foundation
+x. (–5 – 3i)² xi. (1 + √2i)(1 – √3i) xii. (√2 + i)(√2 – i)
+3. Simplify: i. i⁴³ ii. i⁷³ iii. i²⁸
+iv. (–i)²¹ v. (3i)³ vi. (–2i)⁴
+4. Simplify in the form of a + bi.
+i. 9 + i⁶ ii. –17 + i⁸ iii. i⁴ – 13i
+iv. i⁵ + 2i¹¹ v. i⁵ + i⁷ vi. i⁷⁴ – i¹⁰⁰
+5. Divide and simplify in the form of a + bi.
+i. 3/(4 – i) ii. 3/(6 + 5i) iii. (3 – i√5)/(1 + i√5) iv. (2 + 7i)/(3 – i)
+v. (4 + 5i)/(4 – 5i) vi. (3 + 2i)/(2 + i) vii. (5 + i)/(1 + 2i) viii. (a + ib)/(a – ib)
+ix. (1 + i)/(1 – i) x. (1 + i)²/(1 + i)²
+Developing skilled knowledge
+√ What is an imaginary number?
+√ Is an imaginary number real number?
+√ Provide examples of numbers that are pure imaginary numbers.
+√ What is the pattern formed by the powers of i?
+√ Can we say product of (2–3i)/(2–3i) is imaginary?
+√ If conjugate of z is z̄, then is z̄z a real number?
+Properties of Complex Numbers
+Let z = a + bi, w = c + di and v = e + fi be any three complex numbers, then the following
+properties hold.
+• z + w = w + z (commutative law of addition)
+• (z + w) + v = z + (w + v) (associative law of addition)
+• z + 0 = 0 + z = z (existence of additive identity where 0 = 0 + 0i)
+• z + (–z) = (–z) + z = 0 (existence of multiplicative identity where 1 = 1 + 0i)
+• (z × w) × v = z × (w × v) (associative law of multiplication)
+• z(w + v) = zw + zv (distributive law of multiplication over addition)
+• z(w – v) = zw – zv
+Challenge
+Prove the above properties by taking, z = 1 + 2i , w = 3 – i and v = 2 + 2i
+Unit-01: Complex Numbers 13 National Book Foundation
+Additive Inverse of Complex Numbers
+If z = a + bi is a complex number then its additive inverse is –z = –a – bi.
+In the same way, additive inverse of –z = –a – bi is z = a + bi.
+Sum of a complex number and its additive inverse is zero.
+z + (–z) = (a + bi) + (–a – bi) = a + bi – a – bi = 0 + 0i = 0
+Example:
+Find the additive inverse of 3 – 2i.
+Solution:
+Let a + bi be the additive inverse of 3 – 2i.
+Then by additive inverse rule:
+(3 – 2i) + (a + bi) = 0 + 0i
+(3 + a) + (–2i + bi) = 0 + 0i
+(3 + a) + (–2 + b)i = 0 + 0i
+Comparing real and imaginary parts of both sides, we get:
+3 + a = 0; –2 + b = 0 ⇒ a = –3; b = 2
+Thus, additive inverse of 3 – 2i is –3 + 2i.
+Equality of Complex Numbers
+If two complex numbers a + bi
+and c + di are equal then:
+a = c and b = d
+Direct Method:
+We can apply the rule that additive inverse is the opposite sign of 3 – 2i that is –3 + 2i.
+Similarly the additive inverse of –7 + 11i is 7 – 11i.
+Multiplicative Inverse of Complex Numbers
+Key Fact:
+The product of a complex
+number and its multiplicative
+inverse is 1.
+The multiplicative inverse of a + bi is 1/(a + bi)
+Example: Find the multiplicative inverse of 7 – 5i.
+Solution:
+The multiplicative inverse of 7 – 5i is 1/(7 – 5i)
+Now, simplifying the expression:
+= 1/(7 – 5i) × (7 + 5i)/(7 + 5i) multiplying by conjugate
+= (7 + 5i) / (7)² – (5i)²
+= (7 + 5i) / (49 – 25i²) = (7 + 5i) / (49 – 25(–1))
+= (7 + 5i) / (49 + 25) = (7 + 5i) / 74
+= 7/74 + 5i/74
+Verification: (7 – 5i) × (7/74 + 5/74i) = (7 – 5i)(7 + 5i)/74
+= (7)² – (5i)² / 74
+= (49 – 25i²) / 74 = (49 – 25(–1)) / 74
+= (49 + 25) / 74 = 74/74 = 1
+Unit-01: Complex Numbers 14 National Book Foundation
+Properties of Conjugate of Complex Number
+a. z̄z is a real number.
+Consider z = 7 – 6i then z̄ = 7 + 6i
+z̄z = (7 – 6i)(7 + 6i) = (7)² – (6i)² = 49 – 36i²
+= 49 – 36(–1) = 49 + 36 = 85
+b. z₁z₂ = z̄₁ z̄₂
+Consider z₁ = 1 – 2i and z₂ = 4 + 3i, then:
+z₁ = 1 + 2i and z₂ = 4 – 3i
+Now, LHS = z₁z₂ = (1 – 2i)(4 + 3i) = 4 + 3i – 8i – 6i²
+= 4 – 5i – 6(–1) = 4 – 5i + 6 = 10 – 5i
+z̄₁z̄₂ = (1 + 2i)(4 – 3i) = 4 – 3i + 8i – 6i²
+= 4 + 5i – 6(–1) = 4 + 5i + 6 = 10 + 5i
+RHS = (1 + 2i)(4 – 3i) = 4 – 3i + 8i – 6i²
+= 4 + 5i – 6(–1) = 4 + 5i + 6 = 10 + 5i
+Hence, z₁z₂ = z̄₁z̄₂
+c. z₁/z₂ = z̄₁/z̄₂
+Consider z₁ = –1 + 5i and z₂ = 2 + i
+Then, z₁ = –1 – 5i, z₂ = 2 – i
+Taking z₁/z₂ = (–1 + 5i) / (2 + i) × (2 – i) / (2 – i)
+= (–2 + i + 10i – 5i²) / (2² – i²)
+= (–2 + 11i – 5(–1)) / (4 – (–1))
+= (–2 + 11i + 5) / (4 + 1)
+= (3 + 11i) / 5 = 3/5 + 11i/5
+LHS = z₁/z₂ = (–1 + 5i)/(2 + i)
+= (–1 + 5i)/(2 + i) × (2 – i)/(2 – i)
+= (–2 + i + 10i – 5i²)/(2² – i²)
+= (–2 + 11i – 5(–1))/(4 – (–1))
+= (–2 + 11i + 5)/(4 + 1)
+= (3 + 11i)/5 = 3/5 + 11i/5
+RHS = z̄₁/z̄₂ = (–1 – 5i)/(2 – i)
+= (–1 – 5i)/(2 – i) × (2 + i)/(2 + i)
+= (–2 – i – 10i – 5i²)/(2² – i²)
+= (–2 – 11i – 5(–1))/(4 – (–1))
+= (–2 – 11i + 5)/(4 + 1)
+= (3 – 11i)/5 = 3/5 – 11i/5
+Hence, z₁/z₂ ≠ z̄₁/z̄₂
+Graphical Representation of Complex Number
+In complex number z = a + ib, there are two parts of z.
+a is a real part and b is an imaginary part associated with
+i. On the graphical representation of complex number z,
+the real part of z is taken along x-axis and imaginary
+part is taken along y-axis and considered as to real axis
+and imaginary axis respectively. The coordinate plane
+is called the complex plane or z-plane.
+Key Fact:
+The complex number a + ib
+can be written as (a, b), a is
+real part and b is imaginary
+part.
+(a, b)
+a + bi
+Unit-01: Complex Numbers 15 National Book Foundation
+Example: Represent the numbers in the complex plane.
+2 + 3i, 3 – 2i, –3 + i, –2 – 3i
+Solution:
+2 + 3i
+–3 + i
+3 – 2i
+–2 – 3i
+Key Fact:
+The complex plane is also called
+“The Argand Diagram” after the
+French-Swiss mathematician Jean
+Robert Argand (1768-1822) who
+was the first to represent a complex
+number geometrically as point in
+the plane.
+We observe that the complex numbers appear in all the four quadrants due to the negative and
+positive signs of their real and imaginary parts.
+Key Fact:
+If x = 0, then x + yi = yi is an imaginary number located on vertical axis.
+If y = 0, then x + yi = x is a real number located on horizontal axis.
+Absolute Value or Modulus of a Complex Number
+Let z = (a, b) = a + ib be a complex number.
+The absolute value or modulus of z, denoted by
+|z| is defined as:
+|z| = √a² + b²
+which is a real number. From the diagram, it is clear that
+the modulus of a complex number is the distance OP of
+complex number from the origin.
+Key Fact:
+If, z = a + ib, then |z| = √(real part)² + (img part)² = Real Number
+P(a, b)
+a
+Example: Find the absolute value of the complex numbers:
+a. 5i b. 2 c. 4 – 7i d. –3 + 2i
+Solution:
+a. z = 5i = 0 + 5i = |z| = √0² + 5² = √25 = 5
+b. z = 2 = 2 + 0i = |z| = √2² + 0² = √4 = 2
+Unit-01: Complex Numbers 16 National Book Foundation
+c. z = –4 – 7i = |z| = √(–4)² + (–7)² = √16 + 49 = √65
+d. z = –3 + 2i = |z| = √(–3)² + (2)² = √9 + 4 = √13
+Properties of Modulus
+If z is a complex number, then following properties holds:
+a. |z| = |–z| = |z̄| b. z.z̄ = |z|²
+a. Consider a complex number z = 2 – 5i
+|z| = √(2)² + (–5)² = √4 + 25 = √29.....(i)
+–z = –(2 – 5i) = –2 + 5i
+|–z| = √(–2)² + (5)² = √4 + 25 = √29.....(ii)
+z̄ = 2 – 5i = 2 + 5i
+|z̄| = √2² + 5² = √4 + 25 = √29 ..... (iii)
+From (i), (ii) and (iii): |z| = |–z| = |z̄| = √29
+b. Consider z = 2 – 5i
+z = 2 + 5i then,
+z.z̄ = (2 + 5i)(2 – 5i)
+= (2)² – (5i)² = 4 – 25i²
+= 4 – 25(–1) = 4 + 25
+= 29 ..... (i)
+|z|² = (√29)² = 29 ..... (ii)
+From (i) and (ii),
+z.z̄ = |z|²
+Example: Find the real and imaginary parts of the complex numbers:
+a. (2 – 3i)² b. (1 + 2i)² c. (√2 + i√3)² / (1 + i) d. (1 – i)² / (1 + i)²
+Solution:
+a. (2 – 3i)² = (2)² + (3i)² – 12i = 4 + 9i² – 12i = 4 + 9(–1) – 12i
+= 4 – 9 – 12i = –5 – 12i. Real part = –5, Imaginary part = –12
+b. (1 + 2i)² = (1)² + (2i)² + 4i = 1 + 4i² + 4i = 1 + 4(–1) + 4i
+= 1 – 4 + 4i = –3 + 4i. Real part = –3, Imaginary part = 4
+c. (√2 + i√3)² / (1 + i)
+d. (1 – i)² / (1 + i)² = (1 – 2i + i²) / (1 + 2i + i²) = (1 – 2i – 1) / (1 + 2i – 1)
+= –2i / 2i = –1. Real part = –1, Imaginary part = 0
+Unit-01: Complex Numbers 17 National Book Foundation
+d. (1 – i)² / (1 + i)²
+= (1 – i)² / (1 + i)²
+= (1 – 2i + i²) / (1 + 2i + i²)
+= (1 – 2i – 1) / (1 + 2i – 1)
+= –2i / 2i = –1
+Real part = –1, Imaginary part = 0
+Geometrical Representation of Algebraic Operations
+The graphical representation of algebraic operations in the complex number system
+makes it easier to understand the concepts.
+Im. axis
+Q(Z1) R(Z1 + Z2)
+P(Z2)
+Real axis
+(i) Geometrical Representation of Addition
+Geometrically, addition of two complex numbers Z₁ and Z₂
+can be visualized as addition of the vectors by using the
+parallelogram law. The vector sum Z₁ + Z₂ is represented
+by the diagonal of the parallelogram formed by the two
+original vectors.
+If two points P and Q represent complex numbers Z₁ and Z₂
+respectively in the Argand Plane, then the sum Z₁ + Z₂ is
+represented by the point R of the diagonal OR of
+parallelogram OPRQ having OP and OQ as two adjacent
+sides.
+(ii) Geometrical Representation of Subtraction
+The representation of the difference of two complex
+numbers, is slightly complicated than the addition of the
+complex numbers. The easiest way of presenting the
+subtraction is to think of addition of a negative vector.
+Unit-01: Complex Numbers 18 National Book Foundation
+If we want to represent Z₁ – Z₂, then the easiest way of
+representing it would be to think of adding a negative
+vector Z₁ + (–Z₂).
+The negative vector is the same as the positive one, the only
+difference being that the negative vector points in the
+opposite direction.
+The difference vector Z₁ – Z₂ is represented in the
+adjoining figure.
+Key Fact:
+It is important to note here that the vector representing the difference of the vectors Z₁ – Z₂ may
+also be drawn joining the end point of Z₂ to the tip of Z₁, instead of the origin. This kind of
+representation does not alter the meaning or interpretation of the difference operator.
+Check Point:
+Can you think about a geometric interpretation of the addition of three or more complex
+numbers?
+Example:
+Represent sum and difference of Z₁ = 4 + 2i and Z₂ = 2 + 3i graphically.
+Solution:
+Given, Z₁ = 4 + 2i = (4, 2) and Z₂ = 2 + 3i = (2, 3)
+Sum = Z₁ + Z₂ = (4 + 2i) + (2 + 3i) = 6 + 5i = (6, 5)
+Difference = Z₁ – Z₂ = (4 + 2i) – (2 + 3i) = 2 – i = (2, –1)
+Z1 + Z2
+Z2
+Z1
+Z1 – Z2
+Z1
+–Z2
+Unit-01: Complex Numbers 19 National Book Foundation
+(iii) Geometrical Representation of Multiplication and Division
+Consider, Z₁ = 4 + 3i and Z₂ = 2 – 2i.
+Now, Z₁ = (4 + 3i) (2 – 2i)
+= 8 – 8i + 6i – 6i²
+= 8 – 2i + 6 = 14 – 2i
+= (14, –2)
+Product Z₁Z₂ is shown in the
+adjoining diagram.
+Z1
+Z2
+Z1Z2
+Again, consider Z₁ = 4 + 6i
+and Z₂ = 2i then:
+Z₁ + Z₂ = (4 + 6i) ÷ (–2i)
+= –3 + 2i
+The result is shown in the diagram.
+Z1 + Z2
+Z1
+Z2
+Exercise 1.2
+1. Find the additive inverse of each complex number.
+a. –4 + 5i b. –3 – 3i c. 5 – 5i d. 4i
+2. Show that each pair of complex numbers are multiplicative inverse of each other.
+a. 2 + 3i, 2 – 3i / 13 b. 5 – 4i, 5 + 4i / 41 c. 6 + 8i, 3 – 4i / 50
+3. Find the multiplicative inverse of each complex number.
+a. 1 + i b. 7 – 3i c. 10 – 12i
+d. 5 – i / (2i) e. –i f. a – bi
+4. Find the product of each complex number and its conjugate.
+a. 4 b. 1 – i c. 7i d. –4 – 11i
+5. If Z₁ = 1 – 2i and Z₂ = 2 + i:
+a. Show that:
+i. Z₁Z₂ = Z₁Z₂ ii. Z₁/Z₂ = Z₁/Z₂
+Unit-01: Complex Numbers 20 National Book Foundation
+iii. |Z₁Z₂| = |Z₁||Z₂| iv. |Z₁/Z₂| = |Z₁|/|Z₂|
+b. Find:
+i. |Z₁ + Z₂| ii. |Z₁Z₂| iii. |Z₁/Z₂|
+6. Represent the numbers in the complex plane.
+a. –1 – 3i b. 2 + 4i c. –3 + 2i d. 2 – 3i
+e. 2i f. –3i g. 2
+7. Separate into real and imaginary parts of each complex number.
+a. (√2 – √3i)² b. (√2 + i)² c. (2 + 3i)² / (1 – 3i) d. 1 + √3i / (2 + i)³
+e. (1 – i)³ / (1 – i)³ f. i(1 + i)² / (1 – 2i) g. (1 + i)² / (1 – 2i)²
+8. Taking any complex number and show that:
+a. z.z̄ is a real number. b. z² + z̄² is a real number.
+c. (z – z̄)² is a real number. d. |z| and |z̄| are real numbers.
+e. Z² – (Z̄)² is an imaginary number.
+9. Represent sum and difference of complex numbers graphically.
+(i) Z₁ = 5 + 3i and Z₂ = 2 – 3i (ii) Z₁ = –3 + 2i and Z₂ = 4 + 3i
+10. Represent product of complex numbers graphically.
+(i) Z₁ = 4 + 2i and Z₂ = –2 + 3i (ii) Z₁ = –2 + 4i and Z₂ = 3 – i
+11. Represent Z₁ + Z₂ graphically when:
+(i) Z₁ = 6 – 4i and Z₂ = 3 (ii) Z₁ = –4 – 6i and Z₂ = 1 + i
+Applications of Complex Numbers
+Complex numbers are used in many fields in real life. Major Fields where complex numbers are used
+are:
+Electronics
+Civil engineering
+Electromagnetism
+Mechanical engineering
+Computer science engineering
+Control systems
+In modelling and problem solving, we find many equations whose roots are complex numbers.
+Practically, such kind of problems, we must have conceptual understanding of complex numbers.
+The real number system contains the real number system is designed so that negative numbers do have
+square roots.
+Unit-01: Complex Numbers 21 National Book Foundation
+Example: Solve x² + 5 = 0
+Solution: x² + 5 = 0
+x² = –5
+x = ±√–5 = ±√–1 × 5 = ±√–1√5
+= ±i√5i
+The solution +√5i and –√5i are
+both pure imaginary numbers.
+Check Point:
+x² + 5 = 0
+Solution is ±√5i.
+Verify the solution.
+Sometimes we need factorization of the equation, but in real number system in some
+expressions making factors are not possible. By using the complex numbers properties, we
+can make factorization possible.
+Example: Factorize:
+a. Z² + 9 b. 3Z² + 5
+Solution:
+a. Z² + 9
+= (Z)² – 9i²
+= (Z)² – (3i)²
+= (Z – 3i)(Z + 3i)
+The factors of Z² + 9 are (Z – 3i)(Z + 3i)
+b. 3Z² + 5
+= (√3Z)² – i²(√5)²
+= (√3Z)² – (i√5)²
+= (√3Z – i√5)(√3Z + i√5)
+The factors are (√3Z – i√5)(√3Z + i√5)
+Example: Mr. Waqas is an electrical engineer designing the electrical circuits for a new office
+building. There are three basic things to be considered in an electrical circuit: The flow of the
+electric current I, the resistance to that flow Z, called impedance, and electromotive force E,
+called voltage. Their quantities are related in the formula E = IZ. The current of the circuit
+Waqas is designing is to be (35 – 40J) amp. Electrical engineers use the letter J to represent the
+imaginary unit. Find the impedance of the circuit if the voltage is to be (430 – 330J) volts.
+Solution: We know that E = IZ ..... (i)
+We know it is given that I = 35 – 40J, E = 430 – 330J
+Substituting the values in (i) E = IZ
+And Z = E/I
+= (430 – 330J) / (35 – 40J)
+= (430 – 330J) / (35 – 40J) × (35 + 40J) / (35 + 40J)
+= (430)(35) + (430)(40J) – (330J)(35) – (330J)(40J) / 35² – (40J)²
+= 15050 + 17200J – 11550J – 13200J² / (1225 – 1600J²)
+= 15050 + 17200J – 11550J – 13200(–1) / (1225 – 1600(–1))
+= 15050 + 60 J + 13200 / 1225 + 1600
+= 28250 + 5650J / 2825
+= 1 + 2J
+The impedance will be 1 + 2J ohms.
+Unit-01: Complex Numbers 22 National Book Foundation
+Example: If Z₁ = 5.5 + 5i, Z₂ = 7.7 + 7i, then calculate:
+a. Z₁ + Z₂ b. Z₁Z₂ c. Z₁/Z₂
+Solution:
+a. Z₁ + Z₂ = 5.5 + 5i + 7.7 + 7i = 13.2 + 12i
+b. Z₁Z₂ = (5.5 + 5i)(7.7 + 7i) = 42.35 + 38.5i + 38.5i + 35i²
+= 7.35 + 77i
+c. Z₁/Z₂ = (5.5 + 5i) / (7.7 + 7i)
+= (5.5 + 5i) / (7.7 + 7i) × (7.7 – 7i) / (7.7 – 7i)
+= (5.5)(7.7) + (5.5)(–7i) + (5i)(7.7) + (5i)(–7i) / (7.7)² – (7i)²
+= 42.35 – 38.5i + 38.5i – 35i² / 53.9 – 49i²
+= 77.35 / 102.9
+Solution of System of Equations with Complex Coefficients
+In this section, we shall find solution of different equations in complex variables either with
+real or complex coefficients. Consider the following equation:
+pz + qw = r.....(i)
+Where p, q and r are complex numbers (every real number is a complex number). The equation
+(i) is called a linear equation in two complex variables z and w.
+p₁z + q₁w = r₁
+p₂z + q₂w = r₂
+These two equations together form a system of linear equations in two variables z and w. The
+linear equations in two variables are also called simultaneous linear equations.
+Example: Solve:
+z + w = 3i
+2z + 3w = 2
+Solution: Given equations are:
+z + w = 3i .....(i)
+2z + 3w = 2.....(ii)
+Unit-01: Complex Numbers 23 National Book Foundation
+Multiply equation (i) by 2 to equate the coefficient of z with equation (ii) and subtracting
+2z + 2w = 6i
+±2z ± 3w = ±2
+–w = 6i – 2
+w = 2 – 6i (Substitute in (i) to find z)
+z + 2 – 6i = 3i
+z = 9i – 2
+Solution is: z = 9i – 2, w = 2 – 6i
+Exercise 1.3
+Solve:
+1. x² + 7 = 0 2. x² + 9 = 0 3. x² + 100 = 0
+Determine whether the given complex number is a solution of the equation.
+4. 1 + 2i, x² – 2x + 5 = 0 5. 1 – 2i, x² – 2x + 5 = 0
+6. 1 – i, x² + 2x + 2 = 0 7. i, x² + 1 = 0
+Factorize the expressions:
+8. x² + 16 9. a² + b² 10. x² + 25y²
+Solve the following system of linear equations.
+11. z – 4w = 3i 12. 3z + (2 + i)w = 11 – i
+2z + 3w = 11 – 5i (2 – i)z – w = –1 + i
+13. In an electrical circuit, the flow of the electric current I, the impedance Z and the voltage
+E, are related by the formula E = IZ .
+a. Find I, given the values:
+i. E = (70 + 220J) volts, Z = (16 + 8J) ohms
+ii. E = (85 + 110J) volts, Z = (3 – 4J) ohms
+b. Find Z given the value:
+i. E = (–50 + 100J) volts, I = (–6 – 2J) amp
+ii. E = (100 + 10J) volts, I = (–8 + 3J) amp
+c. Evaluate Z² – 2i when z = 1 / (10i)
+Unit-01: Complex Numbers 24 National Book Foundation
+I have Learnt
+• Recognizing complex numbers, and conjugate and modulus of a complex numbers.
+• Applying basic operations on complex numbers.
+• Defining commutative laws, associative laws and distributive laws for complex
+numbers.
+• Recognizing additive and multiplicative identity and finding additive and multiplicative
+inverse of complex numbers.
+• Finding real and imaginary parts of x1 + iy1 for n = ±1, ±2,...
+x2 + iy2
+• Finding solution of equations having complex values.
+• Applying the geometric interpretation of a complex numbers.
+• Solving daily life problems involving complex numbers.
+MISCELLANEOUS EXERCISE-1
+1. Tick the correct option.
+i. √–1 is equal to:
+a. 1 b. –1 c. i d. –i
+ii. If x < 0, then √x is:
+a. Real b. Complex c. Irrational d. Rational
+iii. Conjugate of √x – i√y is:
+a. √x + i√y b. x – y c. x – y d. x + iy
+iv. If z = x + iy, then zz̄ is:
+a. Imaginary b. Complex c. Non-negative number d. Negative number
+v. √–25 + √–8 is equal to:
+a. –5 + √8 b. 2 + 5i c. –5 + 2i d. 2√2 + 5i
+vi. 1 + (–i)² is equal to:
+a. 1 + i b. 1 + √–1 c. 1 – i d. –i
+vii. 1 + i / (1 – i)² is equal to:
+a. 1 + i b. (1 + i)² / 2 c. 1 – i d. 1 + i
+viii. (–xi)¹⁰ is equal to:
+a. –x¹⁰i b. x¹⁰i c. –i¹⁰x d. –x¹⁰i
+Unit-01: Complex Numbers 25 National Book Foundation
+ix. If z = 3 + 4i, then |z| is:
+a. 5 b. √5 c. 25 d. 16
+x. The solution of x² + 4 = 0 is:
+a. 2i b. –2i c. ±2 d. ±2i
+2. Simplify:
+a. (–2 + 4i) – (8 – 5i) b. (–3 + 4i) + (–7 + 4i)
+3. Find the product:
+a. (x + iy)(2 + 3i) b. (–3 + 6i) (–6 + 3i)
+4. Write in the form of a + bi, then find its conjugate:
+a. 3√2 – √–7 b. √–2
+5. Find z.z̄:
+a. z = –1 + i / 2 b. z = 14 – 7i
+6. Simplify:
+a. –3 – i / –3 + i b. 1 + 3i / i√5
+7. Factorize:
+a. 2x² + 18 b. –x² – 25y⁴
+8. Solve:
+a. 3x² + 15 = 0 b. 6y² + 36 = 0
+Unit-01: Complex Numbers 26 National Book Foundation
+02
+Quadratic Equations
+After studying this unit students will be able to:
+• Define quadratic equations.
+• Solve quadratic equations by graphical method, factorization and completing squares.
+• Derive quadratic formula and use it to solve quadratic equations.
+• Solve different types of equations which are reducible to quadratic form.
+• Solve simultaneous equations. When one is homogenous and one is linear.
+• Know nature of roots of a quadratic equation.
+• Find relation between roots and coefficients of a quadratic equation.
+• Define and evaluate symmetric functions of roots of a quadratic equation.
+• Form a quadratic equation when its roots are given.
+Algebra
+standard
+exponential
+inequality
+formula
+expression
+operations
+slope
+linear
+variables
+rationals
+trinomial
+quadratic
+binomial
+Algebra is your trusted tool that helps you carry out of various activities of daily importance.
+There is hardly any line of work that does not employ the concept of algebra. We will look at
+the variables and equation, you surely will not be wondered about why you need to leave there
+in a nutshell. Algebra and equations prepare you for hardly all aspects of life and stays with
+you right from your infanthood to your adulthood.
+Quadratic Equations
+Saleem wants to build a swimming pool surrounded by a sidewalk of uniform width. He wants
+the dimensions of the pool and sidewalk to be 16 meters by 20 meters. The pool has an area of
+192 square meters. How wide should the sidewalk be?
+Let x meters be the width of the sidewalk.
+The length of the pool is 20 – 2x meters.
+The width of the pool is 16 – 2x meters.
+The area of the pool can be expressed as the
+product of the length and width.
+Area = Length × Width
+= (20 – 2x) (16 – 2x)
+= 4x² – 72x + 320
+20m
+x
+x
+16m
+x
+x
+The area of the pool can be expressed as 4x² – 72x + 320 square meters. Since the area of the
+pool is 192 square meters, replacing area with 192 results in the equation 192 = 4x² – 72x + 320.
+Saleem would probably never use a quadratic equation like 192 = 4x² – 72x + 320 to express
+area of a pool. However, in this unit we will study many other formulas in science and business
+that involve this type of equations.
+Quadratic Equation
+It is an equation that can be written in the form of ax² + bx + c = 0, where a ≠ 0. We say that
+equations like this have a degree of 2. Since the greatest exponent of the variable is 2. We
+observe that this quadratic equation only has one variable and all the exponents are positive.
+Standard Quadratic Equation
+ax² + bx + c = 0 is a standard form of the quadratic equation in one variable x. The equation
+x² + 6x + 5 = 0 is in standard form.
+(x + 1)² = 4 and x² + 3x = 18 are examples of quadratic equation in one variable x but they are
+not in standard form.
+Example: Write the following quadratic equations in standard form.
+(i) ax² + bx = c (ii). (3x – 1)² = 4 (iii). (x + 1)² – (2x – 1)² = 2
+Solution:
+i. ax² + bx = c iii. (x + 1)² – (2x – 1)² = 2
+ax² + bx – c = 0 (x² + 2x + 1) – (4x² – 4x + 1) = 2
+(3x – 1)² = 4 x² + 2x + 1 – 4x² + 4x – 1 – 2 = 0
+9x² – 6x + 1 = 4 –3x² + 6x – 2 = 0
+9x² – 6x + 1 – 4 = 0 –1(3x² – 6x + 2) = 0
+9x² – 6x – 3 = 0 3x² – 6x + 2 = 0 as –1 ≠ 0
+3(3x² – 2x – 1) = 0, as 3 ≠ 0
+3x² – 2x – 1 = 0
+Unit-02: Quadratic Equations 28 National Book Foundation
+Solution of Quadratic Equations
+The values of variables for which an equation becomes a true sentence are called solutions or
+roots of the equation. i.e. if P(a) = c, then x = a is root of the equation P(x) = c. The set of roots
+of an equation is called the solution set. A quadratic equation in one variable has two roots.
+These roots of the quadratic equation can be found in many ways. In this section we will study
+four methods.
+i. Graphing method
+ii. Factorization Method
+iii. Completing Square Method
+iv. Using Quadratic Formula
+i. Graphical Method
+One way to determine the roots of a quadratic equation is to graph the related quadratic
+function. Write the equation in general form like:
+192 = 4x² – 72x + 320
+0 = 4x² – 72x + 320 – 192 from each side.
+0 = 4x² – 72x + 128 dividing each side by 4.
+0 = x² – 18x + 32
+The related function for this equation is
+f(x) = y = x² – 18x + 32.
+x y
+2 4
+4 16
+16 20
+20 72
+(2, 0) (16, 0)
+(8, –19)
+Notice that the function crosses the x-axis twice and the function has a degree of 2. These
+intercepts points are called the zero of a function. The x values, 2 and 16 are the roots of the
+equation x² – 18x + 32 = 0.
+Example: Graph the related quadratic function
+y = x² – 2x – 15 by finding and graphing the
+ordered pairs that satisfy the function.
+Solution:
+x y
+–3 –1
+0 –12
+1 –16
+5 0
+The graphs tells that the solutions are
+(–3, 0)
+(5, 0)
+Unit-02: Quadratic Equations 29 National Book Foundation
+–3 and 5, where the curve intersects the x-axis.
+ii. Factoring Method
+Another way of solving a quadratic equation is by factoring. The factoring method depends on the
+zero-product property.
+Zero Product Property:
+For any real number a and b, if ab = 0, then either a = 0 or b = 0.
+i. To solve the quadratic equation by factorization first write it in standard form, then
+factorize the polynomial on the left-hand side of the equation.
+ii. Use zero product property.
+iii. Now solve linear equations and write solution set.
+Fr example, to solve x² = 4 by factorization we do the following steps:
+x² = 4
+x² – 4 = 0 (standard form)
+(x)² – (2)² = 0
+(x – 2)(x + 2) = 0 (factorization)
+x – 2 = 0 or x + 2 = 0 (linear equations)
+x = 2 or x = –2 (roots)
+S.S. = {–2, 2} (solution set)
+Example: Factorize to solve the equations:
+i. x² – 18x + 32 = 0 ii. x² – 2x – 15 = 0
+Solution:
+i. x² – 18x + 32 = 0
+x² – 16x – 2x + 32 = 0
+x(x – 16) – 2(x – 16) = 0
+(x – 2)(x – 16) = 0
+x – 2 = 0 or x – 16 = 0
+x = 2 or x = 16
+S.S = {2, 16}
+ii. x² – 2x – 15 = 0
+x² – 5x + 3x – 15 = 0
+x(x – 5) + 3(x – 5) = 0
+(x – 5)(x + 3) = 0
+x – 5 = 0 or x + 3 = 0
+x = 5 or x = –3
+S.S = {–3, 5}
+iii. Completing Square Method
+In a city, a square field has been maintained for playing. Each side of the field is 110m long.
+The management has decided to equally expand two of the sides of the field for parking spaces
+so that the entire region has an area of 14000 m². What is the width of the parking strip being
+added?
+Unit-02: Quadratic Equations 30 National Book Foundation
+Let x represents the width of each parking strip.
+After expanding each side of the field would be
+110 + x meters long.
+The equation expresses the area of the new field,
+which is still square.
+(x + 110)² = 14000
+√(x + 110)² = √14000
+x + 110 = ±√14000
+x = –110 ± √14000
+x = 8.32m
+110m x(m)
+110m
+x(m)
+Where the negative value is neglected.
+Quadratic equations can be solved in the same way as long as one side of the equation contains a
+perfect square. When the equation does not contain a perfect square, we can use process called
+completing the square to create a perfect square.
+For an expression of the form x² + bx, we can add a constant c in the expression so that the
+expression x² + bx + c is a perfect square trinomial. This process is called completing square.
+Procedure
+Step I: Write the equation in standard form.
+Step II: Shift constant term to the right hand side of the equation.
+Step III: To make the left hand side a complete square, add a suitable term to both sides of
+the equation. If the coefficient of x² is 1, then it is easy to complete the square.
+Just add the square of half the coefficient of x and get a complete square.
+Step IV: Take the square root on both sides and form two linear equations.
+Step V: Solve the linear equations and find roots.
+Example:
+Solve 3x² – 11x – 4 = 0 by completing square.
+Solution:
+Check Point:
+Solve 2x² – 14x = 11
+x² – 14x + 49 = 11
+(x – 7)² = 11
+x – 7 = ±√11
+x = 7 ± √11
+3x² – 11x – 4 = 0
+3x² – 11x = 4 Shift 4 right side
+x² – (11/3)x = 4/3 dividing each side by 3.
+x² – (11/3)x + (11/6)² = 4/3 + (11/6)²
+(x – 11/6)² = 4/3 + 121/36
+(x – 11/6)² = 48/36 + 121/36
+(x – 11/6)² = 169/36 taking square root
+√(x – 11/6)² = ±√169/36
+x – 11/6 = ±13/6
+x = 11/6 ± 13/6
+x = 11/6 + 13/6 or x = 11/6 – 13/6
+x = 24/6 or x = –2/6
+x = 4 or x = –1/3
+S.S. = {4, –1/3}
+Unit-02: Quadratic Equations 31 National Book Foundation
+iv. Quadratic Formula
+We have learnt several ways to solve quadratic equations. Each has its limitations. The question
+we have learnt is that there any formula that will work for any quadratic equation? The answer is
+"yes" and the formula is called the quadratic formula. The formula is derived from solving the
+general form of a quadratic equation for x.
+Derivation of the Quadratic Formula
+Standard form of quadratic equation is: ax² + bx + c = 0
+ax² + bx = –c
+x² + (b/a)x = –c/a (Divide by a both sides)
+x² + (b/a)x + (b/2a)² = –c/a + (b/2a)² (Add (b/2a)² both sides)
+The solution of a quadratic
+equation of the form
+ax² + bx + c = 0 with a ≠ 0 is
+x = –b ± √b² – 4ac / 2a
+Key Fact:
+Unit-02: Quadratic Equations 32 National Book Foundation
+(x + b/2a)² = –c/a + b²/4a² (Simplify the left side)
+x + b/2a = ±√b² – 4ac / 4a² (Taking square root both sides)
+x = –b/2a ± √b² – 4ac / √4a²
+x = –b/2a ± √b² – 4ac / 2a
+x = –b ± √b² – 4ac / 2a
+This equation is known as quadratic formula.
+Example: Solve 2x² + 7x = 4 using quadratic formula.
+Solution: 2x² + 7x = 4
+2x² + 7x – 4 = 0 General form
+a = 2, b = 7, c = –4
+We know that: x = –b ± √b² – 4ac / 2a
+x = –7 ± √(7)² – 4(2)(–4) / 2(2)
+x = –7 ± √49 + 32 / 4
+x = –7 ± √81 / 4
+x = –7 ± 9 / 4
+x = (–7 + 9) / 4 , x = (–7 – 9) / 4
+x = 2/4 , x = –16/4
+x = 1/2 , x = –4
+S.S. = {–4, 1/2}
+Procedure
+To solve a quadratic equation by using the
+quadratic formula, we proceed as follows:
+Step I: Write the equation in standard form.
+Step II: Compare it with ax² + bx + c = 0, to
+get the values of a, b and c.
+Step III: Write the quadratic formula for x.
+Step IV: Put values of a, b and c, then
+simplify.
+Step V: Write solution set.
+Exercise 2.1
+1. Write the following quadratic equation in standard form:
+i. (x + 2)(x – 3) = 5 ii. (x – 5)² – (2x + 4)² = 7 iii. x = x(x – 1)
+2. Solve the following equations by factoring method.
+i. (x – 1)(x – 4) = 0 ii. x² – 2x + 1 = 0
+Unit-02: Quadratic Equations 33 National Book Foundation
+iii. x² – 7x – 8 = 0 iv. x² – 4x + 4 = (2x – 7)²
+v. (2x + 7)² / 4 = 48x² + 529 / 16
+3. Solve the following equations by completing the square method:
+i. x² + 4x – 32 = 0 ii. x² + 8x = 0 iii. x² + 6x – 9 = 0
+iv. 3x² + 12x + 8 = 0 v. x² + x + 1 = 0 vi. 4x² – 8x – 5 = 0
+4. Solve the following equations by quadratic formula:
+i. x² – 9 = 0 ii. 2x² + 5x + 1 = 0
+iii. x² – 23x – 24 = 0 iv. (x + 1)² = (2x – 1)²
+v. x + 1 / 2 = x(x + 2) / 3 vi. (x – 2)(x – 6) = (2x + 1)(x + 1)
+5. Solve x² + 6x = –9 by graphing and factoring method.
+6. Graph the function y = x² + 2x + 4 and verify solution by completing square method.
+7. Explain each term:
+i. Solution ii. root iii. x-intercept
+iv. Zero of a function
+8. Can a quadratic equation have more than two solutions? Why or why not?
+9. Plans for rectangular ice-skating rink that is 30m by 60m have to be revised to double
+the area of the playground by adding strips of the same width to a side and an end of
+the area to form a rectangle. Find the width of the strips. What are the dimensions of
+the playground now?
+10. If a car has an initial speed of 20m/s and a constant acceleration of 2m/s², determine
+the amount of time it takes to travel 145m. (Use: S = v₁t + at² / 2
+Equation Reducible to Quadratic Form
+Some equations are not quadratic, but to solve them we can reduce them to quadratic form.
+The example below illustrates solving an equation that is not a quadratic equation itself, but contains
+a factor that is a quadratic. The method we use to solve the quadratic part of that equation.
+Example: A cuboid box has a base that is x cm long. The width of the base is 2 cm less than its
+length. The height is 3 cm greater than the length of the base. The measure of the volume is 6 times
+the measure of the length of the base. Find the dimensions of the box.
+Solution:
+The volume of the rectangular box is the product of
+the length, width and height of box.
+Unit-02: Quadratic Equations 34 National Book Foundation
+Here, Length = x, Width = x – 2, Height = x + 3
+.: The volume is:
+V = Length × Width × Height = l w h
+V = 6 × the measure of the length of the base ..... (i)
+As, V = x(x – 2)(x + 3) ..... (ii)
+6x = x(x – 2)(x + 3) (from (i) and (ii))
+6x = x(x² + x – 6)
+x(x² + x – 6) = 6x
+x³ + x² – 6x = 6x
+x³ + x² – 12x = 0
+x(x² + x – 12) = 0
+We use the zero-product property
+x = 0, x² + x – 12 = 0
+x = 0, x² + 4x – 3x – 12 = 0
+x = 0, x(x + 4) – 3(x + 4) = 0
+x = 0, (x – 3)(x + 4) = 0
+Since we are dealing with the dimensions of a box,
+we ignore 0 and –4, the solution is:
+length x = 3
+width = x – 2 = 3 – 2 = 1
+height = x + 3 = 3 + 3 = 6
+Hence, the dimensions of the box are 3cm × 1cm × 6cm.
+x+3
+x
+x–2
+We have many types of equations that are not quadratic, but we can write in a form that
+resembles a quadratic equation. For example, the equation 9x⁴ – 8x² – 1 = 0 can be written as:
+9(x²)² – 8x² – 1 = 0. Equations that can be written in this way are said to be equations reducible
+to quadratic form.
+Some of equations that can be reduced to quadratic equations, are given below.
+Equations of the Form ax⁴ + bx² + c = 0
+It is an equation of degree 4. It can be reduced to quadratic form by using the substitution
+x² = y. In this way the equation becomes ay² + by + c = 0. Solve it by any of the three
+methods discussed earlier. Replace y with its substitute x². Find values of x by taking the square
+root and write the solution set.
+Example: Solve 9x⁴ – 8x² – 1 = 0.
+Solution:
+9x⁴ – 8x² – 1 = 0
+Put x² = y which gives x⁴ = y²
+.: 9y² – 8y – 1 = 0
+9y² – 9y + y – 1 = 0
+9y(y – 1) + 1(y – 1) = 0
+(9y + 1)(y – 1) = 0
+9y + 1 = 0 or y + 1 = 0
+y = –1/9 or y = 1
+Back substitution gives:
+Challenge
+The rectangle has an area of 42 square
+centimeters. What is the value of length
+of sides?
+x+2
+x+3
+Unit-02: Quadratic Equations 35 National Book Foundation
+x² – 1 = 0 or 9x² + 1 = 0
+x = ±√1 or x = ±√–1/9
+x = ±1 or x = ±i/3
+Equations of the Form aP(x)² + bP(x) + c = 0
+To solve this type of equation, use a substitution P(x) = y. Multiply the equation by y and form
+a quadratic equation involving the variable y. Solve the new equation for y and replace y by
+P(x). In this way, you will get two simple equations involving variable x. Solve these equations
+and write the solution set.
+Example: Solve: 3x² + 7 = 4
+Solution:
+4
+3x² + 7 = 4
+3x² + 7x = 4
+3x² – 7x + 4 = 0
+3x² – 3x – 4x + 4 = 0
+3x(x – 1) – 4(x – 1) = 0 ⇒ x = 1 or 3x – 4 = 0
+x = 1 or x = 4/3
+.: S.S. = {1, 4/3}
+Challenge
+(i) Solve for real roots, y³ – 27 = 0
+(ii) Solve: (x² + 3x + 7) / (x² + 3x + 2) = 6
+Example: Solve 2(x² + 1) – 5 / (x² + 1) + 2 = 0
+Solution:
+2(x² + 1)² – 5 + 2(x² + 1) / (x² + 1) = 0
+2(x² + 1)² + 2(x² + 1) – 5 = 0
+Put x² + 1 = y
+So, 2y² + 2y – 5 = 0
+So, 2y² + 2y – 5 = 0
+2y² – 3y – 2 = 0 ⇒ 2y² – 4y + y – 2 = 0
+2y(y – 2) + 1(y – 2) = 0 ⇒ (y – 2)(2y + 1) = 0
+y = 2 or 2y + 1 = 0 ⇒ y = 2 or y = –1/2
+Back substitution: When y = 2
+x² + 1 = 2
+x² – 1 = 0
+x = ±1
+When y = –1/2
+x² + 1 = –1/2
+x² = –3/2
+x = ±√–3/2
+Solution = ±1, ±i√3/2
+Unit-02: Quadratic Equations 36 National Book Foundation
+Reciprocal Equations
+If an equation is not affected by the replacement of a variable by its reciprocal, then it is
+called a reciprocal equation. The reciprocal of a root of such an equation is also its root.
+Consider the equation ax⁴ + bx³ + cx² + bx + a = 0.
+→ (i)
+If x is replaced by 1/x
+a(1/x)⁴ + b(1/x)³ + c(1/x)² + b(1/x) + a = 0
+a/x⁴ + b/x³ + c/x² + b/x + a = 0
+(a + bx + cx² + bx³ + ax⁴) / x⁴ = 0 (equation is multiplied by x⁴)
+ax⁴ + bx³ + cx² + bx + a = 0 → (ii)
+Equations (i) and (ii) are same.
+To solve the reciprocal equation (i), arrange it in the form
+a(x² + 1/x²) + b(x + 1/x) + c = 0
+Put y = x + 1/x and find the value of x² + 1/x² = y² – 2.
+In this way equation (i) is reduced to quadratic form. Solve this equation for y and then replace
+y with its substitute x + 1/x. Finally find values of x and write solution set.
+Example: Solve the equation:
+6x⁴ – 35x³ + 62x² – 35x + 6 = 0.
+Solution:
+6x⁴ – 35x³ + 62x² – 35x + 6 = 0.
+6x² – 35x + 62 – 35/x + 6/x² = 0 (dividing by x²)
+6(x² + 1/x²) – 35(x + 1/x) + 62 = 0 → (i)
+Let x + 1/x = y
+(x + 1/x)² = y²
+x² + 1/x² + 2 = y²
+x² + 1/x² = y² – 2
+Put in equation (i)
+6(y² – 2) – 35y + 62 = 0
+6y² – 12 – 35y + 62 = 0
+Critical Thinking
+Example: Solve y – 7√y – 8 = 0, y ∈ R
+Solution: y – 7√y – 8 = 0
+Let √y = z
+Then y = z²
+Equation will become:
+z² – 7z – 8 = 0
+z = –(–7) ± √(–7)² – 4(1)(–8) / 2(1)
+z = 7 ± √49 + 32 / 2
+z = 7 ± √81 / 2
+z = 7 ± 9 / 2
+z = 8, z = –1
+Back substitution gives:
+√y = 8, √y = –1
+y = 64, (No real roots for √y = –1)
+So, the solution is = 64
+Unit-02: Quadratic Equations 37 National Book Foundation
+6y² – 35y + 50 = 0
+6y² – 15y – 20y + 50 = 0
+3y(2y – 5) – 10(2y – 5) = 0
+(3y – 10)(2y – 5) = 0
+2y – 5 = 0 or 3y – 10 = 0
+2y = 5 or 3y = 10
+y = 5/2 or y = 10/3 (Substituting the value of y)
+2x + 1/x = 5/2 or 3x + 1/x = 10/3
+2x² + 1 = 5x or 3x² + 1 = 10x
+2x² – 5x + 1 = 0 or 3x² – 10x + 3 = 0
+2x² – 4x – x + 1 = 0 or 3x² – 9x – x + 3 = 0
+2x(x – 2) – 1(x – 2) = 0 or 3x(x – 3) – 1(x – 3) = 0
+(2x – 1)(x – 2) = 0 or (3x – 1)(x – 3) = 0
+x = 1/2 or x = 2 or x = 1/3 or x = 3
+S.S. = {1/2, 2, 1/3, 3}
+Exponential Equations
+An equation involving expressions of the form k^x is called an exponential equation where k is
+a constant. In exponential equations the exponents are variables. We will discuss only those
+exponential equations which can be reduced to quadratic form.
+Exponential equations reducible to quadratic form are of the type:
+ak²x + bk^x + c = 0, a ≠ 0.
+We use the substitution k^x = y to reduce the above equation to quadratic form. Then we find
+y and replace it with k^x. In this way, roots of the exponential equations are found.
+Example: Solve the following exponential equations
+i. 2²x – 2²x+1 = 0 ii. 9x – 3x+1 – 4 = 0
+Solution:
+i. 2²x – 2²x+1 = 0 → (i)
+Put 2^x = y, so 2²x = y²
+.: Equation (i) becomes:
+y² – 2y + 1 = 0
+(y – 1)² = 0
+y – 1 = 0
+y = 1
+Replace y by its substitute 2^x
+ii. 9x – 3x+1 – 4 = 0 → (i)
+Put 3^x = y, so 3²x = y²
+.: Equation (i) becomes:
+y² – 3y – 4 = 0
+y² – 4y + y – 4 = 0
+y(y – 4) + 1(y – 4) = 0
+(y – 4)(y + 1) = 0
+y = 4 or y = –1
+3^x = 4 or 3^x = –1
+Unit-02: Quadratic Equations 38 National Book Foundation
+Equations of the Form (x + a)(x + b)(x + c)(x + d) = k; a + b = c + d
+In this type, we multiply the pairs of factors after rearranging them in such a way that the
+variable terms of both products are the same or one of them is multiple of the other. Choose a
+substitute for the common terms and form a quadratic equation. Solve the new equation and
+then replace the substitute. Find the values of original variable involved in the given equation
+and write the solution set.
+Example:
+Solve the following equations by using suitable substitution.
+(x + 1)(x + 2)(x + 3)(x + 4) = 24
+Solution:
+(x + 1)(x + 2)(x + 3)(x + 4) = 24
+(x + 1)(x + 4)(x + 2)(x + 3) = 24
+(x² + 5x + 4)(x² + 5x + 6) = 24
+Put x² + 5x = y
+(y + 4)(y + 6) = 24
+y² + 10y + 24 = 24
+y² + 10y = 0
+y(y + 10) = 0
+y = 0 or y + 10 = 0
+For y = 0
+x² + 5x = 0
+x(x + 5) = 0
+x = 0 or x + 5 = 0
+x = 0 or x = –5
+For y + 10 = 0
+x² + 5x + 10 = 0
+Here, a = 1, b = 5 and c = 10
+x = –b ± √b² – 4ac / 2a
+x = –5 ± √5² – 4(1)(10) / 2(1)
+x = –5 ± √25 – 40 / 2
+x = –5 ± √–15 / 2
+x = –5 ± i√15 / 2
+S.S.: {0, –5, –5 ± i√15 / 2}
+Unit-02: Quadratic Equations 39 National Book Foundation
+Exercise 2.2
+1. Reduce the following equations to quadratic form using suitable substitution.
+i. ax⁴ + bx² + c = 0 ii. 9x⁶ – 3x³ + 7 = 0
+iii. 3x + 4 / 6x – 2 = –1 iv. (x + 1)² + (x – 1)² = 4
+v. 3(x² + 1/x²) + 8(x + 1/x) + 11 = 0 vi. 3x⁴ + 7x³ + 5x² – 7x + 3 = 0
+vii. ak²x + bk^x + c = 0 viii. 8 × 4^x – 7 × 2^x – 1 = 0
+ix. (x – 1)(x – 2)(x – 3)(x – 6) = 6 x. (2x – 1)(2x – 7)(x – 3)(x – 1) = 8
+2. Solve the following equations by reducing them to quadratic form.
+i. x⁴ – 20x² + 64 = 0 ii. x⁴ + 16x² – 225 = 0
+iii. x³ + 5x² + 6 = 0 iv. 3x⁴ + 4 / x² = 7
+v. 5(x + 1) / (x – 1) + 3 = 8 / (x + 1)
+vii. 2x⁴ – x³ – 6x² – x + 2 = 0 viii. 12x⁴ + 11x³ – 146x² + 11x + 12 = 0
+ix. x⁴ + 1/x⁴ – (1/x² – 11) = 0 x. 2²x – 34 × 2^x + 6 = 0
+xi. 3²x – 12 × 3^x + 27 = 0 xii. 5²x – 150 × 5^x + 3125 = 0
+xiii. (x + 2)(x – 3)(x + 10)(x + 5) = –396 xiv. x(x – 1)(x + 2)(x + 3) = 40
+xv. (x – 2)(x – 6)(x + 4)(x + 8) + 256 = 0
+3. Solve the following equations by factoring without using substitution.
+i. 2x⁴ – 3x² + 1 = 0 ii. 8x⁴ – 7x² – 1 = 0 (Find only real roots)
+iii. x² + 1 / x² = 2 iv. 4 × 2²x – 4 × 2^x + 1 = 0
+Unit-02: Quadratic Equations 40 National Book Foundation
+4. Write two examples of equations that are not quadratic, but can be written in quadratic
+form.
+5. How would you solve the equation (y – 4)² – 7(y – 4) = –6? Write explanation and
+then solve the equation.
+6. Solve y³ = 125.
+Nature of Roots of a Quadratic Equation
+We have already derived the quadratic formula by solving the general form of quadratic
+equation for x. We know that the solutions of a quadratic equation of the form ax² + bx + c = 0
+with a ≠ 0, are given by this formula:
+x = –b ± √b² – 4ac / 2a
+To define discriminant, first we solve the following examples by using the quadratic formula:
+Example A: Solve. x² – 3x – 28 = 0
+Solution: We have a = 1, b = –3 and c = –28
+x = –(–3) ± √(–3)² – 4(1)(–28) / 2(1)
+x = 3 ± √9 + 112 / 2
+x = 3 ± √121 / 2
+x = 3 ± 11 / 2
+x = 3 + 11 / 2 = 7, –4
+The roots of equation are rational and unequal.
+10
+–10
+10
+Example B: Solve x² – 8x + 16 = 0
+Solution: We have a = 1, b = –8 and c = 16
+x = –(–8) ± √(–8)² – 4(1)(16) / 2(1)
+x = 8 ± √64 – 64 / 2(1)
+x = 8 ± 0 / 2
+x = 8/2 = 4
+x = 4, x = 4
+The roots of equation are rational and equal.
+10
+–10
+10
+Unit-02: Quadratic Equations 41 National Book Foundation
+Example C: Solve 3y² – 5y + 9 = 0
+Solution: We have a = 3, b = –5 and c = 9
+y = –(–5) ± √(–5)² – 4(3)(9) / 2(3)
+y = 5 ± √25 – 108 / 6
+y = 5 ± √–83 / 6
+y = 5 ± i√83 / 6
+Since radical contains a negative value,
+therefore, the roots of equation are imaginary.
+10
+–10
+10
+Example D: Solve 3t² – 6t + 2 = 0
+Solution: We have a = 3, b = –6 and c = 2
+t = –(–6) ± √(–6)² – 4(3)(2) / 2(3)
+t = 6 ± √36 – 24 / 6
+t = 6 ± √12 / 6
+The roots are irrational and unequal.
+10
+–10
+10
+These four examples demonstrate a pattern that is useful in determining the nature of the roots
+of a quadratic equation. In the quadratic formula, the expression under the sign 'b² – 4ac', is
+called the discriminant. The discriminant tells the nature of roots of a quadratic equation.
+Equation
+Value of the
+discriminant
+Roots
+Nature of Roots
+x² – 3x – 28 = 0
+(Exp. A)
+b² – 4ac = 121
+7, –4
+Roots are rational and
+unequal.
+x² – 8x + 16 = 0
+(Exp. B)
+b² – 4ac = 0
+4, 4
+Roots are rational and equal.
+3y² – 5y + 9 = 0
+(Exp. C)
+b² – 4ac = –83
+5 ± i√83 / 6
+Roots are imaginary/complex.
+3t² – 6t + 2 = 0
+(Exp. D)
+b² – 4ac = 24
+3 ± √3 / 3
+Roots are irrational and
+unequal.
+Unit-02: Quadratic Equations 42 National Book Foundation
+The above chart shows that if the value of the discriminant is a perfect square or 0, the roots are
+real and rational. Other positive discriminant will yield irrational roots. A negative discriminant
+means roots will be imaginary/complex.
+Example: Find the value of discriminant and describe the nature of roots.
+a. 2x² + x – 3 = 0 b. x² + x + 8 = 0
+Solution:
+a. 2x² + x – 3 = 0 b. x² + x + 8 = 0
+a = 2, b = 1, c = –3 a = 1, b = 0, c = 8
+Disc = b² – 4ac Disc = b² – 4ac
+= (1)² – 4(2)(–3) = 25 = (0)² – 4(1)(8) = –32
+The value of discriminant is positive and a The value of discriminant is negative.
+perfect square. So, the given equation has So, the given equation has two imaginary
+two real roots and they are rational and roots.
+unequal.
+Check Point:
+Verify the nature of roots of 9x² – 12x + 4 = 0, by solving it.
+Example: Find the value of m, when x² – 3x + m = 0 has equal roots.
+Solution: x² – 3x + m = 0
+Here a = 1, b = –3, c = m
+It is given that equation has equal roots (same root) so the discriminant is zero.
+i.e. Disc = b² – 4ac = 0
+(–3)² – 4(1)(m) = 0
+9 – 4m = 0 or 4m = 9 or m = 9/4
+Exercise 2.3
+1. Find the discriminant of the following quadratic equations.
+(i) x² + 6x – 27 = 0 (ii) x² – x – 12 = 0
+(iii) 8x² + 2x + 1 = 0 (iv) 12x² – 11x – 15 = 0
+2. Discuss the nature of roots of the following quadratic equations.
+(i) x² – 2x – 15 = 0 (ii) x² + 3x – 4 = 0 (iii) 12x² + x – 20 = 0
+(iv) x² + 2x + 8 = 0 (v) x² + 3x – 9 = 0
+3. For what value of k, 9x² – kx + 16 = 0 is a perfect square?
+4. If roots of x² + kx + 9 = 0 are equal, find k?
+5. Show that the roots of 2x² + (mx – 1)² = 3, are equal if 3m² + 4 = 0.
+Unit-02: Quadratic Equations 43 National Book Foundation
+Roots and Coefficients of the Quadratic Equation
+Let S₁, S₂ be the roots of ax² + bx + c = 0, then using the quadratic formula:
+S₁ = –b + √b² – 4ac / 2a , S₂ = –b – √b² – 4ac / 2a
+Sum of roots = S₁ + S₂ = –b + √b² – 4ac / 2a + –b – √b² – 4ac / 2a
+= –b + √b² – 4ac – b – √b² – 4ac / 2a
+= –2b / 2a
+= –b / a
+and product of roots = S₁S₂ = (–b + √b² – 4ac / 2a)(–b – √b² – 4ac / 2a)
+= (–b)² – (√b² – 4ac)² / 4a²
+= b² – (b² – 4ac) / 4a²
+= 4ac / 4a²
+= c / a
+.: Sum of the roots S₁ + S₂ = –b / a = coefficient of x / coefficient of x²
+and product of roots S₁S₂ = c / a = contant term / coefficient of x²
+Example: Write down the sum and product of the roots of quadratic equation:
+(i) x² – x + 2 = 0 (ii) x² – 7x + 5 = 0
+(iii) 3x² – 11x – 4 = 0 (iv) 6s² + 2s + 3 = 0
+Unit-02: Quadratic Equations 44 National Book Foundation
+Solution:
+(i) x² – x + 2 = 0
+Here a = 1, b = –1, c = 2
+Sum of the roots = S₁ + S₂
+= –b / a = –(–1) / 1 = 1
+Product of roots = S₁S₂
+= c / a = 2/1 = 2
+(ii) 3x² – 11x – 4 = 0
+a = 3, b = –11, c = –4
+Sum of roots = S₁ + S₂
+= –b / a = –(–11) / 3 = 11/3
+Product of roots = S₁S₂
+= c / a = –4/3
+(iii) x² – 7x + 5 = 0
+a = 1, b = –7, c = 5
+S₁ + S₂ = –b / a = –(–7) / 1 = 7
+S₁S₂ = c / a = 5/1 = 5
+(iv) 6s² + 2s + 3 = 0
+a = 6, b = 2, c = 3
+S₁ + S₂ = –b / a = –2/6 = –1/3
+S₁S₂ = c / a = 3/6 = 1/2
+Example: If S₁, S₂ are the roots of x² – 8x + 20 = 0. Find the values of
+(i) S₁² + S₂² (ii) (S₁ – S₂)² (iii) S₁ + 1 / S₂ + 1
+Solution: Here a = 1, b = –8, c = 20
+Since S₁, S₂ are the roots of x² – 8x + 20 = 0,
+.: S₁ + S₂ = –b / a = –(–8) / 1 = 8 and S₁S₂ = c / a = 20 / 1 = 20
+(i) Now S₁² + S₂² = S₁² + S₂² + 2S₁S₂ – 2S₁S₂
+= (S₁ + S₂)² – 2S₁S₂
+= (8)² – 2(20)
+= 64 – 40 = 24
+(ii) (S₁ – S₂)² = S₁² + S₂² – 2S₁S₂
+= (S₁ + S₂)² – 2S₁S₂ – 2S₁S₂
+= (S₁ + S₂)² – 4S₁S₂
+= (8)² – 4(20)
+= 64 – 80 = –16
+(iii) (S₁ + 1) / (S₂ + 1)
+= S₁S₂ + S₁ + S₂ + 1 / S₂ + S₁ + 1
+= S₁S₂ + S₁ + S₂ + 1 / (S₂ + 1)(S₁ + 1)
+= S₁S₂ + S₁ + S₂ + 1 / S₁S₂ + S₁ + S₂ + 1
+= 20 + 8 + 1 / 20 + 8 + 1
+= 29 / 29 = 1
+Note:
+Instead of S₁, S₂, we can use
+α and β.
+Unit-02: Quadratic Equations 45 National Book Foundation
+Formation of an Equation whose Roots are Given
+We have solved several quadratic equations and found the roots. Here, we may know the roots of the
+quadratic equation but we do not know the equation itself. Consider the roots of a quadratic
+quadratic equation are 4 and –1/3
+let x = 4 and x = –1/3 are roots and x – 4 = 0 and x + 1/3 = 0 are factors of required equation.
+(x – 4)(3x + 1) = 0 or 3x² + x – 12x – 4 = 0
+3x² – 11x – 4 = 0
+Which is the required equation.
+If S₁, S₂ are the roots of required quadratic equation, then
+Let x = S₁ and x = S₂
+⇒ x – S₁ = 0, x – S₂ = 0
+⇒ (x – S₁)(x – S₂) = 0
+⇒ x² – S₂x – S₁x + S₁S₂ = 0
+⇒ x² – (S₁ + S₂)x + S₁S₂ = 0
+S₁ + S₂ = Sum of roots = S and S₁S₂ = Product of roots = P
+Then, x² – Sx + P = 0.......(i)
+Above formula (i) is used to form a quadratic equation when its roots are given.
+Let us solve some examples to understand the concept.
+Example: Form a quadratic equation whose roots are 4 and –1.
+Solution: The roots are 4 and –1.
+Let S = 4 + (–1) = 3 and P = 4(–1) = –4
+We know that x² – Sx + P = 0
+x² – 3x + (–4) = 0
+x² – 3x – 4 = 0
+Example: Form a quadratic equation with roots:
+(i) 5 and 6 (ii) –5 and 16/5 (iii) 3 + 2i and 3 – 2i
+Solution:
+(i) Since 5 and 6 are roots then
+S = 5 + 6 = 11 P = 5 × 6 = 30
+We know x² – Sx + P = 0
+x² – 11x + 30 = 0
+(ii) Since –5 and 16/5 are roots then
+S = –5 + 16/5 = (–25 + 16)/5 = –9/5
+P = –5 × 16/5 = –16
+We know x² – Sx + P = 0
+x² – (–9/5)x + (–16) = 0
+x² + 9/5x – 16 = 0
+5x² + 9x – 80 = 0
+(iii) Since 3 + 2i and 3 – 2i are roots then
+S = (3 + 2i) + (3 – 2i) = 6
+P = (3 + 2i)(3 – 2i) = 3² – (2i)² = 9 – 4i² = 9 – 4(–1) = 9 + 4 = 13
+We know x² – Sx + P = 0
+x² – 6x + 13 = 0
+Unit-02: Quadratic Equations 46 National Book Foundation
+S = sum of roots = 5 + 6 = 11
+P = product of the roots = 5(6) = 30
+The required equation is
+x² – Sx + P = 0.......(i)
+Substituting these values of S and P in (i), we have
+x² – 11x + 30 = 0
+(ii) 5 and 16/5
+S = –5 + 16/5 = (–25 + 16)/5 = –9/5
+P = –5 × 16/5 = –16
+Product = P = –5 × 16/5 = –4
+The equation is: x² – x + 4 = 0 / 3
+or 3x² – 13x + 12 = 0
+S = Sum = 3 + 2i + 3 – 2i = 6
+P = Product = (3 + 2i)(3 – 2i)
+= 9 – 4i² = 13
+The equation is:
+x² – 6x + 13 = 0
+Example: If S₁, S₂ are the roots of ax² + bx + c = 0. Form the equation whose roots are
+twice to the roots of the given equation.
+Solution: If S₁, S₂ are the roots of ax² + bx + c = 0 then
+S₁ + S₂ = –b / a , S₁S₂ = c / a
+The new roots are 2S₁ and 2S₂
+Sum of new roots = S = 2S₁ + 2S₂
+= 2(S₁ + S₂) = 2(–b / a) = –2b / a
+Product of new roots = P = (2S₁)(2S₂) = 4S₁S₂
+= 4(c / a) = 4c / a
+Now substituting the values of S and P in x² – Sx + P = 0, we get
+x² – (–2b / a)x + (4c / a) = 0
+x² + (2b / a)x + (4c / a) = 0
+or ax² + 2bx + 4c = 0
+Unit-02: Quadratic Equations 47 National Book Foundation
+Exercise 2.4
+1. Find the sum and product of the roots of the quadratic equation.
+(i) x² – 5x + 2 = 0 (ii) x² – 6x – 2 = 0 (iii) 5x² – 2x + 2 = 0
+(iv) –4x² – 8x – 9 = 0 (v) 16x² – 17y – 12 = 0 (vi) 0.3x² – 7.7x + 1.8 = 0
+2. Form a quadratic equation with roots:
+(i) 1, –8 / 3 (ii) √3, 2√3 (iii) 5i, –5i
+(iv) 2 + √3, 2 – √3 (v) 7 + 2i, 7 – 2i (vi) 5l, –5i
+3. If S₁, S₂ are the roots of 3x² – 2x + 4 = 0, find the value of:
+(i) 1 / S₁ + 1 / S₂ (ii) S₁² + S₂² (iii) 2S₁ + 2S₂ + 4 (iv) S₁ / S₂ + S₂ / S₁
+(v) S₁ / S₂ + S₂ / S₁ (vi) S₁²S₂ + S₁S₂² (vii) S₁S₂² + S₁²S₂ (viii) (S₁ – 3)(S₂ – 3)
+4. If S₁, S₂ are the roots of 7x² + 10x + 7 = 0, form the equations whose roots are:
+(i) S₁², S₂² (ii) 1 / S₁, 1 / S₂ (iii) S₁², S₂² (iv) S₁ – 1 / S₂, S₂ – 1 / S₁
+(v) 2S₁ + 1, 2S₂ + 1 (vi) S₁ / 2 , S₂ / 2 (vii) S₁ + S₂ / S₁, S₁ + S₂ / S₂ (viii) S₁² + 1, S₂² + 1
+(ix) S₁² + S₂², S₁ + S₂
+5. If S₁, S₂ are the roots of x² + 6x + 3 = 0, form the equation whose roots are
+(S₁ + S₂)³, (S₁ – S₂)³
+6. If S₁, S₂ are the roots of 2x² + 6x – 3 = 0, form the equation whose roots are
+S₁ / S₂, S₂ / S₁
+7. Find k if S₁ and S₂ – 5 are the roots of x² – 3kx + 5 = 0.
+8. Find k such that 3 is a root of x² + kx – 2 = 0.
+Simultaneous Equations
+A system of equations having a common solution is called a system of simultaneous equations.
+The set of all the ordered pairs (x, y) which satisfies the system of equations is called the solution
+of the system. System of two equation involving two variables.
+System of Two Equations Involving Two Variables
+Case 1: When one Equation is Linear and One Quadratic
+Unit-02: Quadratic Equations 48 National Book Foundation
+If one of the equations is linear, we can find the value of one variable in terms of the other
+variable from linear equation. Substituting this value of one variable in the quadratic equation,
+we can solve it. The procedure is illustrated through the following example.
+Example: Solve the system of equations x + y = 7 and x² – xy + y² = 13
+Solution: Given equations are
+x + y = 7.....(i) x² – xy + y² = 13.......(ii)
+From equation (i)
+x = 7 – y
+Substituting in equation (ii)
+(7 – y)² – (7 – y)y + y² = 13
+49 – 14y + y² – 7y + y² + y² = 13
+3y² – 21y + 36 = 0
+y² – 7y + 12 = 0
+y² – 4y – 3y + 12 = 0
+y(y – 4) – 3(y – 4) = 0
+(y – 4)(y – 3) = 0
+y – 4 = 0 or y – 3 = 0
+y = 4, y = 3
+Putting y = 3, in (i), we get x = 7 – 3 = 4
+Putting y = 4, in (i), we get x = 7 – 4 = 3
+Hence solution set is {(4, 3), (3, 4)}
+Case II: When both of the Equations are Quadratic
+The equations in this case are classified as:
+(i) Both the equations contain only x² and y² terms.
+(ii) One of the equations, is homogeneous in x and y.
+(iii) Both the equations are non-homogeneous.
+Example: Solve the system of equations x² + y² = 25 and 2x² + 3y² = 66
+Solution: Given equations are
+x² + y² = 25 (i) 2x² + 3y² = 66 (ii)
+Multiplying equation (i) by 2 and subtracting from equation (ii).
+2x² + 2y² = 50
+±2x² ± 3y² = ±66
+–y² = –16
+y² = 16
+Putting y² = 16 in equation (i)
+Unit-02: Quadratic Equations 49 National Book Foundation
+x² + 16 = 25
+x² = 9
+Now from x² = 9, we have x = ±3
+and from y² = 16, we have y = ±4
+Hence, solution set is {(±3, ±4)}
+Example:
+Solve the system of equations x² + y² = 20 and 6x² + xy – y² = 0
+Solution:
+Given equations are
+x² + y² = 20 (i)
+6x² + xy – y² = 0 (ii)
+From equation (ii)
+–y² + xy + 6x² = 0
+y² – xy – 6x² = 0
+y² – 3xy + 2xy – 6x² = 0
+y(y – 3x) + 2x(y – 3x) = 0
+(y – 3x)(y + 2x) = 0
+y – 3x = 0 or y + 2x = 0
+y = 3x.....(iii) y = –2x.....(iv)
+Putting y = 3x in (i)
+x² + (3x)² = 20
+x² + 9x² = 20
+10x² = 20
+x² = 2
+x = ±√2
+When x = √2
+From (iii)
+y = 3√2
+From (iv)
+y = –2√2
+When x = –√2
+From (iii)
+y = –3√2
+From (iv)
+y = 4√2
+Hence, solution set is {(√2, 3√2), (–√2, –3√2), (2, –4), (–2, 4)}
+Unit-02: Quadratic Equations 50 National Book Foundation
+Exercise 2.5
+Solve the following simultaneous equations:
+1. 2x + y = 1; x² + y² = 10
+2. 3x – 2y = 1; x² + xy – y² = 1
+3. 3x + y + 3 = 0; (x + 1)² – 4(x + 1) – 6 = y
+4. (x + 3)² – (y – 2)² = 10; x + y = 4
+5. 2x² – 8x + 6y² = 0; x² + y² = 45
+6. 6x² – 5xy – y² = 0; y² + 4xy = 30
+7. 4x² + y² = 65; 6x – 2y = 5
+8. x² + y² = 0; x + y² = 0
+9. x² + 3y² = 14; 3x² + y² = 6
+10. 2x² – 5y² = 8; x² + 2y² = 13
+Test Taking Tip:
+Most standardized tests have a time
+limit, so you must budget your time
+carefully. Some questions will be
+much easier than others. If you
+cannot answer a question within a
+few minutes go on to the next one.
+If there is still time left when you
+get to the end of the test, go back to
+the ones that you skipped.
+Real Problems Involving Quadratic Equations
+There are many problems which lead to quadratic equations. To form an equation, we consider
+symbols for unknown quantities in the problems.
+In order to solve problems, we must have
+(i) Suppose the unknown quantities to be x or y.
+(ii) Translate the problem into symbols and form the equation satisfying the conditions.
+The method of solving the problem will be illustrated through the following examples.
+Example: The length of a room is 3 meters greater than its breadth. If the area of the room is
+180 square meters, find length and breadth of the room.
+Solution: Let the breadth of room = x meters
+and the length of room = x + 3 meters
+Area of the room = x(x + 3) square metres
+By the conditions of the equation
+x(x + 3) = 180 or x² + 3x – 180 = 0
+(x + 15)(x – 12) = 0 or x = –15, x = 12
+As breadth cannot be negative, therefore, we take x = 12.
+Length = x + 3 = 12 + 3 = 15
+.: Breadth of the room = 12m and length of room = 15m
+Unit-02: Quadratic Equations 51 National Book Foundation
+Example:
+The sum of the Cartesian coordinates of a point is 6 and the sum of their squares is 20. Find the
+coordinate of the point.
+Solution:
+Let (x, y) be the coordinates of required point, then by the given condition we get
+x + y = 6 (i)
+x² + y² = 20 (ii)
+From (i) x + y = 6 ⇒ y = 6 – x putting in (ii)
+x² + y² = 20 ⇒ x² + (6 – x)² = 20
+x² + 36 – 12x + x² = 20
+2x² – 12x + 36 = 20
+2x² – 12x + 16 = 0
+x² – 6x + 8 = 0
+x² – 4x – 2x + 8 = 0
+x(x – 4) – 2(x – 4) = 0
+(x – 4)(x – 2) = 0
+x – 4 = 0, x – 2 = 0
+x = 4, x = 2
+When x = 4, y = 6 – x = 6 – 4 = 2
+When x = 2, y = 6 – x = 6 – 2 = 4
+.: The coordinates of the point are 4 and 2, the points may be (4, 2) and (2, 4).
+Problem Solving Plan:
+• Explore the problem. • Plan the solution.
+• Solve the problem. • Examine the solution.
+Exercise 2.6
+1. Product of two consecutive positive even numbers is 120. Find the numbers.
+2. The difference of a positive number and its square is 380. Find the number.
+3. The difference of cubes of two consecutive positive numbers is 91. Find them.
+4. The sum of the Cartesian coordinates of a point is 9 and the sum of their squares is 45.
+Find the coordinates of the point.
+5. The sum of two numbers is 11 and the product is 30. Find the numbers.
+6. The sum of the squares of two consecutive positive odd integers is 34. Find the integers.
+7. The sum of ages of a father and his son is 50 years. Ten years ago, the father was 9
+times old as his son. Find the present age of father and son.
+8. A two-digit number is decreased by 45 when the digits are reversed. If the sum of the
+digits is 11, find the number.
+9. Sum of two numbers is 20. Find the numbers if the sum of first number and square of
+other is 40.
+10. The reciprocal of the sum of reciprocals of two numbers is 12/5. Find the numbers if
+their sum is 10.
+Unit-02: Quadratic Equations 52 National Book Foundation
+I have Learnt
+• ax² + bx + c = 0, a ≠ 0 is standard form of quadratic equation in one variable x.
+• There are three methods for solving a quadratic equation.
+i. Factorization Method ii. Completing Square Method iii. The Quadratic
+Formula
+• Some equations are not quadratic but they can be reduced in quadratic form.
+• In the quadratic formula, the expression under the radical sign 'b² – 4ac', is called the
+discriminant. The discriminant tells the nature of roots of quadratic equation.
+• Sum of the roots of a quadratic equation = S = –b/a = coefficient of x / coefficient of x²
+• Product of roots of a quadratic equation = P = c/a = contant term / coefficient of x²
+• Formula used to form a quadratic equation when its roots are given is x² – Sx + P = 0
+• A system of equations having a common solution is called a system of simultaneous
+equations.
+• The set of all the ordered pairs (x, y) which satisfies the system of equations is called
+the solution of the system.
+MISCELLANEOUS EXERCISE-2
+1. Encircle the correct option in the following.
+i. Which of the following is a quadratic equation?
+(a) ax + b = c (b) ax² + bx + c
+(c) ax² + bx + c = 0, a ≠ 0 (d) ax² + bx + c = 0, a = 0
+Unit-02: Quadratic Equations 53 National Book Foundation
+ii. How many roots of (x – 3)(x – 2) = 6 exist?
+(a) no (b) 0 (c) 1 (d) 2
+iii. What should be added to x² + x to make it a complete square?
+(a) 1 (b) 1/4 (c) 1/2 (d) 4
+iv. Solution set of x² – 4 = 0 is:
+(a) {0, 4} (b) {2, –2} (c) {4, –4} (d) {}
+v. Roots of the equation (x – 1)² = 9 are:
+(a) –2, 4 (b) 2, 4 (c) –4, 2 (d) –2, –4
+vi. Solution set of 2x² – 2x + 1 = 0?
+(a) {0} (b) {1} (c) {0, –1} (d) {0, –1}
+vii. Solution set of x + 1/x = 2 is:
+(a) {0} (b) {–1} (c) {1} (d) {1}
+viii. Which of the following is a reciprocal equation?
+(a) x² + 2x + 2 = 0 (b) x⁴ + x³ + x² + x + 1 = 0
+(c) √2x + 3 = 0 (d) x⁴ + 2x³ + x² + 4x = 0
+ix. 2 and –3 are roots of:
+(a) (x – 2)(x – 3) = 0 (b) (x + 2)(x + 3) = 0
+(c) (x – 2)(x + 3) = 0 (d) (x + 2)(x – 3) = 0
+x. The discriminant of ax² + bx + c = 0 is:
+(a) b² + 4ac (b) b² – 4ac (c) –b² – 4ac
+(c) 4ac – b²
+xi. If S₁, S₂ are the roots of ax² + bx + c = 0,then sum of roots is:
+(a) c/a (b) –c/a (c) –b/a (d) b/a
+xii. Roots of the equations x² – 5x + 5 = 0 are:
+(a) Imaginary (b) rational (c) equal (d) irrational
+xiii. Sum and product of quadratic equation are respectively 2 and 5. The
+equation is:
+(a) x² – 2x + 5 = 0 (b) x² + 2x + 5 = 0
+(c) x² – 2x – 5 = 0 (d) x² + 2x – 5 = 0
+2. Find all roots of 8x³ – 7x – 1 = 0.
+3. For what values of m the roots of the equation (m – 1)x² + 2mx + m + 3 = 0
+are equal? Also solve the equation.
+4. If S₁, S₂ are the roots of ax² + bx + c = 0, find the value of (S₁ – 3)(S₂ – 3).
+5. If roots of 2S₁ + b = 0 are equal then find the values of a and b if a² + b = 6.
+6. A rectangular chocolate box has volume as x³ + 2x² – 5x – 6. Find the length and width
+of the box if its height is x – 2.
+Unit-02: Quadratic Equations 54 National Book Foundation
+03
+Matrices And Determinants
+After studying this unit students will be able to:
+• Display information in the form of matrices of order 2.
+• Calculate product of scalar quantity and a matrix.
+• Solve situations involving sum, difference and product of two matrices.
+• Evaluate the determinant and inverse of a matrix of order 2 by 2.
+• Solve the simultaneous linear equations in two variables using matrix inversion method and
+Cramer's rule.
+• Explain with examples, how mathematics plays a key role in the development of new scientific
+theories and technologies.
+• Apply concepts of matrices to real world problems.
+Matrices are used for solving
+system of linear equations by
+several methods. These methods
+are used in computer programs,
+in traffic flow, schedule air line
+flights, engineering, accounting,
+economics etc
+x + y = 7
+x – y = 3
+[5 6]
+a b
+c d
+[1 2]
+[x y]
+Introduction of Matrices
+In a mathematical quiz between girls and boys, Class 8 (girls) scored 95 points, class 8 (boys)
+scored 97 points, Class 9 (girls) scored 93 points, class 9 (boys) scored 90 points, class 10 (girls)
+scored 96 points and class 10 (boys) scored 94 points. This information can be displayed as under:
+8th 9th 10th
+Q= 95 93 96 girls
+97 90 94 boys
+This method is no doubt easy to write and manipulate. In 1850, Sylvester introduced such
+rectangular arrangement and he named it 'Matrix'. Later Hamilton and Cayley made further
+significant contributions to the Matrix Algebra. Today matrices are being used in almost every
+academic discipline in building models, organizing data and solving real world problems.
+Matrix (plural Matrices)
+A Matrix is a rectangular arrangement of numbers.
+e.g. [1 3], [5 6], [0]
+2 4 1 0
+A Model Matrix
+Matrix Name ← Q = 95 93 96 R₁ ←
+97 90 94 R₂ ←
+Square bracket ← C₁ C₂ C₃
+columns
+Check Point:
+IFA = [a] is a matrix, with only one
+row and only one column. Can it be
+called a row matrix or a column
+matrix?
+rows
+Key Fact:
+• The numbers used in a matrix are called 'elements' or 'entries' of the matrix.
+• Elements of a matrix are written within the square brackets in a definite order, in rows and
+columns.
+• Capital alphabets are used to name a matrix while elements of a matrix are usually
+represented by small alphabets and numbers.
+Row: Horizontal arrangement of elements in a matrix is called a row.
+[5 2 6]
+3 1 7
+First row and second row of a matrix are represented by R₁ and R₂ respectively.
+Column: Vertical arrangement of elements is in a matrix called a column.
+[5 2 6]
+3 1 7
+Firstly, second column and third column of a matrix are represented by C₁, C₂, C₃
+respectively.
+Unit-03: Matrices And Determinants 56 National Book Foundation
+The number of rows and columns may be equal or unequal in any matrix. The number of
+elements in different rows and in different columns remain the same. In [5 2 6], there are 2
+3 1 7
+rows and 3 columns. There are 3 elements in each row and 2 elements in each column.
+Order of Matrix
+If 'A' is a matrix with 'm' number of rows and 'n' number
+of columns, then order of the matrix is m-by-n.
+Order of [5 3] is 2-by-1 i.e. 2 rows and 1 column.
+25
+Equal Matrices
+Two matrices are said to be equal if and only if their:
+(i) order is same (ii) corresponding elements are same.
+Example:
+Whether the following pairs of matrices are equal or not. Mention the reason in each case.
+(i) [√4] = [2]
+(–5)² 25
+• Matrices on both sides of equality are of order 2-by-1
+• Corresponding elements of the matrices on both sides of equality are also equal.
+Hence both matrices are equal.
+(ii) A = [13], B = [13 17]
+17
+Order of matrix A is 2-by-1. Order of matrix B is 1-by-2. Order is different, we can say A ≠ B.
+(iii) E = [5 2], F = [5 2]
+3 6 3 3
+Since the corresponding elements are not equal. E ≠ F.
+Example:
+Find unknowns from the following if possible.
+[x + 2 5] = [9 5]
+y – 4 3 7 3
+Comparing the corresponding elements of two equal matrices, we get
+x + 2 = 9, 5 = 5, y – 4 = 7, 3 = 3
+Now from x + 2 = 9, we have x = 7 and from y – 4 = 7, we have y = 11.
+Key Fact:
+Two matrices are equivalent if
+and only if they have same
+rank.
+Check Point:
+Can you find the value of x
+from [x 0] = [0 3]?
+0 3 3 0
+Mention the reason, if your
+answer is no.
+Types of Matrices
+Row and Column Matrices
+A matrix having only one row is called a row matrix while a matrix having only one column is
+called a column matrix.
+Row matrices: [5 3], [a + s + d], [5 6]
+7
+Column matrices: [5], [a + s], [5]
+6 d 6
+Unit-03: Matrices And Determinants 57 National Book Foundation
+Rectangular Matrix
+A matrix with unequal number of rows and columns is called a rectangular matrix.
+[a + b c], [2 4 3], and [5 6] are all rectangular matrices.
+d + e f 1 3 5 7
+g + h i
+Square Matrix
+A matrix with equal number of rows and columns is called a square matrix.
+[1 9], [5 5], and [5] are all square matrices.
+2 8 2 1
+Null Matrix (Zero Matrix, Additive Identity Matrix)
+A matrix of any order, having all the elements equal to zero, is called a null matrix.
+A null matrix is represented by capital English alphabet 'O', while its elements are all zeros.
+Null matrices may have any order.
+O₂ = [0 0], O₁ = [0], O₁₂ = [0 0] are all null matrices.
+0 0
+Diagonal Matrix
+A square matrix in which every element except the primary (principal) diagonal elements is zero
+is called a diagonal matrix.
+A = [√3 0], B = [1 0 0], C = [1 0], are diagonal matrices but D = [5 0] is not a
+0 15 0 0 5 0 0
+diagonal matrix.
+Scalar Matrix
+A diagonal matrix in which all the elements of primary diagonal are equal and non-zero is called
+a scalar matrix.
+P = [5 0], is a scalar matrix of order 2, but Q = [5 0] is not a scalar matrix, since its primary
+0 5 0 0
+diagonal elements are zeros and secondary diagonal elements are nonzero.
+Some more examples of scalar matrices are:
+[3 0], [0 √9 0], [3 + 7 0]
+0 3 0 0 0 7
+4 + 2i
+Unit Matrix (Multiplicative Identity Matrix)
+A scalar matrix in which all the primary diagonal elements are equal to 1, is called a unit matrix.
+Unit matrix is represented by I.
+I₁ = [1], I₂ = [1 0], I₃ = [1 0 0]
+0 1 0 1 0 0 1
+Unit-03: Matrices And Determinants 58 National Book Foundation
+Check Point:
+Write the most appropriate type of following matrices.
+A = [15 0], B = [3 0], C = [√3 5 – 5]
+44 31 0 3 5 5 5 × 3
+Transpose of a Matrix
+If rows (columns) of a matrix P are changed into columns (rows) then the resulting matrix is called
+transpose of the matrix P. It is represented by P^T.
+Example:
+If a matrix G represents number of gold medals and silver medals won by three friends, as under:
+Gold Silver
+medals medals
+G = [5 3] Azka
+2 6 Aemen
+7 Khansa
+then find G^T.
+Solution:
+Key Fact:
+If order of a matrix P
+is m-by-n, then order
+of P^T is n-by-m.
+G^T = [5 2 1] Gold medals
+3 6 7 Silver medals
+Azka Aemen Khansa
+Symmetric Matrices and Skew Symmetric Matrices
+For a square matrix A
+A is Symmetric if, A = A^T. A is Skew Symmetric if, A = –A^T.
+Example:
+From the following, check for symmetric and skew symmetric matrices.
+If S = [5 3] then, S^T = [5 3]
+3 5 3 5
+As S = S^T, therefore S is a symmetric matrix.
+If T = [5 2] then, T^T = [5 2]
+6 11 12 11
+As T ≠ T^T, therefore T is a not a symmetric matrix.
+If V = [0 2]
+–2 0
+then, V^T = [0 –2] = –V
+2 0
+As V = –V^T, therefore V is a skew symmetric matrix.
+Check Point:
+If [x 1 2] = [–3 4]
+4 2 2
+then find x = ?
+Unit-03: Matrices And Determinants 59 National Book Foundation
+Key Fact:
+• All the square matrices of order 1 are symmetric e.g. [9].
+• (A^T)^T = A.
+• All the symmetric matrices are square but every square matrix is not necessarily symmetric.
+Exercise 3.1
+1. Write the number of rows, columns and order of the given matrices.
+a. [1 + 2 4 + 5] b. [a + s d] c. [5 7] d. [4 + 2 × 1 + 5]
+0 d + s
+2. Check whether the following pairs of matrices are equal or not.
+a. [1 0], [√25 – √25] b. [1 2 3], [1 + 2 + 3]
+1 √16 √16 – 16
+c. [1], [1 + 0] d. [1 + 0 0 + 1]
+2 1 0 1 – 0
+3. Hyder, Hassan and Ahmed scored 7 points, 11 points and 10 points respectively in a
+mathematical quiz. Display the data in a row matrix (R) and a column matrix (C).
+4. Write the most appropriate type of the following matrices.
+a. [5 0] b. [0] c. [15 × 3] d. [5 0]
+0 3 0 0 9 × 5 0 5
+e. [18 – 19 + 1] f. [3] g. [6 + 2 0]
+0 0 – 3
+5. Check for symmetric and skew symmetric matrices from the following.
+a. [5 2 3] b. [0 –9] c. [0 –2 –4]
+2 9 6 9 0 0 2 0
+3 6 1 d. [0 5 0]
+–5 0 e. [0 –5 0]
+7 0 0 –5 0
+6. Write a symmetric and a skew symmetric matrix of order 3.
+Addition, Subtraction and Scalar Multiplication of Matrices
+Two matrices can be added or subtracted only if their order is same.
+Consider A = [5 3], B = [5 6], C = [6 3]. Here addition and subtraction of A and B is impossible
+because their order is not same.
+However, addition and subtraction of A and C is possible as their order is same.
+Unit-03: Matrices And Determinants 60 National Book Foundation
+Key Fact:
+• In the process of addition or subtraction of matrices, only corresponding elements are
+added or subtracted.
+• Matrices of same order are conformable for addition and subtraction.
+Example: If A = [2 –3] and B = [9 –2], then find A + B, A – B, B + A, B – A.
+65 78
+Solution: A + B = [2 –3] + [9 –2] = [2 + 9 –3 – 2] = [11 –5]
+65 78 6 + 7 5 + 8 13 13
+A – B = [2 –3] – [9 –2] = [2 – 9 –3 – (–2)] = [–7 –1]
+65 78 6 – 7 5 – 8 –1 –3
+Similarly, B + A = [9 –2] + [2 –3] = [9 + 2 –2 – 3] = [11 –5]
+78 65 7 + 6 8 + 5 13 13
+B – A = [9 –2] – [2 –3] = [9 – 2 –2 – (–3)] = [7 1]
+78 65 7 – 6 8 – 5 1 3
+Check Point:
+Can you add
+[0 0] and [1]?
+0 1
+Scalar Multiplication of a Matrix
+Scalar multiplication of a matrix means multiplication of a matrix with a constant.
+If a matrix 'C' is multiplied by 2, then each of its element is doubled.
+If C = [2 0], then, 2C = 2 × [2 0] = [2 × 2 2 × 0] = [4 0]
+6 0 6 0 2 × 6 2 × 0 12 0
+Commutative Property of Matrix Addition
+If A and B are two matrices of same order, then A + B = B + A, is called commutative property
+of matrix addition.
+Example:
+If P = [5 3] and Q = [7 2], then verify the commutative property of matrix addition.
+12 9 13 9
+Solution:
+Commutative property of addition for above matrices is P + Q = Q + P.
+L.H.S: P + Q = [5 3] + [7 2] = [5 + 7 3 + 2] = [12 5]
+12 9 13 9 12 + 13 9 + 9 25 18
+R.H.S: Q + P = [7 2] + [5 3] = [7 + 5 2 + 3] = [12 5]
+13 9 12 9 13 + 12 9 + 9 25 18
+As, P + Q = Q + P, therefore commutative property of matrix addition is verified.
+Check Point:
+Can you verify the commutative property of matrix addition for:
+A = [x] and B = [x y]?
+Associative Property of Matrix Addition
+If A, B and C are three matrices of same order, then (A + B) + C = A + (B + C), is called
+associative property of matrix addition.
+Unit-03: Matrices And Determinants 61 National Book Foundation
+Example: If R = [9 7], S = [10 12] and T = [1 5], then verify associative property of
+5 3 5 2 6 –4
+matrix addition.
+Solution:
+Associative property of addition for matrices is (R + S) + T = R + (S + T).
+L.H.S: (R + S) + T = ([9 7] + [10 12]) + [1 5]
+5 3 5 2 6 –4
+= [9 + 10 7 + 12] + [1 5]
+5 + 5 3 + 2 6 –4
+= [19 19] + [1 5]
+10 5 6 –4
+= [19 + 1 19 + 5]
+10 + 6 5 – 4
+= [20 24]
+16 1
+R.H.S: R + (S + T) = [9 7] + ([10 12] + [1 5])
+5 3 5 2 6 –4
+= [9 7] + [10 + 1 12 + 5]
+5 3 5 + 6 2 – 4
+= [9 7] + [11 17]
+5 3 11 –2
+= [9 + 11 7 + 17]
+5 + 11 3 – 2
+= [20 24]
+16 1
+As, L.H.S = R.H.S, therefore associative property of matrix addition is verified.
+Additive Identity in Matrices
+Additive identity is such a matrix which causes no change in any matrix A while 'adding to' or
+'subtracting from' it. Any matrix and its additive identity matrix have the same order.
+If A = [7 3], then O = [0 0] is the additive identity of A.
+20 00
+It is observed that: A + O = O + A = A
+If B = [√7], then the associated additive identity
+matrix will be O₁ = [0].
+Key Fact:
+Taking matrices A and B of same
+order, verify that:
+(i) k(A + B) = kA + kB
+(ii) (h + k)A = hA + kA
+(iii) (hk)B = h(kB)
+where h and k are constants.
+Additive Inverse of a Matrix
+Additive inverse of a matrix 'A' is a matrix which when added to A, gives additive identity
+matrix of the same order.
+Example (a): If X = [5 –9], then find –X'.
+–4 0
+(b): Find T from [5 0] then –X = [–5 0]
+0 4 –4 0
+Solution (a): If X = [5 –9], then –X = [–5 9]
+–4 0 4 0
+(b) If B = [5 0], then |B| = 5 × 3 – 2 × 6 = 15 – 12 = 3 ≠ 0, B⁻¹ exists.
+3 2
+Adj. of B = [3 –2]
+–6 5
+apply formula: B⁻¹ = 1/|B| Adj of B
+= 1/3 [3 –2]
+–6 5
+Unit-03: Matrices And Determinants 62 National Book Foundation
+[15 10] = [3 5] – 2T = [5 4]
+5 0 3 2
+–2T = [5 4] – [15 10]
+3 2 5 0
+= [5 – 15 4 – 10]
+3 – 5 2 – 0
+= [–10 –6]
+–2 2
+T = –1/2 [–10 –6] = [5 3]
+–2 2 1 –1
+Multiplication of Matrices
+Two matrices A and B are conformable for product AB, if:
+number of columns in A = number of rows in B
+Example:
+If A = [5 1] and B = [6 4], then find AB and BA, if possible.
+3 –2 2 1
+Solution:
+Finding AB
+As number of columns in A = 2 = number of rows in B. So, product AB is possible.
+AB = [5 1] [6 4] = [5×6 + 1×2 5×4 + 1×1] = [30 + 2 20 + 1] = [32 21]
+3 –2 2 1 3×6 + (–2)×2 3×4 + (–2)×1 18 – 4 12 – 2 14 10
+Here
+elements of R₁ of A
+[5 1]
+elements of C₁ of B
+Finding the sum of products of corresponding elements of R₁ of A and C₁ of B.
+elements of R₂ of A
+[3 –2]
+elements of C₁ of B
+Finding BA
+Since number of columns of B = 1, but number of rows of A = 2.
+So, product BA is not possible.
+Key Fact:
+• In multiplication, the first matrix contributes its number of rows and the second matrix
+contributes its number of columns, in the resultant matrix. i.e. If order of matrix A is m-by-n
+and order of matrix B is n-by-p, then order of AB is m-by-p.
+• If A and B are two matrices which are conformable for product AB then B and A are not
+necessarily conformable for product BA.
+Unit-03: Matrices And Determinants 63 National Book Foundation
+Example:
+Check whether the following pairs of matrices are conformable for multiplication or not?
+Mention order of product if possible.
+(i) A = [5 3] and B = [9] (ii) E = [6] and F = [6]
+12 2 3
+Solution:
+(i) A = [5 3] and B = [9]
+12 2
+Here, number of columns in B ≠ number of rows in A, so product AB is not possible.
+(ii) E = [6 3] and F = [6]
+12 4 3
+Here, number of columns of E = number of rows of F. So, product EF is possible.
+Order of E is 1-by-2 and order of F is 2-by-1, so order of EF is 1-by-1.
+Example: If A = [5 1] and B = [7 2], then find AB and BA. Also check whether
+2 6 4 9
+AB = BA or not. What is the conclusion from the result?
+Solution: A = [5 1] and B = [7 2]
+2 6 4 9
+AB = [5 1] [7 2]
+2 6 4 9
+= [ (5 × 7) + (1 × 4) (5 × 2) + (1 × 9) ]
+ (2 × 7) + (6 × 4) (2 × 2) + (6 × 9)
+= [ 35 + 4 10 + 9 ]
+ 14 + 24 4 + 54
+= [39 19]
+38 58
+BA = [7 2] [5 1]
+4 9 2 6
+= [ (7 × 5) + (2 × 2) (7 × 1) + (2 × 6) ]
+ (4 × 5) + (9 × 2) (4 × 1) + (9 × 6)
+= [ 35 + 4 7 + 12 ]
+ 20 + 18 4 + 54
+= [39 19]
+38 58
+We see that AB ≠ BA.
+From this result it is concluded that:
+Commutative property does not hold in matrix multiplication, in general.
+Key Fact:
+If A and B are diagonal
+matrices, then C = AB
+is diagonal.
+Associative Property of Matrix Multiplication
+Associative property of multiplication holds in matrices. If A, B, and C are matrices and products
+AB and BC are possible, then (AB)C = A(BC)
+Example: Verify Associative property of matrix multiplication for:
+X = [5 2], Y = [1 –7], Z = [6]
+12 6 4 3
+Solution: Associative property of matrix multiplication is: (XY)Z = X (YZ)
+L.H.S: (XY)Z = ([5 2] [1 –7]) [6]
+3 12 4 3
+= ([ (5 × 1) + (2 × 4) (5 × –7) + (2 × 3) ] ) [6]
+ (1 × 1) + (2 × 4) (1 × –7) + (2 × 3) 4
+ (3 × 1) + (12 × 4) (3 × –7) + (12 × 3)
+Unit-03: Matrices And Determinants 64 National Book Foundation
+= [5 + 8 –35 + 6] [6]
+1 + 8 –7 + 6 4
+3 + 48 –21 + 36
+= [13 –29] [6]
+9 –1 4
+51 15
+= [ (13 × 6) + (–29 × 4) ]
+ (9 × 6) + (–1 × 4)
+ (51 × 6) + (15 × 4)
+= [ 78 – 116 ]
+ 54 – 4
+ 306 + 60
+= [–38]
+50
+366
+As L.H.S = R.H.S, so associative property of matrix multiplication is verified.
+Distributive Property of Multiplication over Addition / Subtraction
+• A (B + C) = AB + AC (left distributive property of multiplication over addition)
+• A (B – C) = AB – AC (left distributive property of multiplication over subtraction)
+Example (a): Verify A(B + C) = AB + AC
+A = [5 2], B = [6], and C = [1].
+2 4
+(b): Verify A(B – C) = AB – AC if A = [4], B = [5], C = [7].
+8 1 3
+Solution:
+(a) L.H.S: A (B + C) = [5 2] ([6] + [1]) = [5 2] [6 + 1] = [5 2] [7]
+2 4 2 4 7
+= [5 × 7 + 2 × 6] = [35 + 12] = [47]
+R.H.S: AB + AC = [5 2][6] + [5 2][1] = [5 × 6 + 2 × 4] + [5 × 1 + 2 × 2]
+2 4 2 4
+= [30 + 8] + [5 + 4] = [38] + [9] = [47]
+Comparing both the results, it is concluded that L.H.S = R.H.S
+.: Left distributive property of multiplication over addition is verified.
+(b) L.H.S: A(B – C) = [4] ([5] – [7]) = [4] [–2]
+8 1 3 –2
+= [4 × (–2)] = [–8]
+R.H.S: AB – AC = [4][5] – [4][7] = [4 × 5] – [4 × 7]
+8 1 3 –2
+= [20] – [28] = [–8]
+40 – 56 –16
+From both the results, it is concluded that L.H.S = R.H.S
+.: Left distributive property of multiplication over subtraction is verified.
+Key Fact:
+(A + B) C = AC + BC (Right distributive property of multiplication over addition)
+(A – B) C = AC – BC (Right distributive property of multiplication over subtraction)
+Unit-03: Matrices And Determinants 65 National Book Foundation
+Multiplicative Identity in Matrices
+Multiplicative identity is such a matrix which causes no change in any matrix A when multiplied
+with A.
+Key Fact:
+• Multiplicative identity matrix of orders 1, 2, 3, ...n are represented by I₁, I₂, I₃, ... Iₙ.
+or simply by I.
+• If I is multiplicative identity matrix of square matrix 'S', then IS = SI = S.
+• [1] , [1 0] , [1 0 0] etc. are not multiplicative identities.
+1 0 1 0 0 1
+• Since multiplicative identity matrix can never be a rectangular matrix, so multiplicative
+identity matrices are only possible for square matrices.
+• Commutative property of matrix multiplication can hold in particular cases:
+(i) A × I = I × A = A (if A and I are conformable for either multiplication.)
+(ii) B × O = O × B = O (if O and B are conformable for either multiplication.)
+Exercise 3.2
+1. Find x, y, z, from the followings, if possible. Mention the reason if not possible.
+a. [x 9] = [2 y] b. [3 6] c. [5x] = [–10 20]
+4 z 4 x – 4 0 2y
+d. [x + y 10] e. [6 8] f. [x + y 10]
+4z 10 32 –10 z 7
+g. [x + y 11] h. [5 10] i. [5 y] = [30 7]
+x – y 1 x – 5 x + 15
+j. [5 10] k. [–2x] l. [–2 5]
+3y 26 4 3 + 2x 5 6 3 0 0 8 11
+2. Find the additive inverses of the following.
+a. [5 0] b. [–3 0] c. T = [–5 –6 1].
+–8 –5 –9 –4
+3. If A = [5 2], B = [10 8], C = [15 6], then find
+3 1 6 12 –12 0
+(i) 2A + 1/3B – 1/2C (ii) A – 1/2B
+4. If A = [1 2], B = [3 2], C = [0 0], D = [2], E = [2 2]
+3 –3 1 –1 6
+Then check whether: (i) A + B = C (ii) C + D = E (iii) D + D = E (iv) E – D = C
+5. Taking matrices A and B from Q.3, verify commutative property of matrix addition.
+6. Taking matrices A, B and C from Q. 3, verify associative property of matrix addition.
+7. Taking matrices A and B from Q. 4, verify that A^T = (A + B)^T.
+Unit-03: Matrices And Determinants 66 National Book Foundation
+8. Find the matrix 'Z' from these equations.
+(i) [4 10] – 5Z = [√5 √45] (ii) Z + [5 7] = 3Z – [5]
+–5 0 2 0 3
+9. (a) Mention the order of the indicated products where possible.
+(i) [1 0], [5 3] (ii) [5 3][1 0] (iii) [1 1][5]
+0 1 0 0 0 0 0 0
+(iv) [5 3][1 0] (v) [5][1 0] (vi) [1 –2][5]
+0 1 0 0 4 3 0
+(vii) [1 3][5] (viii) [5][1 3] (ix) [5][9 3]
+3 1 x 5
+(x) [9 –3][5] (xi) [5][10] (xii) [5 10][–2]
+x –3
+(xiii) [2 3][5 10] (xiv) [5 3][1 0] (xv) [5 3][5 –2]T
+x 4 0 1 6
+(b) Perform the indicated products in part (a) where possible.
+10. If A = [1 0], B = [2 1], and C = [1 0], then
+2 3 0 –2
+(i) Find AB and BA, whether AB = BA or not?
+(ii) Find AC and CA, whether AC = CA or not?
+(iii) Verify A(B + C) = AB + AC
+(iv) Verify A(B – C) = AB – AC
+(v) Verify the associative property of matrix multiplication.
+(vi) Verify (A + B)(A – B) = A² – B².
+(vii) Check whether (A + B) × (A – B) = A² – B² or not?
+(viii) Check whether (A + B) × (A – B) = A² – B² or not?
+(ix) Check whether (A + B) × (A – B) = (A + B) × (A + B) or not?
+(x) Verify that (AB)^T = B^T and (A^T)^T = A
+Multiplicative Inverse of a Matrix
+Before we discuss inverse of a matrix, we need to examine the determinant of a matrix.
+Determinant of a Matrix
+When a matrix has m rows and n columns, it is called an “m-by-n” matrix and is also called
+dimensions of a matrix. If a matrix has the same number of rows and columns, it is called a square
+matrix. With every square matrix is associated a number called its determinant, defined as follows
+for 2-by-2 matrices:
+The determinant of its matrix [a c] is denoted [a c] and is defined as follows:
+b d b d
+= ad – bc.
+Unit-03: Matrices And Determinants 67 National Book Foundation
+Example:
+Find |A|, when A = [5 6]
+2 3
+Det A = |A| = |5 6|
+2 3
+= (5 × 3) – (6 × 2)
+= 15 – 12 = 3
+History:
+The theory of determinants is attributed to a
+German, Gottfried Wilhelm Leibniz. His work
+expanded upon the earlier work of Japanese
+mathematician Seki Kowa.
+Key Fact:
+• Every square matrix has a determinant either zero or nonzero.
+• Determinants can be represented by D₁, D₂, D₃,...
+• The determinant of a matrix is not a matrix rather it is a number.
+• While writing determinant of a matrix, the elements of the matrix should be written inside
+the vertical bars instead of brackets used for matrices.
+Example: Evaluate the determinants
+D₁ = |–4 8| = (–4 × –2) – (8 × 1) = 8 – 8 = 0
+1 –2
+D₂ = |√5 √4| = (√5 × –√5) – (√4 × √4) = –√25 – 4 = –5 – 4 = –9
+√4 –√5
+Singular and Non-singular Matrices
+Given that A is a square matrix, then
+A is singular matrix, if |A| = 0 A is nonsingular matrix, if |A| ≠ 0
+Example:
+From the followings, check for singular and non-singular matrices.
+A = [5 10], B = [5 5]
+3 6 √3 √5
+Solution: |A| = |5 10| = 5 × 6 – 3 × 10 = 30 – 30 = 0
+3 6
+As |A| = 0, therefore A is a singular matrix.
+|B| = |7 5| = 7√5 – 15 ≠ 0.
+3 √5
+As |B| ≠ 0, therefore B is non-singular matrix.
+Check Point:
+Can you find determinant of
+a rectangular matrix?
+Adjoint of a Matrix
+Adjoint of a square matrix A (of order 2) is a square matrix obtained by:
+(i) interchanging the positions of primary diagonal elements of A.
+(ii) changing the signs of secondary diagonal elements of A.
+Unit-03: Matrices And Determinants 68 National Book Foundation
+Adjoint of matrix A is represented by adj A.
+If A = [5 –3], Interchange the position
+4 –2 of primary diagonal
+elements
+Change the signs of
+secondary diagonal
+elements
+[–2 3] = adjA
+–4 5
+Finding Multiplicative Inverse of a Matrix
+Any matrix A = [a c], will have an inverse A⁻¹ if and only
+b d
+if |A| ≠ 0 mean A is non singular.
+Then A⁻¹ = 1/(ad – bc) [d –b]. We can also write: A⁻¹ = 1/|A| adj. of A.
+–c a
+Example: If A = [5 4], find A⁻¹.
+2 6
+Solution: A = [5 4], Compute the value of the determinant A.
+2 6
+|A| = |5 4| = 5 × 6 – 4 × 2 = 30 – 8 = 22,
+2 6
+Since the determinant does not equal 0, therefore A⁻¹ exists.
+A⁻¹ = 1/22 [6 –4], use formula: A⁻¹ = 1/|A| adj of A.
+–2 5
+This can be written as: A⁻¹ = [6/22 –4/22] = [3/11 –2/11]
+–2/22 5/22 –1/11 5/22
+Key Fact:
+• Inverse of a square matrix, if exists, is unique and (A⁻¹)⁻¹ = A.
+• A matrix A is invertible if its inverse exists.
+• A⁻¹A = I, I is identity matrix.
+Example: If B = [5 2], find B⁻¹ also verify that BB⁻¹ = B⁻¹B = I.
+3 6
+Solution: B = [5 2], then |B| = 5 × 6 – 2 × 3 = 15 – 12 = 3 ≠ 0, B⁻¹ exists.
+3 6
+Adj. of B = [6 –2]
+–3 5
+apply formula: B⁻¹ = 1/|B| Adj of B
+= 1/3 [6 –2]
+–3 5
+Unit-03: Matrices And Determinants 69 National Book Foundation
+B⁻¹ = 1/3 [6 –2] = [2 –2/3]
+–3 5 –1 5/3
+Similarly B⁻¹B = [2 –2/3][5 2]
+–1 5/3 3 6
+= [ (2 × 5) + (–2/3 × 3) (2 × 2) + (–2/3 × 6) ]
+ (–1 × 5) + (5/3 × 3) (–1 × 2) + (5/3 × 6)
+= [10 – 2 4 – 4] = [8 0]
+–5 + 5 –2 + 10 0 8
+Check Point:
+Verify: (AB)⁻¹ = B⁻¹A⁻¹, by taking A and B non singular matrix.
+Solution of Simultaneous Linear Equations
+A large-scale use of matrices in almost every field is in the form of solution of simultaneous linear
+equations. While studying Economics, Statistics, Medical Sciences, Engineering etc, one has to
+find the solution of linear equations in two or more variables. However, our study at this level is
+confined to the solution of simultaneous linear equations only in two variables.
+Conversion of Matrix Equation into System of Linear Equations
+A matrix equation [5 2][x] = [9] can be written as [5x + 2y] = [9]
+3 10 y 23 3x + 10y 23
+Now comparing the corresponding elements of equal matrices
+5x + 2y = 9, 3x + 10y = 23
+Which is a system of two linear equations in two variables x and y.
+Conversion of System of Linear Equations into Matrix Equations
+By the converse process mentioned above, the system of linear equations can be rewritten in matrix
+equation:
+i.e. 5x + 2y = 9, 3x + 10y = 23
+writing in matrix form, we have
+[5 2][x] = [9]
+3 10 y 23
+[5x + 2y] = [9] or AX = B is the required matrix equation.
+3x + 10y 23
+Check Point:
+Is AB = I = BA always true?
+Solution of System of two Linear Equations in Two Variables
+We discuss here two methods for finding solution of liner equations in two variables.
+(a) Matrix inversion method (b) Cramer's rule
+Unit-03: Matrices And Determinants 70 National Book Foundation
+(a) Matrix Inversion Method
+Let us find the solution of:
+5x + 4y = 14 ; 3x + 7y = 13
+This system of equations can be rewritten in matrix equation as follows:
+[5 4][x] = [14] (i)
+3 7 y 13
+where A = [5 4] is a matrix of coefficients, X = [x] is a matrix of variables and
+3 7 y
+B = [14] is a matrix of constants.
+13
+Now equation (i) can also be written as:
+AX = B
+A⁻¹AX = A⁻¹B (Pre multiplying with A⁻¹ if it exists.)
+IX = A⁻¹B (A⁻¹A = I)
+X = A⁻¹B (ii)
+This equation indicates that the values of the variables in the matrix X are equal to the
+corresponding elements in the matrix A⁻¹B. To find A⁻¹B, we need A⁻¹.
+As |A| = |5 4| = 35 – 12 = 23 ≠ 0, so inverse is possible.
+3 7
+Also, adj A = [7 –4]
+–3 5
+Now, A⁻¹ = 1/23 [7 –4]
+–3 5
+Substituting the values in equation (ii), we get:
+[x] = 1/23 [7 –4][14]
+y –3 5 13
+= 1/23 [ (7 × 14) + (–4 × 13) ]
+ (–3 × 14) + (5 × 13)
+= 1/23 [98 – 52] = 1/23 [46]
+–42 + 65 23
+= [46/23] = [2]
+23/23 1
+Comparing the elements of both matrices, we see that x = 2 and y = 1 solution set = {(2, 1)}
+Example:
+Solve system of linear equation 3y – 24 = 9x, 2y + 6x = 10 (if possible) by matrix inversion
+method.
+Solution: Writing the system of linear equations in arranged form. i.e.
+9x + 3y = 24, 6x + 2y = 10.
+Which can be written in matrix equation as:
+[9 3][x] = [24]
+6 2 y 10
+or AX = B ⇒ X = A⁻¹B
+Now |A| = |9 3| = 9 × 2 – 6 × 3 = 18 – 18 = 0
+6 2
+Unit-03: Matrices And Determinants 71 National Book Foundation
+As the matrix A is a singular, so its multiplicative inverse does not exist and solution of given
+system of equation is not possible.
+(b) Cramer's Rule
+This method is named after Gabriel Cramer (1704 –1752). This rule uses determinants to find the
+solution of system of linear equations.
+Consider a system of linear equations as x + 2y = 6, 4x – 2y = 4.
+Writing it in matrix equation, we get:
+[1 2][x] = [6] or AX = B
+4 –2 y 4
+The special formulae used in this method are: x = Dₓ / D and y = Dᵧ / D
+Where, D = |A| = |1 2| = –2 – 8 = –10 ≠ 0. (non singular)
+4 –2
+Original C₂ of A
+Now Dₓ = [6 2] = –12 – 8 = –20
+4 –2
+Contributed by B
+Original C₁ of A
+Dᵧ = [1 6] = 4 – 24 = –20
+4 4
+Contributed by B
+. Using x = Dₓ / D and y = Dᵧ / D
+x = –20 / –10 and y = –20 / –10
+x = 2 and y = 2 solution set = {(2, 2)}
+Exercise 3.3
+1. (a) Mention singular and nonsingular matrices from the followings.
+A = [6 4] B = [–5 7] C = [9 18]
+2 3 4 1 2 4
+D = [a b + 1/a] E = [a b + c] (where a ≠ 0 but b = d)
+b a d + c
+(b) If |P| = 9 and P = [3 1], then find k.
+4k
+(c) If |T| = 3 and adj T = [5 x], then find x.
+2 y
+Unit-03: Matrices And Determinants 72 National Book Foundation
+2. (a) Find the multiplicative inverses of these matrices if possible.
+R = [4 –1], S = [5 3], T = [25 2], U = [x y + 1], if x = y.
+–6 2 2 1 50 4 x + 1
+(b) If R = [4 1], then verify that R R⁻¹ = I = R⁻¹R.
+2 1
+3. If Y = [1 2], and Z = [1 2], then verify that (YZ)⁻¹ = Z⁻¹Y⁻¹.
+3 1 3 1
+4. What is relation among |A|, |A⁻¹| and |adj A| if A = [5 7]?
+2 4
+5. Write these matrix equations into system of linear equations if possible.
+(i) [4 3][x] = [6] (ii) [5 0][x] = [10]
+2 1 y 4 4 2 y 20
+(iii) [0 1][x] = [12] (iv) [x y][5] = [2]
+3 0 y 24 2 3
+6. (a) Write the systems of linear equations in matrix form.
+(i) x + y = 2 (ii) 2x + y = 90 (iii) y = 3
+x – y = 4 5x + y = 10 y = 4
+(iv) 5x – 3y = 1, (1/2)x – (1/2)y = 4x = 2
+7. (b) If matrix of coefficients of 5x – 4y = 30, 10x – ky = 60 is singular then find k.
+7. (a) Use Matrix Inversion Method to solve the following systems of linear equations if
+possible.
+(i) x + 3y = –6 (ii) –x + 2y = 1.5
+x + 2y = 1 5x + 4y = 3
+(iii) 2y = 10x (iv) 9 – x = 7y
+24x = 15 – 3y 14y + 2x = 18
+(b) Use Cramer's rule to solve following systems of linear equations if possible.
+(i) 2x + 3y = 5 (ii) x – (2/5)y = 2
+5x + 10y = 10 4x – 3y = 3x
+(iii) 6x + 8/10y = 20 (iv) 16x – 10 + 2y = 0
+10x + 6/10y = 10 15 – 3y – 24x = 0
+Unit-03: Matrices And Determinants 73 National Book Foundation
+Applications of Matrices
+The most difficult part of solving a problem in algebra is almost always translating the problem
+situation to mathematical language. Once an equation is translated, the rest is usually
+straightforward. In this section, we study systems of equations and how to solve them using
+matrices. We can use matrices to help us solve problems that involve systems of equations. Using
+matrices often simplifies the process of solving these systems.
+Example:
+Anas bought 3 cream puffs and 5 pringle packs paying Rs.650. Abid bought 4 cream puffs and 2
+pringle packs paying Rs. 400. Find how much each item costs? (Hint: Either matrix inversion
+method or Cramer's rule can be used).
+Solution:
+Let x be the cost of a cream puff and y be the cost of a pringle pack, then Anas's shopping is
+represented by 3x + 5y = 650 and Abid's shopping is represented by equation 4x + 2y = 400
+Writing in matrix equation
+[3 5][x] = [650] or AX = B
+4 2 y 400
+Now by using Cramer's rule
+D = |A| = |3 5| = 6 – 20 = –14
+4 2
+Dₓ = [650 5] = 1300 – 2000 = –700, Dᵧ = [3 650] = 1200 – 2600 = –1400
+400 2 4 400
+Now, x = Dₓ / D and y = Dᵧ / D
+x = –700 / –14 and y = –1400 / –14
+x = 50 and y = 100
+So, each cream puff costs Rs. 50 and each pringle pack costs Rs. 100.
+Example:
+Naveed is a chemist who is preparing an acid solution to be used as a cleaner for machine parts.
+The machine shop needs several batches of 200 ml of solution at a 48% concentration. He only
+has 60% and 40% concentration solutions. The two solutions can be combined to make the 48%
+solution. How much of each solution should Naveed use to make 200 ml of solution?
+Solution:
+Let x represent the amount of 60% solution and let y represent the amount of 40% solution.
+The total of two amount must be 200 ml.
+Now write an equation that represents the proportions of each solution needed.
+60% + 40% = 48%
+0.60 (x) + 0.40 (y) = 0.48 (x + y) Each part contribute to the total
+0.60 (x) + 0.40 (y) = 0.48 (x + y) Multiply 100 to remove the decimals
+x + y = 200 Write the equation in standard form
+12x – 8y = 0
+Step 1: Write a system of equations. Then write the system as a matrix equation.
+Unit-03: Matrices And Determinants 74 National Book Foundation
+x + y = 200, 12x – 8y = 0 in matrix form: AX = B, and X = A⁻¹B
+A = [1 –1], where A = [1 –1], X = [x] and B = [200]
+12 –8 12 –8 y 0
+Step 2: To solve the matrix equation, first find the inverse of the matrix A.
+A⁻¹ = 1/(–20 – (–12)) [–8 1] where |A| = –8 – (–12) = –20 and Adj. of A = [–8 1]
+–12 1 –12 1
+X = 1/–8 [–8 1][200] where X = A⁻¹B
+–12 1 0
+[x] = 1/–8 [ –1600 ] = [200]
+y –2400 300
+We have x = 80 and y = 120.
+This means that 80 ml of the 60% solution is added to 120 ml of the 40% solution to make
+200 ml of the 48% solution.
+Exercise 3.4
+1. From the two acute angles of a right triangle, one angle is 10 (degrees) less than the
+other. Find both the acute angles by using Cramer's rule.
+2. In a quiz, Abdullah correctly replied 15 out of 20 questions from literature and science,
+getting Rs.125. If every correct literature reply is credited Rs. 5 and every correct
+science reply is credited Rs. 10, then find the number of correct replies of literature and
+science separately.
+3. If Asad bought 3 notebooks and 2 books paying Rs. 600 and Iman bought 4 notebooks
+and 1 book paying Rs. 550, find the cost of each notebook and book? (Use Cramer's
+rule).
+4. Sum of ages of two sisters Sundas and Zenab is 22 years. If Sundas is 1 year older than
+twice the age of Zenab. Find the ages of both the sisters by using matrix inversion
+method.
+5. Two trucks have capacities of 10 tons and 12 tons. They made a total of 20 round trips to
+haul 226 tons of sand to the community park. How many round trips did each truck
+make?
+6. To make 20 kg of aluminum, a metallurgist wants to use two
+metals with 55% and 80% aluminum content. How much of each metal should he use.
+7. Soybean meal contains 16% protein and corn meal contains 9% protein. How many
+pounds of each should be mixed together in order to get a 350-lb mixture that is 12%
+protein?
+8. The perimeter of a lot is 190 m. The width is one fourth of the length. Find the
+dimensions.
+Unit-03: Matrices And Determinants 75 National Book Foundation
+I have Learnt
+• Displaying information in the form of matrices of order 2.
+• Calculating product of scalar quantity and a matrix.
+• Solving situations involving sum, difference and product of two matrices.
+• Evaluating the determinant and inverse of a matrix of order 2 by 2.
+• Solving the simultaneous linear equations in two variables using matrix inversion method
+and Cramer's rule.
+• Explaining with examples, how mathematics plays a key role in the development of new
+scientific theories and technologies.
+• Applying concepts of matrices to real world problems.
+MISCELLANEOUS EXERCISE-3
+1. Encircle the correct option in the following.
+i. If [5 3]^T = [5 x], then x =
+2 9 3 9
+(a) 6 (b) 4 (c) 6 (d) –4
+ii. If I₃ = [1 0 x], then
+0 z 0
+0 1 0
+(a) y = x = 1 (b) x = z = 0 (c) x = z = 1 (d) y = z = 1, x = 0
+iii. Additive inverse of unit matrix of order 2, is
+(a) [0 0] (b) [–1 0] (c) [0 1] (d) [1 0]
+0 0 0 –1 1 0 0 1
+iv. Multiplicative inverse of a null matrix of order 2, is
+(a) [0 0] (b) [0 0] (c) [0 0] (d) impossible
+0 0 0 0
+v. A is a symmetric matrix if
+(a) A^T ≠ A (b) (A^T)^T ≠ –A (c) (A^T)^T = A (d) A^T = A
+vi. [1/2 0] =
+0 1/2
+(a) 2 (b) [1 2] (c) [1/2 0] (d) impossible
+0 1
+vii. Order of matrix A is 1-by-2 and order of matrix B is 2-by-3 then order of AB is
+(a) 1-by-3 (b) 3-by-1 (c) 2-by-2 (d) 3-by-2
+viii. If AB = B, then A =......
+(a) I (b) A⁻¹ (c) B (d) B⁻¹
+ix. [15][3] [x]
+25 2
+(a) [95] (b) [45] (c) [45 50] (d) [75 50]
+Unit-03: Matrices And Determinants 76 National Book Foundation
+x. If |T| = –1 then T⁻¹ =
+(a) –T (b) adj T (c) –adj T (d) T
+xi. Matrix equation for y + x = 144 + y and x + 2y = x + 13 is
+(a) [1 1][x] = [144] (b) [1 0][x] = [144] (c) [1 1][x] = [144]
+0 2 y 13 0 2 y 13 1 2 y 13
+xii. The matrix of coefficients for x – y = 3, is
+(a) [3] (b) [1 –1] (c) [x y] (d) [1]
+xiii.[1 2][3] =
+2 1
+(a) [3 6] (b) [3 2] (c) [5] (d) impossible
+xiv. If A and B are two matrices, conformable for the product AB then (AB)^T =
+(a) A^T B^T (b) (BA)^T (c) B^T A^T (d) AB
+xv. If [–3 5], x – 1 is singular matrix, then x =
+x – 1 4
+(a) 4 (b) 6 (c) –6 (d) –4
+xvi. If adj A = [5 6], then |A| =
+2 3
+(a) adj A (b) |A| (c) –|A| (d) all a, b, c
+2. If P = [5 2], then show that PP⁻¹ = P⁻¹P = I.
+–4 1
+3. Solve: 5x – 4y = 2; 2y + 8 = 10x, by Matrix Inversion Method if possible.
+4. Use Cramer's rule for solution of 5x + 2y = 19 and 10x + 4y = 38, if possible.
+5. The daily sum of P and the material costs of Haani's and Massab's Home Industries are
+Rs.20,000 and Rs.40,000 respectively. If labour and the material rate, for both the Home
+Industries is same but Haani's Home Industry has 6 workers who make 80 items and Massab's
+Home Industry has 12 workers who make 160 items, find the labour and the material cost.
+Unit-03: Matrices And Determinants 77 National Book Foundation
+04
+Linear and Quadratic Inequalities
+After studying this unit students will be able to:
+• Solve linear inequalities in one variable.
+• Solve quadratic inequalities in one variable.
+• Solve two linear inequalities with two unknowns simultaneously.
+• Interpret and identify the region in plane bounded by two linear inequalities in two unknowns.
+You are checking a bag at an airport. Bags can weigh no more than 60 pounds.
+Your bag weighs 26.5 pounds. Find the possible weights 'w' (in pounds) that you
+can add to the bag.
+Write a model:
+Weight of bag + Weight you can add ≤ Weight limit
+26.5 + w ≤ 60 (writing inequalities)
+26.5 + w – 26.5 ≤ 60 – 26.5 (subtracting 26.5 from both sides)
+w ≤ 33.5 (simplifying)
+You can add less than 33.5 pounds.
+Inequalities in One Variable
+Furqan and Qasim are the hockey players in the school hockey team.
+If we compare their scoring for the season, only one of the following
+statements will be true:
+Furqan scored fewer goals than Qasim.
+Furqan scored same number of goals as Qasim.
+Furqan scored more goals than Qasim.
+Let 'a' represents the number of goals of Furqan
+and 'b' represents the number of goals of Qasim.
+We can compare the score using an inequality
+or an equation.
+a < b, a = b, a > b
+This is an example of trichotomy property.
+Trichotomy Property
+For any two real numbers a and b,
+exactly one of the following
+statements will be true:
+a < b, a > b, a = b
+Graph of Inequality
+On a number line, the graph of an inequality in one variable is the set of points that represents
+all solutions of the inequality. To graph an inequality in one variable, we use open circle for the
+symbols '<' or '>' and a closed circle for the symbols '≤' or '≥'.
+The graph of x < 1, x = 1 and x ≥ 1 respectively are:
+x < 1
+–3 –2 –1 0 1 2 3
+x = 1
+–3 –2 –1 0 1 2 3
+x ≥ 1
+–3 –2 –1 0 1 2 3
+Example: Solve 9x + 6 < 8x – 2. Graph the solution set.
+Solution:
+9x + 6 < 8x – 2
+9x + 6 – (8x) < 8x – 2 – (8x) (Add –8x to both sides)
+x + 6 < –2
+x + 6 – (–6) < –2 – (–6) (Add –6 to both sides)
+x < –8
+x < –8
+–13 –12 –11 –10 –9 –8 –7
+Circle indicates that –8 is not included.
+Any real number less than – 8 is solution.
+Unit-04: Linear and Quadratic Inequalities 79 National Book Foundation
+Check: Substitute –8 for x in 9x + 16 < 8x – 2, the inequalities should not be true.Then substitute a
+number less than –8, the inequality should be true.
+Key Fact:
+(i) Addition and subtraction properties of inequalities.
+For any real number a, b and c:
+• If a > b, then a + c > b + c and a – c > b – c
+• If a < b, then a + c < b + c and a – c < b – c
+(ii) Multiplication and division properties of inequalities.
+• If c is positive and a < b, then ac < bc and a/c < b/c
+• If c is positive and a > b, then ac > bc and a/c > b/c
+• If c is negative and a < b, then ac > bc and a/c > b/c
+• If c is negative and a > b, then ac < bc and a/c < b/c
+Example: Solve 6x – 7 ≥ 2x + 17. Graph the solution.
+Solution: 6x – 7 ≥ 2x + 17.
+6x – 7 + 7 ≥ 2x + 17 + 7 (adding 7 on both sides)
+6x ≥ 2x + 24
+6x – 2x ≥ 2x + 24 – 2x (subtracting 2x from both sides)
+4x ≥ 24 (dividing both sides by 4)
+x ≥ 6
+x ≥ 6
+5 6 7 8 9 10 11
+Example: Solve and graph the solution
+10.7x – 6 + 5.5x ≥ 3(5x – 3)
+Solution: 10.7x – 6 + 5.5x ≥ 3(5x – 3)
+16.2 x – 6 ≥ 15x – 9
+16.2x – 15x ≥ –9 + 6
+1.2x ≥ –3
+x ≥ –2.5
+x ≥ –2.5
+Check Point:
+Describe and correct the error.
+a. 17 – 3x ≥ 56
+–3x ≥ 39 ⇒ x ≥ –13
+b. –4(2x – 3) < 28
+–8x – 12 < 28
+–8x < –40 ⇒ x > 5
+–3 –2.5 –2 –1.5 –1 –0.5 0
+Unit-04: Linear and Quadratic Inequalities 80 National Book Foundation
+Solving Quadratic Inequalities
+We will discuss the solution of quadratic inequalities in one variable. Quadratic inequalities can
+be derived from quadratic equations. The word 'Quadratic' comes from the word 'Quadratum'
+which means square in Latin. From this, we can define quadratic inequalities on second degree
+equation. The general form of a quadratic equation is ax² + bx + c = 0. Further if the quadratic
+polynomial ax² + bx + c is not equal to zero, then they are either ax² + bx + c > 0 or
+ax² + bx + c < 0 and are called quadratic inequalities. We explain quadratic inequalities with
+daily life example.
+Consider a ball is thrown upward with an initial velocity of 64 feet per second.
+The function h(t) = 64t – 16 t² gives the height of the ball after
+t seconds. During what time span is the ball in flight? We can find
+the times that the ball is in flight by solving the inequality
+64t – 16t² > 0.
+64t – 16t² > 0
+–16t² + 64t > 0
+–16t(t – 4) > 0
+This inequality shows that the product of two numbers is positive
+if both of the numbers (–16t, t – 4) are positive or both are negative.
+Case I:
+When both numbers are positive
+–16t > 0 and t – 4 > 0
+t < 0 and t > 4
+Here, t < 0 and at the same time t > 4
+is never true.
+Case II:
+When both numbers are negative
+–16t < 0 and t – 4 < 0
+t > 0 and t < 4
+Means: 0 < t and t < 4
+0 < t < 4
+The solution set is {0 < t < 4}. So, the ball is in flight between 0 and 4 seconds after it is thrown.
+Example: Solve x² – 4x – 12 > 0
+Solution: x² – 4x – 12 > 0
+x² – 6x + 2x – 12 > 0 ⇒ x(x – 6) + 2(x – 6) > 0
+(x – 6)(x + 2) > 0
+Another way that you can solve quadratic inequalities is by using three test points.
+First solve the equation (x – 6)(x + 2) = 0
+x – 6 = 0 or x + 2 = 0
+x = 6, x = –2
+These solutions are called critical points. The points –2 and 6 separate the x-axis into three
+regions x < –2, –2 < x < 6, x > 6.
+Unit-04: Linear and Quadratic Inequalities 81 National Book Foundation
+–2 < x < 6
+–6 –5 –4 –3 –2 –1 0 1 2 3 4 5 6 7
+x = –2 x = 6
+Choose a value from each of the parts and substitute it into (x – 6)(x + 2) > 0.
+Construct a table to organize your results.
+Part of x-axis
+Point x
+(x – 6)(x + 2)
+Is (x – 6)(x + 2) > 0?
+x < –2
+–3
+(–3 – 6)(–3 + 2) = 9
+Yes
+2 < x < 6
+0
+(0 – 6)(0 + 2) = –12
+No
+x > 6
+8
+(8 – 6)(8 + 2) = 20
+Yes
+The part of x-axis where points are solution of (x – 6)(x + 2) > 0, belongs to the solution set.
+The solution set is {x|x < –2 or x > 6}.
+x < –2 x > 6
+–4 –3 –2 –1 0 1 2 3 4 5 6 7
+Example: Find the solution set of x² + 6x – 27 ≤ 0.
+Solution: x² + 6x – 27 ≤ 0 ⇒ x² + 9x – 3x – 27 ≤ 0
+(x + 9)(x – 3) ≤ 0
+First solve the equation (x + 9)(x – 3) = 0
+x + 9 = 0 or x – 3 = 0
+x = –9 or x = 3
+The point 3 and –9 are separate, its x-axis in three parts.
+Make a table to organize results.
+Part of x-axis
+Point x
+(x – 3)(x + 9)
+Is (x – 3)(x + 9) ≤ 0?
+x ≥ 3
+4
+(4 – 3)(4 + 9) = 13
+No
+–9 ≤ x ≤ 3
+0
+(0 – 3)(0 + 9) = –27
+Yes
+x ≤ 9
+–10
+(–10 – 3)(–10 + 9) = 12
+No
+Unit-04: Linear and Quadratic Inequalities 82 National Book Foundation
+–9 ≤ x ≤ 3
+–10 –9 –8 –7 –6 –5 –4 –3 –2 –1 0 1 2 3 4 5
+Exercise 4.1
+Solve the inequality and graph the solution.
+1. 5x – 12 ≤ 3x – 4 2. 1 – 8x ≤ 4 – 2x
+3. –2 / 3 x < 1 / 2 x + 8
+4. 8 – x/5 > –14 + 2x 5. –0.6 (x – 5) ≤ 15
+6. –1/4 (x – 12) > –2
+7. Translate the phrase into an inequality. Then solve the inequality and graph the solution.
+7. Four more than the product of 3 and x is less than 40.
+8. Twice the sum of x and 8 appears less than or equal to –2.
+Write and solve an inequality to find the possible values of
+9. Area > 81 square feet 10. Area ≤ 44 square centimeters
+A rectangular piece of cardboard has a length of (x + 2) feet and a width of x feet. The area
+of the cardboard must be greater than 24 square feet. Find all possible values of x.
+(x + 2) ft
+x ft
+8 cm
+(x + 1) cm
+Solve each inequality
+11. (x + 1)(x – 3) > 0 12. (x – 9)(x + 1) < 0 13. x² – 90 > 0
+14. x² + 4x – 21 < 0 15. x² + 8x + 16 ≤ 0 16. 9x² – 6x + 1 ≤ 0
+17. Mr. Khalid has a field and want to make a rectangular garden with perimeter of 68ft. He
+would like the area of a garden to be at least 240 square feet. What would the width of
+the garden be?
+18. Are –2, –1, 0, 1 be the solution of the inequality 2x² + 3x + 1 ≤ 0.
+19. The stopping distance d (x) (in meters) of a car traveling at x km/h is modeled by
+d(x) = 0.05x² + 0.2x. If the maximum stopping distance allowed in a school zone is 35
+meters, find the speed range that ensures the stopping distance does not exceed this
+limit.
+20. Find a rectangular garden to be enclosed with a fence. The total length of the fence is at
+most 60 meters and the width x of the garden is twice its length. Find the possible
+dimensions of the garden.
+Unit-04: Linear and Quadratic Inequalities 83 National Book Foundation
+Solving System of Linear Inequalities
+Mr. Waleed wants to rent a car for a business trip. A car rental company advertises that their
+rental rate is Rs.9000 plus Rs.60 per km. Mr. Waleed would like to compare this rate with the
+rates offered by other car rental agencies. First, he determines the equation containing the points
+that represent the relationship between the numbers
+of km (x) and the total cost (y). The
+initial cost of the car is Rs. 9000. Since this is the
+point where zero km are driven, it would be the
+y-intercept of the graph.
+The slope would be the rate of change in the total
+cost. In this case, the rate is Rs.60 per km.
+Since the slope is 60. Thus, an equation of the
+line is y = 60x + 9000.
+km (x)
+Cost (y)
+0 9000
+20 10200
+40 11400
+100 15000
+15000
+14000
+13000
+12000
+11000
+10000
+9000
+20 40 60 80 100
+The graph of y = 60x + 9000 separates the
+coordinate plane into two regions.
+The line is called boundary of the region. To
+graph an inequality, first you graph the boundary
+and then determine which region to shade. The
+graph y > 60x + 9000 contains the points that are
+located above the boundary.
+15000
+14000
+13000
+12000
+11000
+10000
+9000
+20 40 60 80 100
+In that region, the value of the dependent
+variable y is greater than the value of 60x + 9000.
+This graph represents car rental costs that are
+greater than those offered by car rental company
+A. For example, another company B charges
+14000 for a car rental with 50km.
+The point (50, 14000) lies above the boundary.
+Unit-04: Linear and Quadratic Inequalities 84 National Book Foundation
+The graph of y > 60x + 9000 contains points that
+are located below the boundary. In that region,
+the value of y is less than the value of 60x + 9000.
+The graph represents car rental costs that are less
+than those offered by company A.
+For example, a company C charges 14000 For a
+car rental with 100km. the point (100, 14000)
+lies below the boundary.
+15000
+14000
+13000
+12000
+11000
+10000
+9000
+20 40 60 80 100
+• When graphing an inequality, the boundary
+you draw may be solid or dashed.
+• If the inequality uses the symbol ≤ or ≥
+which include equality then the boundary will
+be solid. Otherwise, it will be dashed.
+• After graphing the boundary, you must
+determine which region is to be shaded. Test
+a point on one side of the line. If the ordered
+pair satisfies the inequality, that region
+contains solution of the inequality. If the
+ordered pair does not satisfy the inequality,
+the other region is the solution.
+Key Fact:
+A linear inequality in two variables: such
+as x – 3y < 6, is the result of replacing
+the "=" in a linear equation with
+"<, ≤, > or ≥. A solution of an inequality
+in two variables x and y is an ordered pair
+(x, y) that produces a true statement
+when the values of x and y are satisfied
+into the inequality.
+Example: Which ordered pair is not a solution of x – 3y ≤ 6?
+a. (0, 0) b. (6, –1) c. (10, 3) d. (–1, 2)
+Solution:
+Test (0, 0): x – 3y ≤ 6 (Write inequality)
+0 – 3(0) ≤ 6 (Substitute 0 for x and 0 for y.)
+0 ≤ 6 (True)
+Test (6, –1): x – 3y ≤ 6 (Write inequality)
+6 – 3(–1) ≤ 6 (Substitute 6 for x and –1 for y.)
+9 ≤ 6 (False)
+Similarly, (10, 3) and (–1, 2) also true but
+(6, –1) is not a solution.
+Feasible region
+Inequalities represent regions graphically. Below are the
+rules in drawing feasible region.
+Dashed line
+Solid line
+Unit-04: Linear and Quadratic Inequalities 85 National Book Foundation
+Example: Graph the inequality y > 5x – 4.
+Solution:
+Step I: Graph the equation y = 5x – 4.
+The inequality is >, use a dashed line.
+Step II: Test (0, 0) in y > 5x – 4.
+0 > 5(0) – 4
+0 > –4 (True)
+Step III: Shade the half plane that
+contains (0, 0) because (0, 0) is a
+solution of the inequality.
+10
+–10
+10
+Example: Graph the in equality x + 2y ≤ 0.
+Solution:
+Step I: Graph the equation x + 2y = 0.
+The inequality is ≤, use a solid line.
+Step II: Test (1, 0) in x + 2y ≤ 0.
+1 + 2(0) ≤ 0
+1 ≤ 0 (False)
+Step III: Shade the half plane that
+does not contain (1, 0) because (1, 0) is
+not a solution of the inequality.
+Solution
+10
+–10
+10
+Example: Graph the in equality y ≥ –2
